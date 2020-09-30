@@ -1,0 +1,90 @@
+Event	ID	Name			Wwise Object Path	Notes
+	196357682	Footsteps_Player			\Default Work Unit\Player Sounds\Footsteps_Player	
+	232609382	ItemGrab			\Default Work Unit\Player Sounds\ItemGrab	
+	376425328	DoctorVoice_Tutorial_02			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_02	
+	376425329	DoctorVoice_Tutorial_03			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_03	
+	376425331	DoctorVoice_Tutorial_01			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_01	
+	376425334	DoctorVoice_Tutorial_04			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_04	
+	503156359	DoctorVoice_PlayerSpawn_repeat			\Default Work Unit\Player Sounds\DoctorDialogue_Spawn\DoctorVoice_PlayerSpawn_repeat	
+	509655254	DoctorVoice_Tutorial_02_repeat			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_02_repeat	
+	852974793	DoctorVoice_Tutorial_03_repeat			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_03_repeat	
+	1126494853	Flashlight_OFF			\Default Work Unit\Player Sounds\Flashlight_OFF	
+	1771880628	Stamina			\Default Work Unit\Player Sounds\Stamina	
+	2033671033	Flashlight_ON			\Default Work Unit\Player Sounds\Flashlight_ON	
+	2096310421	FreezeItem			\Default Work Unit\Player Sounds\FreezeItem	
+	2179486487	Heartbeat			\Default Work Unit\Player Sounds\Heartbeat	
+	2419553536	GlassBreak			\Default Work Unit\Player Sounds\GlassBreak	
+	2631852546	DistractItem			\Default Work Unit\Player Sounds\DistractItem	
+	3838622763	DoctorVoice_PlayerSpawn			\Default Work Unit\Player Sounds\DoctorDialogue_Spawn\DoctorVoice_PlayerSpawn	
+	3849062479	DoctorVoice_Tutorial_01_repeat			\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_01_repeat	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3930136735	Dialogue			\Default Work Unit\Dialogue	
+	4160739938	MoveType			\Default Work Unit\MoveType	
+
+Switch	ID	Name	Switch Group			Notes
+	157258650	PlayerSpawn_Switch	Dialogue			
+	390642073	AnkhorsMightFound_Switch	Dialogue			
+	1564237384	WhatWasThat_Switch	Dialogue			
+	1686976533	ExcellentTheyreLogged_Switch	Dialogue			
+	1826937055	SpiritIntro_Switch	Dialogue			
+	2230896494	FindTheLastArtifact_Switch	Dialogue			
+	2335807390	AnkhorsCallFound_Switch	Dialogue			
+	2483655096	AhHereTheyAre01_Switch	Dialogue			
+	2581201048	AnotherDayOfWork01_Switch	Dialogue			
+	2610158453	AnkhorsKeyFound_Switch	Dialogue			
+	2855479274	ExcellentTheyreLogged01_Switch	Dialogue			
+	3298163021	PlayerSpawn01_Switch	Dialogue			
+	3753820235	AnotherDayOfWork_Switch	Dialogue			
+	3796661455	FindTheRestArtifacts_Switch	Dialogue			
+	3822703979	AhHereTheyAre_Switch	Dialogue			
+	899311691	Run_Switch	MoveType			
+	2274660714	Idle_Switch	MoveType			
+	2699702930	Crouch_Switch	MoveType			
+	2857728357	Walk_Switch	MoveType			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	4071417932	Player_State			\Default Work Unit\Player_State	
+
+State	ID	Name	State Group			Notes
+	0	None	Player_State			
+	1160234136	Normal	Player_State			
+	4174463524	Danger	Player_State			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	519771265	Danger	Player_State	\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Heartbeat_01		
+	887120376	Normal	Player_State	\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Heartbeat_01		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	215992295	Player_Health			\Default Work Unit\Player_Health	
+	3856639305	Distance_PlayerObject_RTPC			\Default Work Unit\Distance_PlayerObject_RTPC	
+
+Effect plug-ins	ID	Name	Type				Notes
+	239576233	Wwise Delay (Custom)	Wwise Delay			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	59355176	PlayerSpawn	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Spawn_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\PlayerSpawn		2145084
+	68772603	PlayerSpawn_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Spawn_01_repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\PlayerSpawn_01		538652
+	95242357	Freeze_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Freeze_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Items\Freeze_01		768144
+	107990563	Excellent, they're logged	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_03_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Excellent, they're logged		4329524
+	148731238	ItemGrab_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\ItemGrab_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Items\ItemGrab_01		95984
+	189271403	Footstep_2	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151238__owlstorm__hard-female-footstep-2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Player_01\FootstepsContainer_Run\Footstep_2		35524
+	320455000	Flashlight_ON	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Flashlight_ON_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Items\Flashlight_ON		105704
+	351961303	Ah, here they are	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Ah, here they are		1922052
+	353693053	Heartbeat_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Heartbeat_01_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Heartbeat_01		19264
+	539713999	What was that	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_04_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\What was that		134644
+	541333710	Flashlight_OFF	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Flashlight_OFF_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Items\Flashlight_OFF		96592
+	553417038	Ah, here they are_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_02_repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Ah, here they are_01		732248
+	567477671	Footstep_1	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151232__owlstorm__hard-female-footstep-1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Player_01\FootstepsContainer_Run\Footstep_1		44856
+	600665470	Panting_02	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Panting_02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Stamina\PantingContainer\Panting_02		801484
+	615528563	Excellent, they're logged_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_03_repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Excellent, they're logged_01		836848
+	654837838	GlassBreak_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\GlassBreak_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\GlassBreak_01		135048
+	816117101	Footstep_3	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151237__owlstorm__hard-female-footstep-3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Player_01\FootstepsContainer_Run\Footstep_3		43904
+	859621788	Panting_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Panting_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Stamina\PantingContainer\Panting_01		695404
+	989681258	Distract_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Distract_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Items\Distract_01		768064
+	996915840	Another Day of Work_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_01_repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Another Day of Work_01		787260
+	1043334393	Another Day of Work	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Voice_Doctor_Tutorial_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\PlayerDialogue\Another Day of Work		1947448
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	353693053	Heartbeat_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Heartbeat_01_8956FC97.wem	353693053.wem	\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Heartbeat_01	
+

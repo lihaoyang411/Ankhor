@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 260429d077a3b46f08e8ad8354401144
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door_Opening
+    100002: Door_Opening2
+    100004: Door_Opening_10
+    100006: Door_Opening_11
+    100008: Door_Opening_12
+    100010: Door_Opening_14
+    100012: Door_Opening_15
+    100014: Door_Opening_16
+    100016: Door_Opening_3
+    100018: Door_Opening_5
+    100020: Door_Opening_7
+    100022: Door_Opening_8
+    100024: Door_Opening_9
+    100026: Door_Opening__13
+    100028: Door_Opening__4
+    100030: Door_Opening__6
+    100032: Handle_locker
+    100034: Handle_locker 1
+    100036: Handle_locker 10
+    100038: Handle_locker 11
+    100040: Handle_locker 12
+    100042: Handle_locker 13
+    100044: Handle_locker 14
+    100046: Handle_locker 15
+    100048: Handle_locker 2
+    100050: Handle_locker 3
+    100052: Handle_locker 4
+    100054: Handle_locker 5
+    100056: Handle_locker 6
+    100058: Handle_locker 7
+    100060: Handle_locker 8
+    100062: Handle_locker 9
+    100064: Locker
+    100066: Locker 1
+    100068: Locker 10
+    100070: Locker 11
+    100072: Locker 12
+    100074: Locker 13
+    100076: Locker 14
+    100078: Locker 15
+    100080: Locker 2
+    100082: Locker 3
+    100084: Locker 4
+    100086: Locker 5
+    100088: Locker 6
+    100090: Locker 7
+    100092: Locker 8
+    100094: Locker 9
+    100096: Locker1
+    100098: Locker1 1
+    100100: Locker1 10
+    100102: Locker1 11
+    100104: Locker1 12
+    100106: Locker1 13
+    100108: Locker1 14
+    100110: Locker1 15
+    100112: Locker1 2
+    100114: Locker1 3
+    100116: Locker1 4
+    100118: Locker1 5
+    100120: Locker1 6
+    100122: Locker1 7
+    100124: Locker1 8
+    100126: Locker1 9
+    100128: Locker_1
+    100130: Locker_10
+    100132: Locker_11
+    100134: Locker_12
+    100136: Locker_13
+    100138: Locker_14
+    100140: Locker_15
+    100142: Locker_16
+    100144: Locker_2
+    100146: Locker_3
+    100148: Locker_4
+    100150: Locker_5
+    100152: Locker_6
+    100154: Locker_7
+    100156: Locker_8
+    100158: Locker_9
+    100160: LOcker_base
+    100162: //RootNode
+    400000: Door_Opening
+    400002: Door_Opening2
+    400004: Door_Opening_10
+    400006: Door_Opening_11
+    400008: Door_Opening_12
+    400010: Door_Opening_14
+    400012: Door_Opening_15
+    400014: Door_Opening_16
+    400016: Door_Opening_3
+    400018: Door_Opening_5
+    400020: Door_Opening_7
+    400022: Door_Opening_8
+    400024: Door_Opening_9
+    400026: Door_Opening__13
+    400028: Door_Opening__4
+    400030: Door_Opening__6
+    400032: Handle_locker
+    400034: Handle_locker 1
+    400036: Handle_locker 10
+    400038: Handle_locker 11
+    400040: Handle_locker 12
+    400042: Handle_locker 13
+    400044: Handle_locker 14
+    400046: Handle_locker 15
+    400048: Handle_locker 2
+    400050: Handle_locker 3
+    400052: Handle_locker 4
+    400054: Handle_locker 5
+    400056: Handle_locker 6
+    400058: Handle_locker 7
+    400060: Handle_locker 8
+    400062: Handle_locker 9
+    400064: Locker
+    400066: Locker 1
+    400068: Locker 10
+    400070: Locker 11
+    400072: Locker 12
+    400074: Locker 13
+    400076: Locker 14
+    400078: Locker 15
+    400080: Locker 2
+    400082: Locker 3
+    400084: Locker 4
+    400086: Locker 5
+    400088: Locker 6
+    400090: Locker 7
+    400092: Locker 8
+    400094: Locker 9
+    400096: Locker1
+    400098: Locker1 1
+    400100: Locker1 10
+    400102: Locker1 11
+    400104: Locker1 12
+    400106: Locker1 13
+    400108: Locker1 14
+    400110: Locker1 15
+    400112: Locker1 2
+    400114: Locker1 3
+    400116: Locker1 4
+    400118: Locker1 5
+    400120: Locker1 6
+    400122: Locker1 7
+    400124: Locker1 8
+    400126: Locker1 9
+    400128: Locker_1
+    400130: Locker_10
+    400132: Locker_11
+    400134: Locker_12
+    400136: Locker_13
+    400138: Locker_14
+    400140: Locker_15
+    400142: Locker_16
+    400144: Locker_2
+    400146: Locker_3
+    400148: Locker_4
+    400150: Locker_5
+    400152: Locker_6
+    400154: Locker_7
+    400156: Locker_8
+    400158: Locker_9
+    400160: LOcker_base
+    400162: //RootNode
+    2100000: lambert22
+    2100002: StingrayPBS7
+    2100004: blue_blinn4
+    2300000: Handle_locker
+    2300002: Handle_locker 1
+    2300004: Handle_locker 10
+    2300006: Handle_locker 11
+    2300008: Handle_locker 12
+    2300010: Handle_locker 13
+    2300012: Handle_locker 14
+    2300014: Handle_locker 15
+    2300016: Handle_locker 2
+    2300018: Handle_locker 3
+    2300020: Handle_locker 4
+    2300022: Handle_locker 5
+    2300024: Handle_locker 6
+    2300026: Handle_locker 7
+    2300028: Handle_locker 8
+    2300030: Handle_locker 9
+    2300032: Locker
+    2300034: Locker 1
+    2300036: Locker 10
+    2300038: Locker 11
+    2300040: Locker 12
+    2300042: Locker 13
+    2300044: Locker 14
+    2300046: Locker 15
+    2300048: Locker 2
+    2300050: Locker 3
+    2300052: Locker 4
+    2300054: Locker 5
+    2300056: Locker 6
+    2300058: Locker 7
+    2300060: Locker 8
+    2300062: Locker 9
+    2300064: Locker1
+    2300066: Locker1 1
+    2300068: Locker1 10
+    2300070: Locker1 11
+    2300072: Locker1 12
+    2300074: Locker1 13
+    2300076: Locker1 14
+    2300078: Locker1 15
+    2300080: Locker1 2
+    2300082: Locker1 3
+    2300084: Locker1 4
+    2300086: Locker1 5
+    2300088: Locker1 6
+    2300090: Locker1 7
+    2300092: Locker1 8
+    2300094: Locker1 9
+    2300096: LOcker_base
+    3300000: Handle_locker
+    3300002: Handle_locker 1
+    3300004: Handle_locker 10
+    3300006: Handle_locker 11
+    3300008: Handle_locker 12
+    3300010: Handle_locker 13
+    3300012: Handle_locker 14
+    3300014: Handle_locker 15
+    3300016: Handle_locker 2
+    3300018: Handle_locker 3
+    3300020: Handle_locker 4
+    3300022: Handle_locker 5
+    3300024: Handle_locker 6
+    3300026: Handle_locker 7
+    3300028: Handle_locker 8
+    3300030: Handle_locker 9
+    3300032: Locker
+    3300034: Locker 1
+    3300036: Locker 10
+    3300038: Locker 11
+    3300040: Locker 12
+    3300042: Locker 13
+    3300044: Locker 14
+    3300046: Locker 15
+    3300048: Locker 2
+    3300050: Locker 3
+    3300052: Locker 4
+    3300054: Locker 5
+    3300056: Locker 6
+    3300058: Locker 7
+    3300060: Locker 8
+    3300062: Locker 9
+    3300064: Locker1
+    3300066: Locker1 1
+    3300068: Locker1 10
+    3300070: Locker1 11
+    3300072: Locker1 12
+    3300074: Locker1 13
+    3300076: Locker1 14
+    3300078: Locker1 15
+    3300080: Locker1 2
+    3300082: Locker1 3
+    3300084: Locker1 4
+    3300086: Locker1 5
+    3300088: Locker1 6
+    3300090: Locker1 7
+    3300092: Locker1 8
+    3300094: Locker1 9
+    3300096: LOcker_base
+    4300000: LOcker_base
+    4300002: Locker
+    4300004: Locker1
+    4300006: Handle_locker
+    4300008: Locker
+    4300010: Locker1
+    4300012: Handle_locker
+    4300014: Locker
+    4300016: Handle_locker
+    4300018: Locker1
+    4300020: Locker
+    4300022: Locker1
+    4300024: Handle_locker
+    4300026: Locker
+    4300028: Locker1
+    4300030: Handle_locker
+    4300032: Locker
+    4300034: Locker1
+    4300036: Handle_locker
+    4300038: Locker
+    4300040: Locker1
+    4300042: Handle_locker
+    4300044: Locker
+    4300046: Locker1
+    4300048: Handle_locker
+    4300050: Locker
+    4300052: Locker1
+    4300054: Handle_locker
+    4300056: Locker
+    4300058: Locker1
+    4300060: Handle_locker
+    4300062: Locker
+    4300064: Locker1
+    4300066: Handle_locker
+    4300068: Locker
+    4300070: Locker1
+    4300072: Handle_locker
+    4300074: Locker
+    4300076: Locker1
+    4300078: Handle_locker
+    4300080: Locker
+    4300082: Locker1
+    4300084: Handle_locker
+    4300086: Locker
+    4300088: Locker1
+    4300090: Handle_locker
+    4300092: Locker
+    4300094: Locker1
+    4300096: Handle_locker
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0047b80bd8c649528d334d645eee461, type: 3}
+  m_Name: ACBF21C8-EC01-4EE9-BD50-B3215C9DAE07
+  m_EditorClassIdentifier: 
+  objectName: Stingers
+  id: 2940432316
+  guid: ACBF21C8-EC01-4EE9-BD50-B3215C9DAE07

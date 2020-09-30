@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	658105802	SpiritVoice_Might_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_Might_01	
+	2540015859	SpiritVoice_Call_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_Call_01	
+	2724545734	SpiritVoice_Key_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_Key_01	
+	3375416801	SpiritVoice_FindTheRest_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_FindTheRest_01	
+	3735691563	SpiritVoice_Intro_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_Intro_01	
+	4000694591	SpiritVoice_FindtheLast_01			\Default Work Unit\Spirit Dialogue\SpiritVoice_FindtheLast_01	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3930136735	Dialogue			\Default Work Unit\Dialogue	
+
+Switch	ID	Name	Switch Group			Notes
+	157258650	PlayerSpawn_Switch	Dialogue			
+	390642073	AnkhorsMightFound_Switch	Dialogue			
+	1564237384	WhatWasThat_Switch	Dialogue			
+	1686976533	ExcellentTheyreLogged_Switch	Dialogue			
+	1826937055	SpiritIntro_Switch	Dialogue			
+	2230896494	FindTheLastArtifact_Switch	Dialogue			
+	2335807390	AnkhorsCallFound_Switch	Dialogue			
+	2483655096	AhHereTheyAre01_Switch	Dialogue			
+	2581201048	AnotherDayOfWork01_Switch	Dialogue			
+	2610158453	AnkhorsKeyFound_Switch	Dialogue			
+	2855479274	ExcellentTheyreLogged01_Switch	Dialogue			
+	3298163021	PlayerSpawn01_Switch	Dialogue			
+	3753820235	AnotherDayOfWork_Switch	Dialogue			
+	3796661455	FindTheRestArtifacts_Switch	Dialogue			
+	3822703979	AhHereTheyAre_Switch	Dialogue			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3732311710	Distance_PlayerEnemy_RTPC			\Default Work Unit\Distance_PlayerEnemy_RTPC	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	271811281	Voice_Spirit_Intro_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_Intro_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_Intro_01		6816144
+	350507874	Voice_Spirit_Key_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_Key_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_Key_01		3168144
+	670273697	Voice_Spirit_Call_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_Call_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_Call_01		3072144
+	877518053	Voice_Spirit_Freeze_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_Goodbye_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_Freeze_01		3648144
+	888028148	Voice_Spirit_LastArtifact_01_Repeat	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_LastArtifact_01_Repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_LastArtifact_01_Repeat		768144
+	989866507	Voice_Spirit_RestOfArtifacts_01_Repeat	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Voice_Spirit_RestOfArtifacts_01_Repeat_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dialogue\Doctor Lines\SpiritDialogue\Voice_Spirit_RestOfArtifacts_01_Repeat		864144
+

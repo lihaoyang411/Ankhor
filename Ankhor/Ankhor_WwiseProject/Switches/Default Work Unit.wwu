@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C635C84A-EBC0-466C-B33B-E83F99C9D57B}" SchemaVersion="89">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{C635C84A-EBC0-466C-B33B-E83F99C9D57B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="MoveType" ID="{674105D7-C429-4224-B14B-7004298E8823}">
+					<ChildrenList>
+						<Switch Name="Run_Switch" ID="{BD2022D5-236D-4ABA-988C-1EBBBAFF3CA3}"/>
+						<Switch Name="Walk_Switch" ID="{5B1CD025-7787-4FD1-93CE-F595DAB0E617}"/>
+						<Switch Name="Crouch_Switch" ID="{4A2E37D3-359F-4735-B06C-48CCE9F76853}"/>
+						<Switch Name="Idle_Switch" ID="{714EE6E5-E163-4E31-BB29-0D151C654489}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Stamina" ID="{8E563CB8-486C-4C0B-BC5F-24F283DBBE9A}">
+					<ChildrenList>
+						<Switch Name="EmptyStamina_Switch" ID="{07904E1B-E253-479F-B8DF-D530F70ED8AF}"/>
+						<Switch Name="FullStamina_Switch" ID="{E3CB69A2-7B66-4875-B671-FEFD6745E0B8}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="MenuMusic" ID="{D8A46A35-9F69-42BA-B770-4CFE8E1E7977}">
+					<ChildrenList>
+						<Switch Name="MenuMusicOn_Switch" ID="{CE98DE04-6586-4DEC-981F-491C96149DBC}"/>
+						<Switch Name="MenuMusicOff_Switch" ID="{901F0471-7A64-4BFF-BB8F-9A7AF94BD0B0}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Dialogue" ID="{3820A288-9151-49E5-8249-7CCE61F37634}">
+					<ChildrenList>
+						<Switch Name="AhHereTheyAre_Switch" ID="{5B2F978F-4D09-4B20-B291-801EDE77276F}"/>
+						<Switch Name="AnotherDayOfWork_Switch" ID="{0223ED1E-9416-496B-AF67-ED282D03827A}"/>
+						<Switch Name="AnotherDayOfWork01_Switch" ID="{3B324D2D-363D-4103-AC13-192126D723E1}"/>
+						<Switch Name="ExcellentTheyreLogged_Switch" ID="{DBB53770-3F07-4C3F-9684-925246FED3FE}"/>
+						<Switch Name="ExcellentTheyreLogged01_Switch" ID="{62DC852D-76D4-4EA1-80F9-B3EA2A3A25ED}"/>
+						<Switch Name="WhatWasThat_Switch" ID="{F6808548-7C7F-422D-8162-AD9EF14CA55A}"/>
+						<Switch Name="AhHereTheyAre01_Switch" ID="{27BFFA9E-DDEE-496D-8FA6-8441117C3398}"/>
+						<Switch Name="PlayerSpawn_Switch" ID="{28D82209-1D29-4610-A433-39303D9AD9E1}"/>
+						<Switch Name="PlayerSpawn01_Switch" ID="{C9057FC8-C477-4C30-940F-FA8F2F9767A3}"/>
+						<Switch Name="AnkhorsCallFound_Switch" ID="{CC3F0112-AC1C-496B-A7F1-6D8BAC8A195F}"/>
+						<Switch Name="AnkhorsKeyFound_Switch" ID="{F32A8209-70A4-4D63-B190-2944E13DCD84}"/>
+						<Switch Name="AnkhorsMightFound_Switch" ID="{9C7556D3-EA18-4237-8F01-EF8AC16035D6}"/>
+						<Switch Name="SpiritIntro_Switch" ID="{A7826148-3E5B-4217-BD86-9A8339ECBD34}"/>
+						<Switch Name="FindTheLastArtifact_Switch" ID="{E28A8435-B68F-41C4-A144-2E266A4F3E8C}"/>
+						<Switch Name="FindTheRestArtifacts_Switch" ID="{6AEC418C-3073-4FC5-9D7F-90952F790413}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

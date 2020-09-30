@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6c98c36424d0b4a6fa191bda670c5ff5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: green_sofa_pole10
+    100004: green_sofa_pole11
+    100006: green_sofa_pole12
+    100008: green_sofa_pole13
+    100010: green_sofa_pole14
+    100012: green_sofa_pole7
+    100014: green_sofa_pole8
+    100016: green_sofa_pole9
+    100018: Sofa_19
+    100020: Sofa_20
+    100022: Sofa_21
+    100024: Sofa_22
+    100026: Sofa_23
+    100028: Sofa_24
+    100030: Sofa_25
+    400000: //RootNode
+    400002: green_sofa_pole10
+    400004: green_sofa_pole11
+    400006: green_sofa_pole12
+    400008: green_sofa_pole13
+    400010: green_sofa_pole14
+    400012: green_sofa_pole7
+    400014: green_sofa_pole8
+    400016: green_sofa_pole9
+    400018: Sofa_19
+    400020: Sofa_20
+    400022: Sofa_21
+    400024: Sofa_22
+    400026: Sofa_23
+    400028: Sofa_24
+    400030: Sofa_25
+    2100000: StingrayPBS1
+    2100002: Black_blin1
+    2300000: green_sofa_pole10
+    2300002: green_sofa_pole11
+    2300004: green_sofa_pole12
+    2300006: green_sofa_pole13
+    2300008: green_sofa_pole14
+    2300010: green_sofa_pole7
+    2300012: green_sofa_pole8
+    2300014: green_sofa_pole9
+    2300016: Sofa_19
+    2300018: Sofa_20
+    2300020: Sofa_21
+    2300022: Sofa_22
+    2300024: Sofa_23
+    2300026: Sofa_24
+    2300028: Sofa_25
+    3300000: green_sofa_pole10
+    3300002: green_sofa_pole11
+    3300004: green_sofa_pole12
+    3300006: green_sofa_pole13
+    3300008: green_sofa_pole14
+    3300010: green_sofa_pole7
+    3300012: green_sofa_pole8
+    3300014: green_sofa_pole9
+    3300016: Sofa_19
+    3300018: Sofa_20
+    3300020: Sofa_21
+    3300022: Sofa_22
+    3300024: Sofa_23
+    3300026: Sofa_24
+    3300028: Sofa_25
+    4300000: Sofa_19
+    4300002: green_sofa_pole14
+    4300004: green_sofa_pole13
+    4300006: green_sofa_pole12
+    4300008: Sofa_25
+    4300010: Sofa_24
+    4300012: green_sofa_pole11
+    4300014: Sofa_23
+    4300016: green_sofa_pole10
+    4300018: green_sofa_pole9
+    4300020: green_sofa_pole8
+    4300022: green_sofa_pole7
+    4300024: Sofa_21
+    4300026: Sofa_20
+    4300028: Sofa_22
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

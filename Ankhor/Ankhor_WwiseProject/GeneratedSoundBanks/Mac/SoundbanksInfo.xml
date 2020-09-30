@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>/Users/jeffreycordes/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Documents/3D Capstone/capstone3d/Ankhor/Ankhor_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/jeffreycordes/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Documents/3D Capstone/capstone3d/Ankhor/Ankhor_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/jeffreycordes/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Documents/3D Capstone/capstone3d/Ankhor/Ankhor_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/jeffreycordes/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Documents/3D Capstone/capstone3d/Ankhor/Ankhor_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="353693053" Language="SFX">
+			<ShortName>Heartbeat_01.wav</ShortName>
+			<Path>SFX/Heartbeat_01_8956FC97.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="110248053" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Spirit_Sounds</ObjectPath>
+			<ShortName>Spirit_Sounds</ShortName>
+			<Path>Spirit_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2540015859" Name="SpiritVoice_Call_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_Call_01"/>
+				<Event Id="4000694591" Name="SpiritVoice_FindtheLast_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_FindtheLast_01"/>
+				<Event Id="3375416801" Name="SpiritVoice_FindTheRest_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_FindTheRest_01"/>
+				<Event Id="3735691563" Name="SpiritVoice_Intro_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_Intro_01"/>
+				<Event Id="2724545734" Name="SpiritVoice_Key_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_Key_01"/>
+				<Event Id="658105802" Name="SpiritVoice_Might_01" ObjectPath="\Events\Default Work Unit\Spirit Dialogue\SpiritVoice_Might_01"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="271811281" Language="SFX">
+					<ShortName>Voice_Spirit_Intro_01.wav</ShortName>
+					<Path>SFX/Voice_Spirit_Intro_01_56D34C19.wem</Path>
+				</File>
+				<File Id="350507874" Language="SFX">
+					<ShortName>Voice_Spirit_Key_01.wav</ShortName>
+					<Path>SFX/Voice_Spirit_Key_01_56D34C19.wem</Path>
+				</File>
+				<File Id="670273697" Language="SFX">
+					<ShortName>Voice_Spirit_Call_01.wav</ShortName>
+					<Path>SFX/Voice_Spirit_Call_01_56D34C19.wem</Path>
+				</File>
+				<File Id="877518053" Language="SFX">
+					<ShortName>Voice_Spirit_Goodbye_01.wav</ShortName>
+					<Path>SFX/Voice_Spirit_Goodbye_01_56D34C19.wem</Path>
+				</File>
+				<File Id="888028148" Language="SFX">
+					<ShortName>Voice_Spirit_LastArtifact_01_Repeat.wav</ShortName>
+					<Path>SFX/Voice_Spirit_LastArtifact_01_Repeat_56D34C19.wem</Path>
+				</File>
+				<File Id="989866507" Language="SFX">
+					<ShortName>Voice_Spirit_RestOfArtifacts_01_Repeat.wav</ShortName>
+					<Path>SFX/Voice_Spirit_RestOfArtifacts_01_Repeat_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="905868302" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\UI_Sounds</ObjectPath>
+			<ShortName>UI_Sounds</ShortName>
+			<Path>UI_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1161150732" Name="UI_BasicClick" ObjectPath="\Events\Default Work Unit\UI Sounds\UI_BasicClick"/>
+				<Event Id="3489359053" Name="UI_PressStart" ObjectPath="\Events\Default Work Unit\UI Sounds\UI_PressStart"/>
+				<Event Id="4288481313" Name="UI_Rollover" ObjectPath="\Events\Default Work Unit\UI Sounds\UI_Rollover"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="8039456" Language="SFX">
+					<ShortName>UI_StartClick_01.wav</ShortName>
+					<Path>SFX/UI_StartClick_01_56D34C19.wem</Path>
+				</File>
+				<File Id="264282552" Language="SFX">
+					<ShortName>UI_BasicClick_01.wav</ShortName>
+					<Path>SFX/UI_BasicClick_01_56D34C19.wem</Path>
+				</File>
+				<File Id="785303725" Language="SFX">
+					<ShortName>UI_Rollover_01.wav</ShortName>
+					<Path>SFX/UI_Rollover_01_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1401142391" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Environment_Sounds</ObjectPath>
+			<ShortName>Environment_Sounds</ShortName>
+			<Path>Environment_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2147376761" Name="BabyCrying" ObjectPath="\Events\Default Work Unit\Environment Sounds\BabyCrying"/>
+				<Event Id="1051653347" Name="CoffeeMaker" ObjectPath="\Events\Default Work Unit\Environment Sounds\CoffeeMaker"/>
+				<Event Id="47633" Name="Doorknob" ObjectPath="\Events\Default Work Unit\Environment Sounds\Doorknob"/>
+				<Event Id="3920541745" Name="GhostLaugh" ObjectPath="\Events\Default Work Unit\Environment Sounds\GhostLaugh"/>
+				<Event Id="3119325427" Name="KeyboardTyping" ObjectPath="\Events\Default Work Unit\Environment Sounds\KeyboardTyping"/>
+				<Event Id="3599883275" Name="PortalHum" ObjectPath="\Events\Default Work Unit\Environment Sounds\PortalHum" MaxAttenuation="150.000000"/>
+				<Event Id="2456371955" Name="SkeletonScream" ObjectPath="\Events\Default Work Unit\Environment Sounds\SkeletonScream"/>
+				<Event Id="1264637305" Name="TVStatic" ObjectPath="\Events\Default Work Unit\Environment Sounds\TVStatic"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="235049901" Language="SFX">
+					<ShortName>KeyboardNoises_01.wav</ShortName>
+					<Path>SFX/KeyboardNoises_01_56D34C19.wem</Path>
+				</File>
+				<File Id="463558932" Language="SFX">
+					<ShortName>SkeletonScream_01.wav</ShortName>
+					<Path>SFX/SkeletonScream_01_56D34C19.wem</Path>
+				</File>
+				<File Id="619212005" Language="SFX">
+					<ShortName>Doorknob_1.wav</ShortName>
+					<Path>SFX/Doorknob_1_56D34C19.wem</Path>
+				</File>
+				<File Id="677703364" Language="SFX">
+					<ShortName>CoffeeMaker_01.wav</ShortName>
+					<Path>SFX/CoffeeMaker_01_56D34C19.wem</Path>
+				</File>
+				<File Id="792127136" Language="SFX">
+					<ShortName>TVStatic_01.wav</ShortName>
+					<Path>SFX/TVStatic_01_56D34C19.wem</Path>
+				</File>
+				<File Id="843253878" Language="SFX">
+					<ShortName>GhostLaugh_01.wav</ShortName>
+					<Path>SFX/GhostLaugh_01_56D34C19.wem</Path>
+				</File>
+				<File Id="901866227" Language="SFX">
+					<ShortName>Portal_Hum_03.wav</ShortName>
+					<Path>SFX/Portal_Hum_03_8956FC97.wem</Path>
+				</File>
+				<File Id="1067241043" Language="SFX">
+					<ShortName>BabyCrying_1.wav</ShortName>
+					<Path>SFX/BabyCrying_1_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2536131014" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Enemy_Sounds</ObjectPath>
+			<ShortName>Enemy_Sounds</ShortName>
+			<Path>Enemy_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4115244055" Name="EnemyChase" ObjectPath="\Events\Default Work Unit\Enemy Sounds\EnemyChase"/>
+				<Event Id="1625256434" Name="Footsteps_Ankhor" ObjectPath="\Events\Default Work Unit\Enemy Sounds\Footsteps_Ankhor" MaxAttenuation="150.000000"/>
+				<Event Id="2970929098" Name="Footsteps_Cultists" ObjectPath="\Events\Default Work Unit\Enemy Sounds\Footsteps_Cultists" MaxAttenuation="150.000000"/>
+				<Event Id="3942040290" Name="Footsteps_Demon" ObjectPath="\Events\Default Work Unit\Enemy Sounds\Footsteps_Demon" MaxAttenuation="150.000000"/>
+				<Event Id="1532058140" Name="Whispers_Demon" ObjectPath="\Events\Default Work Unit\Enemy Sounds\Whispers_Demon"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="111426474" Language="SFX">
+					<ShortName>Whisper_10.wav</ShortName>
+					<Path>SFX/Whisper_10_56D34C19.wem</Path>
+				</File>
+				<File Id="123928074" Language="SFX">
+					<ShortName>Whisper_11.wav</ShortName>
+					<Path>SFX/Whisper_11_56D34C19.wem</Path>
+				</File>
+				<File Id="189271403" Language="SFX">
+					<ShortName>151238__owlstorm__hard-female-footstep-2.wav</ShortName>
+					<Path>SFX/151238__owlstorm__hard-female-footstep-2_56D34C19.wem</Path>
+				</File>
+				<File Id="260718297" Language="SFX">
+					<ShortName>Whisper_04.wav</ShortName>
+					<Path>SFX/Whisper_04_56D34C19.wem</Path>
+				</File>
+				<File Id="299185223" Language="SFX">
+					<ShortName>Whisper_02.wav</ShortName>
+					<Path>SFX/Whisper_02_56D34C19.wem</Path>
+				</File>
+				<File Id="312616528" Language="SFX">
+					<ShortName>Whisper_08.wav</ShortName>
+					<Path>SFX/Whisper_08_56D34C19.wem</Path>
+				</File>
+				<File Id="460884664" Language="SFX">
+					<ShortName>Whisper_03.wav</ShortName>
+					<Path>SFX/Whisper_03_56D34C19.wem</Path>
+				</File>
+				<File Id="567477671" Language="SFX">
+					<ShortName>151232__owlstorm__hard-female-footstep-1.wav</ShortName>
+					<Path>SFX/151232__owlstorm__hard-female-footstep-1_56D34C19.wem</Path>
+				</File>
+				<File Id="802161905" Language="SFX">
+					<ShortName>Whisper_06.wav</ShortName>
+					<Path>SFX/Whisper_06_56D34C19.wem</Path>
+				</File>
+				<File Id="816117101" Language="SFX">
+					<ShortName>151237__owlstorm__hard-female-footstep-3.wav</ShortName>
+					<Path>SFX/151237__owlstorm__hard-female-footstep-3_56D34C19.wem</Path>
+				</File>
+				<File Id="819443529" Language="SFX">
+					<ShortName>Whisper_05.wav</ShortName>
+					<Path>SFX/Whisper_05_56D34C19.wem</Path>
+				</File>
+				<File Id="860375800" Language="SFX">
+					<ShortName>Whisper_09.wav</ShortName>
+					<Path>SFX/Whisper_09_56D34C19.wem</Path>
+				</File>
+				<File Id="916561476" Language="SFX">
+					<ShortName>Whisper_12.wav</ShortName>
+					<Path>SFX/Whisper_12_56D34C19.wem</Path>
+				</File>
+				<File Id="955746045" Language="SFX">
+					<ShortName>Whisper_07.wav</ShortName>
+					<Path>SFX/Whisper_07_56D34C19.wem</Path>
+				</File>
+				<File Id="992052277" Language="SFX">
+					<ShortName>Enemy Chase 1.wav</ShortName>
+					<Path>SFX/Enemy Chase 1_8956FC97.wem</Path>
+				</File>
+				<File Id="1035853678" Language="SFX">
+					<ShortName>Whisper_01.wav</ShortName>
+					<Path>SFX/Whisper_01_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2940432316" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Stingers</ObjectPath>
+			<ShortName>Stingers</ShortName>
+			<Path>Stingers.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1877589735" Name="CuriousStinger_Ankhor" ObjectPath="\Events\Default Work Unit\Stingers\CuriousStinger_Ankhor" MaxAttenuation="0.000000"/>
+				<Event Id="3448894004" Name="CuriousStinger_Cultist" ObjectPath="\Events\Default Work Unit\Stingers\CuriousStinger_Cultist"/>
+				<Event Id="1147272445" Name="CuriousStinger_Demon" ObjectPath="\Events\Default Work Unit\Stingers\CuriousStinger_Demon" MaxAttenuation="0.000000"/>
+				<Event Id="2827850541" Name="DetectedStinger_Ankhor" ObjectPath="\Events\Default Work Unit\Stingers\DetectedStinger_Ankhor" MaxAttenuation="0.000000"/>
+				<Event Id="3367188998" Name="DetectedStinger_Cultist" ObjectPath="\Events\Default Work Unit\Stingers\DetectedStinger_Cultist"/>
+				<Event Id="964015455" Name="DetectedStinger_Demon" ObjectPath="\Events\Default Work Unit\Stingers\DetectedStinger_Demon" MaxAttenuation="0.000000"/>
+				<Event Id="3573689374" Name="PuzzleSolved" ObjectPath="\Events\Default Work Unit\Stingers\PuzzleSolved"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="513614671" Language="SFX">
+					<ShortName>Cult_Curious_02.wav</ShortName>
+					<Path>SFX/Cult_Curious_02_52838227.wem</Path>
+				</File>
+				<File Id="731512306" Language="SFX">
+					<ShortName>PuzzleSolved_01.wav</ShortName>
+					<Path>SFX/PuzzleSolved_01_22F9C7B9.wem</Path>
+				</File>
+				<File Id="977830154" Language="SFX">
+					<ShortName>CultGrunt_2.wav</ShortName>
+					<Path>SFX/CultGrunt_2_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3271157729" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music_Ambience</ObjectPath>
+			<ShortName>Music_Ambience</ShortName>
+			<Path>Music_Ambience.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience\Ambience"/>
+				<Event Id="1598298728" Name="Music_Menu" ObjectPath="\Events\Default Work Unit\Music\Music_Menu"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="750544845" Language="SFX">
+					<ShortName>Ambience_2_01.wav</ShortName>
+					<Path>SFX/Ambience_2_01_8956FC97.wem</Path>
+				</File>
+				<File Id="912493496" Language="SFX">
+					<ShortName>AnkhorMainTheme_AmbienceOnly_01.wav</ShortName>
+					<Path>SFX/AnkhorMainTheme_AmbienceOnly_01_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4083419649" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Player_Sounds</ObjectPath>
+			<ShortName>Player_Sounds</ShortName>
+			<Path>Player_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2631852546" Name="DistractItem" ObjectPath="\Events\Default Work Unit\Player Sounds\DistractItem"/>
+				<Event Id="3838622763" Name="DoctorVoice_PlayerSpawn" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Spawn\DoctorVoice_PlayerSpawn"/>
+				<Event Id="503156359" Name="DoctorVoice_PlayerSpawn_repeat" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Spawn\DoctorVoice_PlayerSpawn_repeat"/>
+				<Event Id="376425331" Name="DoctorVoice_Tutorial_01" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_01"/>
+				<Event Id="3849062479" Name="DoctorVoice_Tutorial_01_repeat" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_01_repeat"/>
+				<Event Id="376425328" Name="DoctorVoice_Tutorial_02" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_02"/>
+				<Event Id="509655254" Name="DoctorVoice_Tutorial_02_repeat" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_02_repeat"/>
+				<Event Id="376425329" Name="DoctorVoice_Tutorial_03" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_03"/>
+				<Event Id="852974793" Name="DoctorVoice_Tutorial_03_repeat" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_03_repeat"/>
+				<Event Id="376425334" Name="DoctorVoice_Tutorial_04" ObjectPath="\Events\Default Work Unit\Player Sounds\DoctorDialogue_Tutorial\DoctorVoice_Tutorial_04"/>
+				<Event Id="1126494853" Name="Flashlight_OFF" ObjectPath="\Events\Default Work Unit\Player Sounds\Flashlight_OFF"/>
+				<Event Id="2033671033" Name="Flashlight_ON" ObjectPath="\Events\Default Work Unit\Player Sounds\Flashlight_ON"/>
+				<Event Id="196357682" Name="Footsteps_Player" ObjectPath="\Events\Default Work Unit\Player Sounds\Footsteps_Player"/>
+				<Event Id="2096310421" Name="FreezeItem" ObjectPath="\Events\Default Work Unit\Player Sounds\FreezeItem"/>
+				<Event Id="2419553536" Name="GlassBreak" ObjectPath="\Events\Default Work Unit\Player Sounds\GlassBreak"/>
+				<Event Id="2179486487" Name="Heartbeat" ObjectPath="\Events\Default Work Unit\Player Sounds\Heartbeat"/>
+				<Event Id="232609382" Name="ItemGrab" ObjectPath="\Events\Default Work Unit\Player Sounds\ItemGrab"/>
+				<Event Id="1771880628" Name="Stamina" ObjectPath="\Events\Default Work Unit\Player Sounds\Stamina"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="353693053"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="59355176" Language="SFX">
+					<ShortName>Voice_Doctor_Spawn_01.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Spawn_01_56D34C19.wem</Path>
+				</File>
+				<File Id="68772603" Language="SFX">
+					<ShortName>Voice_Doctor_Spawn_01_repeat.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Spawn_01_repeat_56D34C19.wem</Path>
+				</File>
+				<File Id="95242357" Language="SFX">
+					<ShortName>Freeze_01.wav</ShortName>
+					<Path>SFX/Freeze_01_56D34C19.wem</Path>
+				</File>
+				<File Id="107990563" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_03.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_03_56D34C19.wem</Path>
+				</File>
+				<File Id="148731238" Language="SFX">
+					<ShortName>ItemGrab_01.wav</ShortName>
+					<Path>SFX/ItemGrab_01_56D34C19.wem</Path>
+				</File>
+				<File Id="189271403" Language="SFX">
+					<ShortName>151238__owlstorm__hard-female-footstep-2.wav</ShortName>
+					<Path>SFX/151238__owlstorm__hard-female-footstep-2_56D34C19.wem</Path>
+				</File>
+				<File Id="320455000" Language="SFX">
+					<ShortName>Flashlight_ON_01.wav</ShortName>
+					<Path>SFX/Flashlight_ON_01_56D34C19.wem</Path>
+				</File>
+				<File Id="351961303" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_02.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_02_56D34C19.wem</Path>
+				</File>
+				<File Id="353693053" Language="SFX">
+					<ShortName>Heartbeat_01.wav</ShortName>
+					<Path>SFX/Heartbeat_01_8956FC97.wem</Path>
+					<PrefetchSize>19264</PrefetchSize>
+				</File>
+				<File Id="539713999" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_04.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_04_56D34C19.wem</Path>
+				</File>
+				<File Id="541333710" Language="SFX">
+					<ShortName>Flashlight_OFF_01.wav</ShortName>
+					<Path>SFX/Flashlight_OFF_01_56D34C19.wem</Path>
+				</File>
+				<File Id="553417038" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_02_repeat.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_02_repeat_56D34C19.wem</Path>
+				</File>
+				<File Id="567477671" Language="SFX">
+					<ShortName>151232__owlstorm__hard-female-footstep-1.wav</ShortName>
+					<Path>SFX/151232__owlstorm__hard-female-footstep-1_56D34C19.wem</Path>
+				</File>
+				<File Id="600665470" Language="SFX">
+					<ShortName>Panting_02.wav</ShortName>
+					<Path>SFX/Panting_02_56D34C19.wem</Path>
+				</File>
+				<File Id="615528563" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_03_repeat.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_03_repeat_56D34C19.wem</Path>
+				</File>
+				<File Id="654837838" Language="SFX">
+					<ShortName>GlassBreak_01.wav</ShortName>
+					<Path>SFX/GlassBreak_01_56D34C19.wem</Path>
+				</File>
+				<File Id="816117101" Language="SFX">
+					<ShortName>151237__owlstorm__hard-female-footstep-3.wav</ShortName>
+					<Path>SFX/151237__owlstorm__hard-female-footstep-3_56D34C19.wem</Path>
+				</File>
+				<File Id="859621788" Language="SFX">
+					<ShortName>Panting_01.wav</ShortName>
+					<Path>SFX/Panting_01_56D34C19.wem</Path>
+				</File>
+				<File Id="989681258" Language="SFX">
+					<ShortName>Distract_01.wav</ShortName>
+					<Path>SFX/Distract_01_56D34C19.wem</Path>
+				</File>
+				<File Id="996915840" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_01_repeat.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_01_repeat_56D34C19.wem</Path>
+				</File>
+				<File Id="1043334393" Language="SFX">
+					<ShortName>Voice_Doctor_Tutorial_01.wav</ShortName>
+					<Path>SFX/Voice_Doctor_Tutorial_01_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

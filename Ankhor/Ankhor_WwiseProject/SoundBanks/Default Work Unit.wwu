@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{48F250EC-F186-440E-8EC3-EE625EF67EBE}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{48F250EC-F186-440E-8EC3-EE625EF67EBE}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Environment_Sounds" ID="{5DD02CE0-61CE-4526-8DCF-CD10D3C6D092}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SkeletonScream" ID="{83D36711-BA24-4106-9558-4B9130C8F534}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="PortalHum" ID="{B2039306-7746-4193-A893-D40A563B5E2E}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Doorknob" ID="{C681F09A-D0E0-4202-AAAA-D54F69178805}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="TVStatic" ID="{1300B84B-E8BA-4332-97AE-B30DD05AC1D9}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="KeyboardTyping" ID="{8FEEBB66-FD91-4632-88AE-C0FA2E6304F6}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BabyCrying" ID="{7767C1B4-EDB8-4865-BC12-9DEA8C300BA4}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="CoffeeMaker" ID="{44EE42CB-D422-4C85-A3D4-322EF928F9C9}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="GhostLaugh" ID="{B30E66F6-A42A-4EC0-92F7-8C3FA4677EB1}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Player_Sounds" ID="{35227907-11F3-47EA-BB26-6B8DFF00ED78}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GlassBreak" ID="{F2A5C995-EA09-425E-93FF-6AB0F6E29CAE}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_03_repeat" ID="{410CC333-753A-42F0-AD21-B2067E2B9D54}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_01_repeat" ID="{6294B787-5C59-430D-A8AD-A5AD5468ECD7}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_02_repeat" ID="{A4DB4415-94B0-4435-81AE-598F48B9797A}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_03" ID="{85901A8F-F209-451D-85AD-92CBA50DB9B4}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_PlayerSpawn_repeat" ID="{BD9EC544-57B0-4637-9069-4C5F2A03D0CF}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_04" ID="{741216EA-43B1-46A8-9DC6-C6AF057AF459}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_02" ID="{6EA328BE-174D-46AA-B579-5B164546AA17}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ItemGrab" ID="{66AF4674-D2DA-47FC-9830-F79F7CC4619C}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Footsteps_Player" ID="{02A05A02-DC48-4905-BDBA-CC7AAF56A03F}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Flashlight_ON" ID="{65A18384-2643-4AD1-9131-9F3560C41A2C}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Heartbeat" ID="{C76A6FAD-96A1-4C67-9DC8-D0E46D63FD8C}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Flashlight_OFF" ID="{7F9DA3BE-391C-4C6D-B948-2BC272AE30DE}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_PlayerSpawn" ID="{A65D76B0-90B8-4C94-9226-CA824D5CA8F8}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DoctorVoice_Tutorial_01" ID="{C3C10796-F983-4CD7-BF47-6DD405EFD2B0}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DistractItem" ID="{762E2E58-7099-4D64-98D9-BABDF7B6E970}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FreezeItem" ID="{5231DFB8-E6AD-4EA1-B404-BFA77B908AE5}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stamina" ID="{E2A9A42A-F519-4FDA-BEAF-C5F3FBDAC64F}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Stingers" ID="{ACBF21C8-EC01-4EE9-BD50-B3215C9DAE07}">
+					<ObjectInclusionList>
+						<ObjectRef Name="CuriousStinger_Cultist" ID="{980A277E-3CBD-4145-AB90-D3CF7F28B138}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="CuriousStinger_Demon" ID="{C8D5034D-F0A5-4213-90B3-31AB95E2D754}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DetectedStinger_Ankhor" ID="{059D34B7-FCC7-4602-9E13-3F28A66D8F23}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="CuriousStinger_Ankhor" ID="{78EB60F0-6E67-4B03-8ACA-687A3F6B1CD2}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="PuzzleSolved" ID="{96B55111-5A45-4BD1-8332-CF73110FA6BF}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DetectedStinger_Demon" ID="{59ED76A3-F394-4C71-9311-4CB2B6252328}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="DetectedStinger_Cultist" ID="{30F5FFD3-718B-4E4B-AFA7-9983DFAD775F}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Music_Ambience" ID="{036DB00A-FD02-4FD0-8F84-F2E0920CC920}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambience" ID="{B356284E-E7D6-4445-B9BE-67C22ACCB091}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music_Menu" ID="{48B5F9AF-A0D2-4634-995F-30241D661B33}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Enemy_Sounds" ID="{6062636D-5C28-48F9-8535-7D22D77235EB}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Footsteps_Ankhor" ID="{B277B552-C0CE-4455-AFDA-CBC9ABEA7E68}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Footsteps_Demon" ID="{C006BC69-797D-473E-8628-96F0AAA9044E}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Footsteps_Cultists" ID="{0C2009B2-45BF-4A04-9DD7-F3D5B85F45CF}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="EnemyChase" ID="{ED2BC20E-0130-4C56-A3BA-63CB6D6D3324}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Whispers_Demon" ID="{72C152F5-25A2-4D72-A307-89CEF6710309}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="UI_Sounds" ID="{F11577A5-47FC-4E58-9FBB-59222C8653AB}">
+					<ObjectInclusionList>
+						<ObjectRef Name="UI_PressStart" ID="{1ECCD988-5DD2-47D1-9793-3344C931C8E5}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="UI_Rollover" ID="{3DD61C86-3379-487A-9D10-0E8864884C1A}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="UI_BasicClick" ID="{98E355B7-8906-4CA1-91B5-45134F24F81E}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Spirit_Sounds" ID="{DE0A2708-017E-4EF4-A7D8-137A861A34BB}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SpiritVoice_FindtheLast_01" ID="{FF6AF171-8530-4003-9F57-6582DF4D5C61}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SpiritVoice_Intro_01" ID="{D90EA230-5B9B-460E-9B7A-4D4C3861FDF2}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SpiritVoice_Might_01" ID="{5FCB22A9-CC1C-48FF-9984-73DB69275181}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SpiritVoice_FindTheRest_01" ID="{A7DF0FEE-4EB4-4983-8FBE-673843366677}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SpiritVoice_Key_01" ID="{197FFFDF-0C93-4ACC-9748-AD5A6A6DB165}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SpiritVoice_Call_01" ID="{733522CA-7AD2-4CDA-82EB-8E1C694D900D}" WorkUnitID="{9CFE382D-0E2B-4286-8A89-6669CE4DC27F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

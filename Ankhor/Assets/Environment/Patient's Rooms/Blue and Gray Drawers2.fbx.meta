@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: ea6cbeb33f189484e95297b3f9a5acb4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cabinets_Handle10
+    100004: Cabinets_Handle7
+    100006: Cabinets_Handle8
+    100008: Cabinets_Handle9
+    100010: Cabinets_Handle9 1
+    100012: Drugery_table_hio2
+    100014: Drugery_table_hio2 1
+    100016: Drugery_table_hio2 2
+    100018: Drugery_table_hio2 3
+    100020: pCylinder8
+    100022: pCylinder8 1
+    100024: pCylinder8 2
+    100026: pCylinder8 3
+    100028: pCylinder9
+    100030: pCylinder9 1
+    100032: pCylinder9 2
+    100034: pCylinder9 3
+    100036: Surgery_side_table_leg_10
+    100038: Surgery_side_table_leg_11
+    100040: Surgery_side_table_leg_12
+    100042: Surgery_side_table_leg_13
+    100044: Surgery_side_table_leg_14
+    100046: Surgery_side_table_leg_15
+    100048: Surgery_side_table_leg_15 1
+    100050: Surgery_side_table_leg_16
+    100052: Surgery_side_table_leg_16 1
+    100054: Surgery_side_table_leg_17
+    100056: Surgery_side_table_leg_18
+    100058: Surgery_side_table_leg_19
+    100060: Surgery_side_table_leg_19 1
+    100062: Surgery_side_table_leg_19 2
+    100064: Surgery_side_table_leg_19 3
+    100066: Surgery_side_table_leg_9
+    100068: Top_Cabinet
+    100070: Top_Cabinet1
+    100072: Wheelss
+    100074: Wheelss1
+    100076: Wheelss2
+    100078: Wheelss3
+    400000: //RootNode
+    400002: Cabinets_Handle10
+    400004: Cabinets_Handle7
+    400006: Cabinets_Handle8
+    400008: Cabinets_Handle9
+    400010: Cabinets_Handle9 1
+    400012: Drugery_table_hio2
+    400014: Drugery_table_hio2 1
+    400016: Drugery_table_hio2 2
+    400018: Drugery_table_hio2 3
+    400020: pCylinder8
+    400022: pCylinder8 1
+    400024: pCylinder8 2
+    400026: pCylinder8 3
+    400028: pCylinder9
+    400030: pCylinder9 1
+    400032: pCylinder9 2
+    400034: pCylinder9 3
+    400036: Surgery_side_table_leg_10
+    400038: Surgery_side_table_leg_11
+    400040: Surgery_side_table_leg_12
+    400042: Surgery_side_table_leg_13
+    400044: Surgery_side_table_leg_14
+    400046: Surgery_side_table_leg_15
+    400048: Surgery_side_table_leg_15 1
+    400050: Surgery_side_table_leg_16
+    400052: Surgery_side_table_leg_16 1
+    400054: Surgery_side_table_leg_17
+    400056: Surgery_side_table_leg_18
+    400058: Surgery_side_table_leg_19
+    400060: Surgery_side_table_leg_19 1
+    400062: Surgery_side_table_leg_19 2
+    400064: Surgery_side_table_leg_19 3
+    400066: Surgery_side_table_leg_9
+    400068: Top_Cabinet
+    400070: Top_Cabinet1
+    400072: Wheelss
+    400074: Wheelss1
+    400076: Wheelss2
+    400078: Wheelss3
+    2100000: Metal
+    2100002: handles
+    2100004: Light_Blue
+    2100006: Balck
+    2300000: Cabinets_Handle10
+    2300002: Cabinets_Handle7
+    2300004: Cabinets_Handle8
+    2300006: Cabinets_Handle9
+    2300008: Cabinets_Handle9 1
+    2300010: Drugery_table_hio2
+    2300012: Drugery_table_hio2 1
+    2300014: Drugery_table_hio2 2
+    2300016: Drugery_table_hio2 3
+    2300018: pCylinder8
+    2300020: pCylinder8 1
+    2300022: pCylinder8 2
+    2300024: pCylinder8 3
+    2300026: pCylinder9
+    2300028: pCylinder9 1
+    2300030: pCylinder9 2
+    2300032: pCylinder9 3
+    2300034: Surgery_side_table_leg_10
+    2300036: Surgery_side_table_leg_11
+    2300038: Surgery_side_table_leg_12
+    2300040: Surgery_side_table_leg_13
+    2300042: Surgery_side_table_leg_14
+    2300044: Surgery_side_table_leg_15
+    2300046: Surgery_side_table_leg_15 1
+    2300048: Surgery_side_table_leg_16
+    2300050: Surgery_side_table_leg_16 1
+    2300052: Surgery_side_table_leg_17
+    2300054: Surgery_side_table_leg_18
+    2300056: Surgery_side_table_leg_19
+    2300058: Surgery_side_table_leg_19 1
+    2300060: Surgery_side_table_leg_19 2
+    2300062: Surgery_side_table_leg_19 3
+    2300064: Surgery_side_table_leg_9
+    3300000: Cabinets_Handle10
+    3300002: Cabinets_Handle7
+    3300004: Cabinets_Handle8
+    3300006: Cabinets_Handle9
+    3300008: Cabinets_Handle9 1
+    3300010: Drugery_table_hio2
+    3300012: Drugery_table_hio2 1
+    3300014: Drugery_table_hio2 2
+    3300016: Drugery_table_hio2 3
+    3300018: pCylinder8
+    3300020: pCylinder8 1
+    3300022: pCylinder8 2
+    3300024: pCylinder8 3
+    3300026: pCylinder9
+    3300028: pCylinder9 1
+    3300030: pCylinder9 2
+    3300032: pCylinder9 3
+    3300034: Surgery_side_table_leg_10
+    3300036: Surgery_side_table_leg_11
+    3300038: Surgery_side_table_leg_12
+    3300040: Surgery_side_table_leg_13
+    3300042: Surgery_side_table_leg_14
+    3300044: Surgery_side_table_leg_15
+    3300046: Surgery_side_table_leg_15 1
+    3300048: Surgery_side_table_leg_16
+    3300050: Surgery_side_table_leg_16 1
+    3300052: Surgery_side_table_leg_17
+    3300054: Surgery_side_table_leg_18
+    3300056: Surgery_side_table_leg_19
+    3300058: Surgery_side_table_leg_19 1
+    3300060: Surgery_side_table_leg_19 2
+    3300062: Surgery_side_table_leg_19 3
+    3300064: Surgery_side_table_leg_9
+    4300000: Surgery_side_table_leg_9
+    4300002: Cabinets_Handle7
+    4300004: Surgery_side_table_leg_12
+    4300006: Surgery_side_table_leg_11
+    4300008: Surgery_side_table_leg_13
+    4300010: Surgery_side_table_leg_14
+    4300012: Cabinets_Handle8
+    4300014: Surgery_side_table_leg_10
+    4300016: Surgery_side_table_leg_17
+    4300018: Surgery_side_table_leg_18
+    4300020: Cabinets_Handle10
+    4300022: Drugery_table_hio2
+    4300024: Surgery_side_table_leg_19
+    4300026: pCylinder8
+    4300028: pCylinder9
+    4300030: Drugery_table_hio2
+    4300032: Surgery_side_table_leg_19
+    4300034: pCylinder8
+    4300036: pCylinder9
+    4300038: Drugery_table_hio2
+    4300040: Surgery_side_table_leg_19
+    4300042: pCylinder8
+    4300044: pCylinder9
+    4300046: Drugery_table_hio2
+    4300048: Surgery_side_table_leg_19
+    4300050: pCylinder8
+    4300052: pCylinder9
+    4300054: Surgery_side_table_leg_15
+    4300056: Surgery_side_table_leg_16
+    4300058: Cabinets_Handle9
+    4300060: Surgery_side_table_leg_15
+    4300062: Surgery_side_table_leg_16
+    4300064: Cabinets_Handle9
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

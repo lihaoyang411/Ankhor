@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	964015455	DetectedStinger_Demon			\Default Work Unit\Stingers\DetectedStinger_Demon	
+	1147272445	CuriousStinger_Demon			\Default Work Unit\Stingers\CuriousStinger_Demon	
+	1877589735	CuriousStinger_Ankhor			\Default Work Unit\Stingers\CuriousStinger_Ankhor	
+	2827850541	DetectedStinger_Ankhor			\Default Work Unit\Stingers\DetectedStinger_Ankhor	
+	3367188998	DetectedStinger_Cultist			\Default Work Unit\Stingers\DetectedStinger_Cultist	
+	3448894004	CuriousStinger_Cultist			\Default Work Unit\Stingers\CuriousStinger_Cultist	
+	3573689374	PuzzleSolved			\Default Work Unit\Stingers\PuzzleSolved	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3732311710	Distance_PlayerEnemy_RTPC			\Default Work Unit\Distance_PlayerEnemy_RTPC	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	513614671	CultCurious_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Cult_Curious_02_52838227.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\CultCurious_01		166364
+	731512306	PuzzleSolved_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\PuzzleSolved_01_22F9C7B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stingers\PuzzleSolved_01		1536144
+	977830154	CultGrunt_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\CultGrunt_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\CultGrunt_01		480144
+

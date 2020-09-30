@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{752333B0-0B73-4F9D-91A2-B54A51A8829D}" SchemaVersion="89">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{752333B0-0B73-4F9D-91A2-B54A51A8829D}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Player_State" ID="{CD4C69EB-987E-488D-B49B-1611FA4D2448}">
+					<ChildrenList>
+						<State Name="None" ID="{5C7509DC-664C-491B-83E4-02C02DFA3988}"/>
+						<State Name="Normal" ID="{BFCB2D1B-19D4-49F3-AD46-2EDAB0685CD7}"/>
+						<State Name="Danger" ID="{27B09544-786F-4144-A727-A47AB8023CB4}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Normal" ID="{BFCB2D1B-19D4-49F3-AD46-2EDAB0685CD7}"/>
+							<EndState Name="Danger" ID="{27B09544-786F-4144-A727-A47AB8023CB4}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Danger" ID="{27B09544-786F-4144-A727-A47AB8023CB4}"/>
+							<EndState Name="Normal" ID="{BFCB2D1B-19D4-49F3-AD46-2EDAB0685CD7}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+				<StateGroup Name="Enemy_State" ID="{A499D27F-C06C-427D-BE51-FA29AE4AC149}">
+					<ChildrenList>
+						<State Name="None" ID="{07C394D8-4575-4974-BF7B-5884A69D646D}"/>
+						<State Name="Normal" ID="{BD0DA255-68A0-42F5-A99A-B4DB55177D26}"/>
+						<State Name="Chase" ID="{EDA132C4-3CFF-4DCB-BA1F-6249F8FE7401}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Normal" ID="{BD0DA255-68A0-42F5-A99A-B4DB55177D26}"/>
+							<EndState Name="Chase" ID="{EDA132C4-3CFF-4DCB-BA1F-6249F8FE7401}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Chase" ID="{EDA132C4-3CFF-4DCB-BA1F-6249F8FE7401}"/>
+							<EndState Name="Normal" ID="{BD0DA255-68A0-42F5-A99A-B4DB55177D26}"/>
+							<Time>1.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+				<StateGroup Name="Menu_State" ID="{508C0C64-45EE-49D0-84C1-69F8556B75F8}">
+					<ChildrenList>
+						<State Name="None" ID="{311E6F98-6D03-4ACC-B277-500C2FC3ED68}"/>
+						<State Name="inMainMenu" ID="{0CDD23D6-5B88-4A8A-82C6-A6A52ADDE2E3}"/>
+						<State Name="notInMainMenu" ID="{1FD446C0-95B9-43AE-8179-F2DF5101017D}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="inMainMenu" ID="{0CDD23D6-5B88-4A8A-82C6-A6A52ADDE2E3}"/>
+							<EndState Name="notInMainMenu" ID="{1FD446C0-95B9-43AE-8179-F2DF5101017D}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="notInMainMenu" ID="{1FD446C0-95B9-43AE-8179-F2DF5101017D}"/>
+							<EndState Name="inMainMenu" ID="{0CDD23D6-5B88-4A8A-82C6-A6A52ADDE2E3}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

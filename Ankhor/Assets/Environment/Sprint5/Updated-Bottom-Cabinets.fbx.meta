@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ee7687a66a2aa4f0eb3528a35018ec09
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottom_cabinets_brown
+    100002: Bottom_cabinets_brown4
+    100004: Bottom_cabinets_brown5
+    100006: Bottom_cabinets_brown6
+    100008: Cabinets_Handle6
+    100010: Cabinets_Handle6 1
+    100012: Cabinets_Handle6 2
+    100014: Cabinets_Handle6 3
+    100016: Door_cabinet
+    100018: Door_cabinet 1
+    100020: Door_cabinet 2
+    100022: Door_cabinet 3
+    100024: pCube101
+    100026: pCube93
+    100028: pCube93 1
+    100030: pCube93 2
+    100032: pCube93 3
+    100034: pCube96
+    100036: pCube96 1
+    100038: pCube96 2
+    100040: pCube96 3
+    100042: pCube97
+    100044: pCube97 1
+    100046: pCube97 2
+    100048: pCube97 3
+    100050: //RootNode
+    400000: Bottom_cabinets_brown
+    400002: Bottom_cabinets_brown4
+    400004: Bottom_cabinets_brown5
+    400006: Bottom_cabinets_brown6
+    400008: Cabinets_Handle6
+    400010: Cabinets_Handle6 1
+    400012: Cabinets_Handle6 2
+    400014: Cabinets_Handle6 3
+    400016: Door_cabinet
+    400018: Door_cabinet 1
+    400020: Door_cabinet 2
+    400022: Door_cabinet 3
+    400024: pCube101
+    400026: pCube93
+    400028: pCube93 1
+    400030: pCube93 2
+    400032: pCube93 3
+    400034: pCube96
+    400036: pCube96 1
+    400038: pCube96 2
+    400040: pCube96 3
+    400042: pCube97
+    400044: pCube97 1
+    400046: pCube97 2
+    400048: pCube97 3
+    400050: //RootNode
+    2100000: White_blinn
+    2100002: lambert15
+    2100004: lambert13
+    2100006: handles
+    2300000: Cabinets_Handle6
+    2300002: Cabinets_Handle6 1
+    2300004: Cabinets_Handle6 2
+    2300006: Cabinets_Handle6 3
+    2300008: pCube101
+    2300010: pCube93
+    2300012: pCube93 1
+    2300014: pCube93 2
+    2300016: pCube93 3
+    2300018: pCube96
+    2300020: pCube96 1
+    2300022: pCube96 2
+    2300024: pCube96 3
+    2300026: pCube97
+    2300028: pCube97 1
+    2300030: pCube97 2
+    2300032: pCube97 3
+    3300000: Cabinets_Handle6
+    3300002: Cabinets_Handle6 1
+    3300004: Cabinets_Handle6 2
+    3300006: Cabinets_Handle6 3
+    3300008: pCube101
+    3300010: pCube93
+    3300012: pCube93 1
+    3300014: pCube93 2
+    3300016: pCube93 3
+    3300018: pCube96
+    3300020: pCube96 1
+    3300022: pCube96 2
+    3300024: pCube96 3
+    3300026: pCube97
+    3300028: pCube97 1
+    3300030: pCube97 2
+    3300032: pCube97 3
+    4300000: pCube101
+    4300002: pCube93
+    4300004: pCube96
+    4300006: pCube97
+    4300008: Cabinets_Handle6
+    4300010: pCube93
+    4300012: pCube96
+    4300014: pCube97
+    4300016: Cabinets_Handle6
+    4300018: pCube93
+    4300020: pCube96
+    4300022: pCube97
+    4300024: Cabinets_Handle6
+    4300026: pCube93
+    4300028: pCube96
+    4300030: pCube97
+    4300032: Cabinets_Handle6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

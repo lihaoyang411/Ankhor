@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 703a6c72e381f9d468acfd32d6c0168c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dioor_1
+    100002: Door_2
+    100004: //RootNode
+    100006: Left_Wall
+    100008: pCube13
+    100010: pCube14
+    100012: pCube15
+    100014: pCube16
+    100016: pCube17
+    100018: pCube18
+    100020: pCube19
+    100022: pCube20
+    100024: pCube23
+    100026: pCube24
+    100028: pCube95
+    100030: pCube96
+    100032: pCube97
+    100034: pCylinder1
+    100036: pCylinder2
+    400000: Dioor_1
+    400002: Door_2
+    400004: //RootNode
+    400006: Left_Wall
+    400008: pCube13
+    400010: pCube14
+    400012: pCube15
+    400014: pCube16
+    400016: pCube17
+    400018: pCube18
+    400020: pCube19
+    400022: pCube20
+    400024: pCube23
+    400026: pCube24
+    400028: pCube95
+    400030: pCube96
+    400032: pCube97
+    400034: pCylinder1
+    400036: pCylinder2
+    2100000: Dark_blue_gray
+    2100002: lambert8
+    2100004: white
+    2100006: dark_green_gray
+    2100008: blue_doors
+    2100010: handles
+    2300000: Dioor_1
+    2300002: Door_2
+    2300004: Left_Wall
+    2300006: pCube13
+    2300008: pCube14
+    2300010: pCube15
+    2300012: pCube16
+    2300014: pCube17
+    2300016: pCube18
+    2300018: pCube19
+    2300020: pCube20
+    2300022: pCube23
+    2300024: pCube24
+    2300026: pCube95
+    2300028: pCube96
+    2300030: pCube97
+    2300032: pCylinder1
+    2300034: pCylinder2
+    3300000: Dioor_1
+    3300002: Door_2
+    3300004: Left_Wall
+    3300006: pCube13
+    3300008: pCube14
+    3300010: pCube15
+    3300012: pCube16
+    3300014: pCube17
+    3300016: pCube18
+    3300018: pCube19
+    3300020: pCube20
+    3300022: pCube23
+    3300024: pCube24
+    3300026: pCube95
+    3300028: pCube96
+    3300030: pCube97
+    3300032: pCylinder1
+    3300034: pCylinder2
+    4300000: pCube16
+    4300002: pCube15
+    4300004: pCube17
+    4300006: pCube14
+    4300008: pCube13
+    4300010: Left_Wall
+    4300012: pCube20
+    4300014: pCube19
+    4300016: Dioor_1
+    4300018: pCube18
+    4300020: pCylinder2
+    4300022: pCube24
+    4300024: pCube23
+    4300026: Door_2
+    4300028: pCylinder1
+    4300030: pCube95
+    4300032: pCube96
+    4300034: pCube97
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

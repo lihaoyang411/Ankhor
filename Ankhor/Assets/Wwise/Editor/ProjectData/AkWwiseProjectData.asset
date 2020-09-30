@@ -1,0 +1,1101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b5cff84b184480fb07ec916f918b81, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 88c18fd989113b42ac0e211f398777b9
+    m_lastTime: -8586501368624775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 18ee60b0cd42db4a91300db1d2847315
+    m_lastTime: -8586501368624775808
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: ec50f24886f10e448ec3ee625ef67ebe
+    m_lastTime: -8586481989494775808
+    List:
+    - name: Enemy_Sounds
+      guid: 6d636260285cf94885357d22d77235eb
+      id: 2536131014
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy_Sounds
+        ObjectType: 7
+      Path: Default Work Unit/Enemy_Sounds
+    - name: Environment_Sounds
+      guid: e02cd05dce6126458dcfcd10d3c6d092
+      id: 1401142391
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment_Sounds
+        ObjectType: 7
+      Path: Default Work Unit/Environment_Sounds
+    - name: Music_Ambience
+      guid: 0ab06d0302fdd04f8f84f2e0920cc920
+      id: 3271157729
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Ambience
+        ObjectType: 7
+      Path: Default Work Unit/Music_Ambience
+    - name: Player_Sounds
+      guid: 07792235f311ea47bb266b8dff00ed78
+      id: 4083419649
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_Sounds
+        ObjectType: 7
+      Path: Default Work Unit/Player_Sounds
+    - name: Spirit_Sounds
+      guid: 08270ade7e01f44ea7d8137a861a34bb
+      id: 110248053
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit_Sounds
+        ObjectType: 7
+      Path: Default Work Unit/Spirit_Sounds
+    - name: Stingers
+      guid: c821bfac01ece94ebd50b3215c9dae07
+      id: 2940432316
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 7
+      Path: Default Work Unit/Stingers
+    - name: UI_Sounds
+      guid: a57715f1fc47584e9fbb59222c8653ab
+      id: 905868302
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI_Sounds
+        ObjectType: 7
+      Path: Default Work Unit/UI_Sounds
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 2d38fe9c2b0e86428a896669ce4dc27f
+    m_lastTime: -8586481989504775808
+    List:
+    - name: Ambience
+      guid: 4e2856b3d6e74544b9be67c22accb091
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 3
+      Path: Default Work Unit/Ambience/Ambience
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: BabyCrying
+      guid: b4c16777b8ed6548bc129dea8c300ba4
+      id: 2147376761
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: BabyCrying
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/BabyCrying
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: CoffeeMaker
+      guid: cb42ee4422d4854ca3d4322ef928f9c9
+      id: 1051653347
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: CoffeeMaker
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/CoffeeMaker
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: CuriousStinger_Ankhor
+      guid: f060eb78676e034b8aca687a3f6b1cd2
+      id: 1877589735
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: CuriousStinger_Ankhor
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/CuriousStinger_Ankhor
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: CuriousStinger_Cultist
+      guid: 7e270a98bd3c4541ab90d3cf7f28b138
+      id: 3448894004
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: CuriousStinger_Cultist
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/CuriousStinger_Cultist
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: CuriousStinger_Demon
+      guid: 4d03d5c8a5f0134290b331ab95e2d754
+      id: 1147272445
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: CuriousStinger_Demon
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/CuriousStinger_Demon
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DetectedStinger_Ankhor
+      guid: b7349d05c7fc02469e133f28a66d8f23
+      id: 2827850541
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: DetectedStinger_Ankhor
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/DetectedStinger_Ankhor
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DetectedStinger_Cultist
+      guid: d3fff5308b714b4eafa79983dfad775f
+      id: 3367188998
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: DetectedStinger_Cultist
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/DetectedStinger_Cultist
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DetectedStinger_Demon
+      guid: a376ed5994f3714c93114cb2b6252328
+      id: 964015455
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: DetectedStinger_Demon
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/DetectedStinger_Demon
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DistractItem
+      guid: 582e2e769970644d98d9babdf7b6e970
+      id: 2631852546
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DistractItem
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DistractItem
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_PlayerSpawn
+      guid: b0765da6b890944c9226ca824d5ca8f8
+      id: 3838622763
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Spawn
+        ObjectType: 4
+      - ElementName: DoctorVoice_PlayerSpawn
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Spawn/DoctorVoice_PlayerSpawn
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_PlayerSpawn_repeat
+      guid: 44c59ebdb057374690694c5f2a03d0cf
+      id: 503156359
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Spawn
+        ObjectType: 4
+      - ElementName: DoctorVoice_PlayerSpawn_repeat
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Spawn/DoctorVoice_PlayerSpawn_repeat
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_01
+      guid: 9607c1c383f9d74cbf476dd405efd2b0
+      id: 376425331
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_01
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_01_repeat
+      guid: 87b79462595c0d43a8ada5ad5468ecd7
+      id: 3849062479
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_01_repeat
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_01_repeat
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_02
+      guid: be28a36e4d17aa46b5795b164546aa17
+      id: 376425328
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_02
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_02
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_02_repeat
+      guid: 1544dba4b094354481ae598f48b9797a
+      id: 509655254
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_02_repeat
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_02_repeat
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_03
+      guid: 8f1a908509f21d4585ad92cba50db9b4
+      id: 376425329
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_03
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_03
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_03_repeat
+      guid: 33c30c413a75f042ad21b2067e2b9d54
+      id: 852974793
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_03_repeat
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_03_repeat
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: DoctorVoice_Tutorial_04
+      guid: ea161274b143a8469dc6c6af057af459
+      id: 376425334
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: DoctorDialogue_Tutorial
+        ObjectType: 4
+      - ElementName: DoctorVoice_Tutorial_04
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/DoctorDialogue_Tutorial/DoctorVoice_Tutorial_04
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Doorknob
+      guid: 9af081c6e0d00242aaaad54f69178805
+      id: 47633
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: Doorknob
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/Doorknob
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: EnemyChase
+      guid: 0ec22bed3001564ca3ba63cb6d6d3324
+      id: 4115244055
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy Sounds
+        ObjectType: 4
+      - ElementName: EnemyChase
+        ObjectType: 3
+      Path: Default Work Unit/Enemy Sounds/EnemyChase
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Flashlight_OFF
+      guid: bea39d7f1c396d4cb9482bc272ae30de
+      id: 1126494853
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: Flashlight_OFF
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/Flashlight_OFF
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Flashlight_ON
+      guid: 8483a1654326d14a91319f3560c41a2c
+      id: 2033671033
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: Flashlight_ON
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/Flashlight_ON
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Footsteps_Ankhor
+      guid: 52b577b2cec05544afdacbc9abea7e68
+      id: 1625256434
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy Sounds
+        ObjectType: 4
+      - ElementName: Footsteps_Ankhor
+        ObjectType: 3
+      Path: Default Work Unit/Enemy Sounds/Footsteps_Ankhor
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Footsteps_Cultists
+      guid: b209200cbf45044a9dd7f3d5b85f45cf
+      id: 2970929098
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy Sounds
+        ObjectType: 4
+      - ElementName: Footsteps_Cultists
+        ObjectType: 3
+      Path: Default Work Unit/Enemy Sounds/Footsteps_Cultists
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Footsteps_Demon
+      guid: 69bc06c07d793e47862896f0aaa9044e
+      id: 3942040290
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy Sounds
+        ObjectType: 4
+      - ElementName: Footsteps_Demon
+        ObjectType: 3
+      Path: Default Work Unit/Enemy Sounds/Footsteps_Demon
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Footsteps_Player
+      guid: 025aa00248dc0549bdbacc7aaf56a03f
+      id: 196357682
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: Footsteps_Player
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/Footsteps_Player
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: FreezeItem
+      guid: b8df3152ade6a14eb404bfa77b908ae5
+      id: 2096310421
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: FreezeItem
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/FreezeItem
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Heartbeat
+      guid: ad6f6ac7a196674c9dc8d0e46d63fd8c
+      id: 2179486487
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: Heartbeat
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/Heartbeat
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: ItemGrab
+      guid: 7446af66dad2fc479830f79f7cc4619c
+      id: 232609382
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: ItemGrab
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/ItemGrab
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: KeyboardTyping
+      guid: 66bbee8f91fd324688aec0fa2e6304f6
+      id: 3119325427
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: KeyboardTyping
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/KeyboardTyping
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Music_Menu
+      guid: aff9b548d2a03446995f30241d661b33
+      id: 1598298728
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Music_Menu
+        ObjectType: 3
+      Path: Default Work Unit/Music/Music_Menu
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: PortalHum
+      guid: 069303b246779341a893d40a563b5e2e
+      id: 3599883275
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: PortalHum
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/PortalHum
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: PuzzleSolved
+      guid: 1151b596455ad14b8332cf73110fa6bf
+      id: 3573689374
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stingers
+        ObjectType: 4
+      - ElementName: PuzzleSolved
+        ObjectType: 3
+      Path: Default Work Unit/Stingers/PuzzleSolved
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_Call_01
+      guid: ca223573d27ada4c82eb8e1c694d900d
+      id: 2540015859
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_Call_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_Call_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_FindtheLast_01
+      guid: 71f16aff308503409f576582df4d5c61
+      id: 4000694591
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_FindtheLast_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_FindtheLast_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_FindTheRest_01
+      guid: ee0fdfa7b44e83498fbe673843366677
+      id: 3375416801
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_FindTheRest_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_FindTheRest_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_Intro_01
+      guid: 30a20ed99b5b0e469b7a4d4c3861fdf2
+      id: 3735691563
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_Intro_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_Intro_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_Key_01
+      guid: dfff7f19930ccc4a9748ad5a6a6db165
+      id: 2724545734
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_Key_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_Key_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: SpiritVoice_Might_01
+      guid: a922cb5f1cccff48998473db69275181
+      id: 658105802
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Spirit Dialogue
+        ObjectType: 4
+      - ElementName: SpiritVoice_Might_01
+        ObjectType: 3
+      Path: Default Work Unit/Spirit Dialogue/SpiritVoice_Might_01
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stamina
+      guid: 2aa4a9e219f5da4fbeafc5f3fbdac64f
+      id: 1771880628
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player Sounds
+        ObjectType: 4
+      - ElementName: Stamina
+        ObjectType: 3
+      Path: Default Work Unit/Player Sounds/Stamina
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: TVStatic
+      guid: 4bb80013bae8324397aeb30dd05ac1d9
+      id: 1264637305
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment Sounds
+        ObjectType: 4
+      - ElementName: TVStatic
+        ObjectType: 3
+      Path: Default Work Unit/Environment Sounds/TVStatic
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: UI_BasicClick
+      guid: b755e3980689a14c91b545134f24f81e
+      id: 1161150732
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI Sounds
+        ObjectType: 4
+      - ElementName: UI_BasicClick
+        ObjectType: 3
+      Path: Default Work Unit/UI Sounds/UI_BasicClick
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: UI_PressStart
+      guid: 88d9cc1ed25dd14797933344c931c8e5
+      id: 3489359053
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI Sounds
+        ObjectType: 4
+      - ElementName: UI_PressStart
+        ObjectType: 3
+      Path: Default Work Unit/UI Sounds/UI_PressStart
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: UI_Rollover
+      guid: 861cd63d79337a489d100e8864884c1a
+      id: 4288481313
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI Sounds
+        ObjectType: 4
+      - ElementName: UI_Rollover
+        ObjectType: 3
+      Path: Default Work Unit/UI Sounds/UI_Rollover
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Whispers_Demon
+      guid: f552c172a225724da30789cef6710309
+      id: 1532058140
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy Sounds
+        ObjectType: 4
+      - ElementName: Whispers_Demon
+        ObjectType: 3
+      Path: Default Work Unit/Enemy Sounds/Whispers_Demon
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 5e2d238340a56c46b6933ad98f043dc3
+    m_lastTime: -8586482249454775808
+    List:
+    - name: Distance_PlayerEnemy_RTPC
+      guid: 13e5f90bc2393d4693a2442e5fe7c436
+      id: 3732311710
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Distance_PlayerEnemy_RTPC
+        ObjectType: 13
+      Path: Default Work Unit/Distance_PlayerEnemy_RTPC
+    - name: Distance_PlayerObject_RTPC
+      guid: cd3f2ba879ee1b4083777708c00e5168
+      id: 3856639305
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Distance_PlayerObject_RTPC
+        ObjectType: 13
+      Path: Default Work Unit/Distance_PlayerObject_RTPC
+    - name: Player_Health
+      guid: 15688cc5f4750a4fbbb2616cf7095464
+      id: 215992295
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_Health
+        ObjectType: 13
+      Path: Default Work Unit/Player_Health
+    - name: Player_Stamina
+      guid: 7faa3953e5e9d24bba5b6dda887dd6ed
+      id: 2059759776
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_Stamina
+        ObjectType: 13
+      Path: Default Work Unit/Player_Stamina
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: b0332375730b9d4f91a2b54a51a8829d
+    m_lastTime: -8586482249414775808
+    List:
+    - name: Enemy_State
+      guid: 7fd299a46cc07d42be51fa29ae4ac149
+      id: 2778287673
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Enemy_State
+        ObjectType: 9
+      Path: Default Work Unit/Enemy_State
+      values:
+      - name: Chase
+        guid: c432a1edff3ccb4dba1f6249f8fe7401
+        id: 417490929
+        PathAndIcons:
+        - ElementName: Chase
+          ObjectType: 8
+      - name: None
+        guid: d894c30775457449bf7b5884a69d646d
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Normal
+        guid: 55a20dbda068f542a99ab4db55177d26
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 8
+    - name: Menu_State
+      guid: 640c8c50ee45d04984c169f8556b75f8
+      id: 3941853002
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Menu_State
+        ObjectType: 9
+      Path: Default Work Unit/Menu_State
+      values:
+      - name: inMainMenu
+        guid: d623dd0c885b8a4a82c6a6a52adde2e3
+        id: 2679786610
+        PathAndIcons:
+        - ElementName: inMainMenu
+          ObjectType: 8
+      - name: None
+        guid: 986f1e31036dcc4ab277500c2fc3ed68
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: notInMainMenu
+        guid: c046d41fb995ae438179f2df5101017d
+        id: 4153852523
+        PathAndIcons:
+        - ElementName: notInMainMenu
+          ObjectType: 8
+    - name: Player_State
+      guid: eb694ccd7e988d48b49b1611fa4d2448
+      id: 4071417932
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_State
+        ObjectType: 9
+      Path: Default Work Unit/Player_State
+      values:
+      - name: Danger
+        guid: 4495b0276f784441a727a47ab8023cb4
+        id: 4174463524
+        PathAndIcons:
+        - ElementName: Danger
+          ObjectType: 8
+      - name: None
+        guid: dc09755c4c661b4983e402c02dfa3988
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Normal
+        guid: 1b2dcbbfd419f349ad462edab0685cd7
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 8
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4ac835c6c0eb6c46b33be83f99c9d57b
+    m_lastTime: -8586481989494775808
+    List:
+    - name: Dialogue
+      guid: 88a220385191e54982497cce61f37634
+      id: 3930136735
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Dialogue
+        ObjectType: 11
+      Path: Default Work Unit/Dialogue
+      values:
+      - name: AhHereTheyAre_Switch
+        guid: 8f972f5b094d204bb291801ede77276f
+        id: 3822703979
+        PathAndIcons:
+        - ElementName: AhHereTheyAre_Switch
+          ObjectType: 10
+      - name: AhHereTheyAre01_Switch
+        guid: 9efabf27eedd6d498fa68441117c3398
+        id: 2483655096
+        PathAndIcons:
+        - ElementName: AhHereTheyAre01_Switch
+          ObjectType: 10
+      - name: AnkhorsCallFound_Switch
+        guid: 12013fcc1cac6b49a7f16d8bac8a195f
+        id: 2335807390
+        PathAndIcons:
+        - ElementName: AnkhorsCallFound_Switch
+          ObjectType: 10
+      - name: AnkhorsKeyFound_Switch
+        guid: 09822af3a470634db1902944e13dcd84
+        id: 2610158453
+        PathAndIcons:
+        - ElementName: AnkhorsKeyFound_Switch
+          ObjectType: 10
+      - name: AnkhorsMightFound_Switch
+        guid: d356759c18ea37428f01ef8ac16035d6
+        id: 390642073
+        PathAndIcons:
+        - ElementName: AnkhorsMightFound_Switch
+          ObjectType: 10
+      - name: AnotherDayOfWork_Switch
+        guid: 1eed230216946b49af67ed282d03827a
+        id: 3753820235
+        PathAndIcons:
+        - ElementName: AnotherDayOfWork_Switch
+          ObjectType: 10
+      - name: AnotherDayOfWork01_Switch
+        guid: 2d4d323b3d360341ac13192126d723e1
+        id: 2581201048
+        PathAndIcons:
+        - ElementName: AnotherDayOfWork01_Switch
+          ObjectType: 10
+      - name: ExcellentTheyreLogged_Switch
+        guid: 7037b5db073f3f4c9684925246fed3fe
+        id: 1686976533
+        PathAndIcons:
+        - ElementName: ExcellentTheyreLogged_Switch
+          ObjectType: 10
+      - name: ExcellentTheyreLogged01_Switch
+        guid: 2d85dc62d476a14e80f9b3ea2a3a25ed
+        id: 2855479274
+        PathAndIcons:
+        - ElementName: ExcellentTheyreLogged01_Switch
+          ObjectType: 10
+      - name: FindTheLastArtifact_Switch
+        guid: 35848ae28fb6c441a1442e266a4f3e8c
+        id: 2230896494
+        PathAndIcons:
+        - ElementName: FindTheLastArtifact_Switch
+          ObjectType: 10
+      - name: FindTheRestArtifacts_Switch
+        guid: 8c41ec6a7330c54f9d7f90952f790413
+        id: 3796661455
+        PathAndIcons:
+        - ElementName: FindTheRestArtifacts_Switch
+          ObjectType: 10
+      - name: PlayerSpawn_Switch
+        guid: 0922d828291d1046a43339303d9ad9e1
+        id: 157258650
+        PathAndIcons:
+        - ElementName: PlayerSpawn_Switch
+          ObjectType: 10
+      - name: PlayerSpawn01_Switch
+        guid: c87f05c977c4304c940ffa8f2f9767a3
+        id: 3298163021
+        PathAndIcons:
+        - ElementName: PlayerSpawn01_Switch
+          ObjectType: 10
+      - name: SpiritIntro_Switch
+        guid: 486182a75b3e1742bd869a8339ecbd34
+        id: 1826937055
+        PathAndIcons:
+        - ElementName: SpiritIntro_Switch
+          ObjectType: 10
+      - name: WhatWasThat_Switch
+        guid: 488580f67f7c2d428162ad9ef14ca55a
+        id: 1564237384
+        PathAndIcons:
+        - ElementName: WhatWasThat_Switch
+          ObjectType: 10
+    - name: MenuMusic
+      guid: 356aa4d8699fba42b7704cfe8e1e7977
+      id: 679636833
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: MenuMusic
+        ObjectType: 11
+      Path: Default Work Unit/MenuMusic
+      values:
+      - name: MenuMusicOff_Switch
+        guid: 71041f90647aff4bbb8f9a7af94bd0b0
+        id: 3494045555
+        PathAndIcons:
+        - ElementName: MenuMusicOff_Switch
+          ObjectType: 10
+      - name: MenuMusicOn_Switch
+        guid: 04de98ce8665ec4d981f491c96149dbc
+        id: 1614942337
+        PathAndIcons:
+        - ElementName: MenuMusicOn_Switch
+          ObjectType: 10
+    - name: MoveType
+      guid: d705416729c42442b14b7004298e8823
+      id: 4160739938
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: MoveType
+        ObjectType: 11
+      Path: Default Work Unit/MoveType
+      values:
+      - name: Crouch_Switch
+        guid: d3372e4a9f353547b06c48cce9f76853
+        id: 2699702930
+        PathAndIcons:
+        - ElementName: Crouch_Switch
+          ObjectType: 10
+      - name: Idle_Switch
+        guid: e5e64e7163e1314ebb290d151c654489
+        id: 2274660714
+        PathAndIcons:
+        - ElementName: Idle_Switch
+          ObjectType: 10
+      - name: Run_Switch
+        guid: d52220bd6d23ba4a988c1ebbbaff3ca3
+        id: 899311691
+        PathAndIcons:
+        - ElementName: Run_Switch
+          ObjectType: 10
+      - name: Walk_Switch
+        guid: 25d01c5b8777d14f93cef595dab0e617
+        id: 2857728357
+        PathAndIcons:
+        - ElementName: Walk_Switch
+          ObjectType: 10
+    - name: Stamina
+      guid: b83c568e6c480b4cbc5f24f283dbbe9a
+      id: 1771880628
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stamina
+        ObjectType: 11
+      Path: Default Work Unit/Stamina
+      values:
+      - name: EmptyStamina_Switch
+        guid: 1b4e900753e29f47b8dfd530f70ed8af
+        id: 762394150
+        PathAndIcons:
+        - ElementName: EmptyStamina_Switch
+          ObjectType: 10
+      - name: FullStamina_Switch
+        guid: a269cbe3667b7548b671fefd6745e0b8
+        id: 1867062984
+        PathAndIcons:
+        - ElementName: FullStamina_Switch
+          ObjectType: 10
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 935072d878dadf4bae9bb5d58eb02061
+    m_lastTime: -8586501368624775808
+    List: []
+  ExpandedItems:
+  - /Ankhor_WwiseProject
+  - /Ankhor_WwiseProject/Events
+  - /Ankhor_WwiseProject/Events/Default Work Unit
+  - /Ankhor_WwiseProject/Events/Default Work Unit/Environment Sounds
+  - /Ankhor_WwiseProject/Events/Default Work Unit/Player Sounds
+  - /Ankhor_WwiseProject/Events/Default Work Unit/Stingers
+  - /Ankhor_WwiseProject/SoundBanks
+  - /Ankhor_WwiseProject/SoundBanks/Default Work Unit
+  - /Ankhor_WwiseProject/States
+  - /Ankhor_WwiseProject/States/Default Work Unit
+  - /Ankhor_WwiseProject/States/Default Work Unit/Enemy_State
+  - /Ankhor_WwiseProject/States/Default Work Unit/Player_State
+  - /Ankhor_WwiseProject/Switches
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

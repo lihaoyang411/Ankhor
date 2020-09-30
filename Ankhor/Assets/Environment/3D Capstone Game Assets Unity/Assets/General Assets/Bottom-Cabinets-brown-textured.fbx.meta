@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3bce86405225349f1a5ca02ab4fe3ced
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom_cabinets_brown
+    100004: Bottom_cabinets_brown1
+    100006: Bottom_cabinets_brown2
+    100008: Bottom_cabinets_brown3
+    100010: Bottom_cabinets_brown4
+    100012: Cabinets_Handle6
+    100014: Cabinets_Handle6 1
+    100016: Cabinets_Handle6 2
+    100018: Cabinets_Handle6 3
+    100020: Cabinets_Handle6 4
+    100022: Door_cabinet
+    100024: Door_cabinet 1
+    100026: Door_cabinet 2
+    100028: Door_cabinet 3
+    100030: Door_cabinet 4
+    100032: pCube101
+    100034: pCube93
+    100036: pCube93 1
+    100038: pCube93 2
+    100040: pCube93 3
+    100042: pCube93 4
+    100044: pCube96
+    100046: pCube96 1
+    100048: pCube96 2
+    100050: pCube96 3
+    100052: pCube96 4
+    100054: pCube97
+    100056: pCube97 1
+    100058: pCube97 2
+    100060: pCube97 3
+    100062: pCube97 4
+    400000: //RootNode
+    400002: Bottom_cabinets_brown
+    400004: Bottom_cabinets_brown1
+    400006: Bottom_cabinets_brown2
+    400008: Bottom_cabinets_brown3
+    400010: Bottom_cabinets_brown4
+    400012: Cabinets_Handle6
+    400014: Cabinets_Handle6 1
+    400016: Cabinets_Handle6 2
+    400018: Cabinets_Handle6 3
+    400020: Cabinets_Handle6 4
+    400022: Door_cabinet
+    400024: Door_cabinet 1
+    400026: Door_cabinet 2
+    400028: Door_cabinet 3
+    400030: Door_cabinet 4
+    400032: pCube101
+    400034: pCube93
+    400036: pCube93 1
+    400038: pCube93 2
+    400040: pCube93 3
+    400042: pCube93 4
+    400044: pCube96
+    400046: pCube96 1
+    400048: pCube96 2
+    400050: pCube96 3
+    400052: pCube96 4
+    400054: pCube97
+    400056: pCube97 1
+    400058: pCube97 2
+    400060: pCube97 3
+    400062: pCube97 4
+    2100000: StingrayPBS3
+    2100002: lambert15
+    2100004: Balck1
+    2100006: lambert13
+    2100008: StingrayPBS2_yellow_metal
+    2100010: handles1
+    2300000: Cabinets_Handle6
+    2300002: Cabinets_Handle6 1
+    2300004: Cabinets_Handle6 2
+    2300006: Cabinets_Handle6 3
+    2300008: Cabinets_Handle6 4
+    2300010: pCube101
+    2300012: pCube93
+    2300014: pCube93 1
+    2300016: pCube93 2
+    2300018: pCube93 3
+    2300020: pCube93 4
+    2300022: pCube96
+    2300024: pCube96 1
+    2300026: pCube96 2
+    2300028: pCube96 3
+    2300030: pCube96 4
+    2300032: pCube97
+    2300034: pCube97 1
+    2300036: pCube97 2
+    2300038: pCube97 3
+    2300040: pCube97 4
+    3300000: Cabinets_Handle6
+    3300002: Cabinets_Handle6 1
+    3300004: Cabinets_Handle6 2
+    3300006: Cabinets_Handle6 3
+    3300008: Cabinets_Handle6 4
+    3300010: pCube101
+    3300012: pCube93
+    3300014: pCube93 1
+    3300016: pCube93 2
+    3300018: pCube93 3
+    3300020: pCube93 4
+    3300022: pCube96
+    3300024: pCube96 1
+    3300026: pCube96 2
+    3300028: pCube96 3
+    3300030: pCube96 4
+    3300032: pCube97
+    3300034: pCube97 1
+    3300036: pCube97 2
+    3300038: pCube97 3
+    3300040: pCube97 4
+    4300000: pCube101
+    4300002: pCube93
+    4300004: pCube96
+    4300006: pCube97
+    4300008: Cabinets_Handle6
+    4300010: pCube93
+    4300012: pCube96
+    4300014: pCube97
+    4300016: Cabinets_Handle6
+    4300018: pCube93
+    4300020: pCube96
+    4300022: pCube97
+    4300024: Cabinets_Handle6
+    4300026: pCube93
+    4300028: pCube96
+    4300030: pCube97
+    4300032: Cabinets_Handle6
+    4300034: pCube93
+    4300036: pCube96
+    4300038: pCube97
+    4300040: Cabinets_Handle6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

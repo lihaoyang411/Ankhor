@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 681dbd493b9b94b5eabf89e3c5bacc1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom_cabinets_brown
+    100004: Bottom_cabinets_brown1
+    100006: Bottom_cabinets_brown2
+    100008: Bottom_cabinets_brown3
+    100010: Bottom_cabinets_brown4
+    100012: Cabinets_Handle11
+    100014: Cabinets_Handle11 1
+    100016: Cabinets_Handle11 2
+    100018: Cabinets_Handle11 3
+    100020: Cabinets_Handle6
+    100022: Cabinets_Handle6 1
+    100024: Cabinets_Handle6 2
+    100026: Cabinets_Handle6 3
+    100028: Cabinets_Handle6 4
+    100030: Door_cabinet
+    100032: Door_cabinet 1
+    100034: Door_cabinet 2
+    100036: Door_cabinet 3
+    100038: Door_cabinet 4
+    100040: pCube101
+    100042: pCube109
+    100044: pCube109 1
+    100046: pCube109 2
+    100048: pCube109 3
+    100050: pCube93
+    100052: pCube93 1
+    100054: pCube93 2
+    100056: pCube93 3
+    100058: pCube93 4
+    100060: pCube96
+    100062: pCube96 1
+    100064: pCube96 2
+    100066: pCube96 3
+    100068: pCube96 4
+    100070: pCube97
+    100072: pCube97 1
+    100074: pCube97 2
+    100076: pCube97 3
+    100078: pCube97 4
+    100080: Top_Small_Cabinet
+    100082: Top_Small_Cabinet1
+    100084: Top_Small_Cabinet2
+    100086: Top_Small_Cabinet3
+    400000: //RootNode
+    400002: Bottom_cabinets_brown
+    400004: Bottom_cabinets_brown1
+    400006: Bottom_cabinets_brown2
+    400008: Bottom_cabinets_brown3
+    400010: Bottom_cabinets_brown4
+    400012: Cabinets_Handle11
+    400014: Cabinets_Handle11 1
+    400016: Cabinets_Handle11 2
+    400018: Cabinets_Handle11 3
+    400020: Cabinets_Handle6
+    400022: Cabinets_Handle6 1
+    400024: Cabinets_Handle6 2
+    400026: Cabinets_Handle6 3
+    400028: Cabinets_Handle6 4
+    400030: Door_cabinet
+    400032: Door_cabinet 1
+    400034: Door_cabinet 2
+    400036: Door_cabinet 3
+    400038: Door_cabinet 4
+    400040: pCube101
+    400042: pCube109
+    400044: pCube109 1
+    400046: pCube109 2
+    400048: pCube109 3
+    400050: pCube93
+    400052: pCube93 1
+    400054: pCube93 2
+    400056: pCube93 3
+    400058: pCube93 4
+    400060: pCube96
+    400062: pCube96 1
+    400064: pCube96 2
+    400066: pCube96 3
+    400068: pCube96 4
+    400070: pCube97
+    400072: pCube97 1
+    400074: pCube97 2
+    400076: pCube97 3
+    400078: pCube97 4
+    400080: Top_Small_Cabinet
+    400082: Top_Small_Cabinet1
+    400084: Top_Small_Cabinet2
+    400086: Top_Small_Cabinet3
+    2100000: handles
+    2100002: lambert13
+    2100004: lambert15
+    2100006: White_blinn
+    2300000: Cabinets_Handle11
+    2300002: Cabinets_Handle11 1
+    2300004: Cabinets_Handle11 2
+    2300006: Cabinets_Handle11 3
+    2300008: Cabinets_Handle6
+    2300010: Cabinets_Handle6 1
+    2300012: Cabinets_Handle6 2
+    2300014: Cabinets_Handle6 3
+    2300016: Cabinets_Handle6 4
+    2300018: pCube101
+    2300020: pCube109
+    2300022: pCube109 1
+    2300024: pCube109 2
+    2300026: pCube109 3
+    2300028: pCube93
+    2300030: pCube93 1
+    2300032: pCube93 2
+    2300034: pCube93 3
+    2300036: pCube93 4
+    2300038: pCube96
+    2300040: pCube96 1
+    2300042: pCube96 2
+    2300044: pCube96 3
+    2300046: pCube96 4
+    2300048: pCube97
+    2300050: pCube97 1
+    2300052: pCube97 2
+    2300054: pCube97 3
+    2300056: pCube97 4
+    3300000: Cabinets_Handle11
+    3300002: Cabinets_Handle11 1
+    3300004: Cabinets_Handle11 2
+    3300006: Cabinets_Handle11 3
+    3300008: Cabinets_Handle6
+    3300010: Cabinets_Handle6 1
+    3300012: Cabinets_Handle6 2
+    3300014: Cabinets_Handle6 3
+    3300016: Cabinets_Handle6 4
+    3300018: pCube101
+    3300020: pCube109
+    3300022: pCube109 1
+    3300024: pCube109 2
+    3300026: pCube109 3
+    3300028: pCube93
+    3300030: pCube93 1
+    3300032: pCube93 2
+    3300034: pCube93 3
+    3300036: pCube93 4
+    3300038: pCube96
+    3300040: pCube96 1
+    3300042: pCube96 2
+    3300044: pCube96 3
+    3300046: pCube96 4
+    3300048: pCube97
+    3300050: pCube97 1
+    3300052: pCube97 2
+    3300054: pCube97 3
+    3300056: pCube97 4
+    4300000: Cabinets_Handle11
+    4300002: pCube109
+    4300004: pCube93
+    4300006: pCube96
+    4300008: pCube97
+    4300010: Cabinets_Handle6
+    4300012: pCube93
+    4300014: pCube96
+    4300016: pCube97
+    4300018: Cabinets_Handle6
+    4300020: pCube93
+    4300022: pCube96
+    4300024: pCube97
+    4300026: Cabinets_Handle6
+    4300028: pCube93
+    4300030: pCube96
+    4300032: pCube97
+    4300034: Cabinets_Handle6
+    4300036: pCube93
+    4300038: pCube96
+    4300040: pCube97
+    4300042: Cabinets_Handle6
+    4300044: pCube101
+    4300046: Cabinets_Handle11
+    4300048: pCube109
+    4300050: Cabinets_Handle11
+    4300052: pCube109
+    4300054: Cabinets_Handle11
+    4300056: pCube109
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

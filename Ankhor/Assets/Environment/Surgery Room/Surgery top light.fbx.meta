@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: a1e4089d3b3e3f342b234b9877ac4726
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle_lr
+    100002: circle_lrlr
+    100004: Cirlce
+    100006: Light_handles
+    100008: Light_handles1
+    100010: Light_handles10
+    100012: Light_handles2
+    100014: Light_handles3
+    100016: Light_handles4
+    100018: Light_handles5
+    100020: Light_handles6
+    100022: Light_handles7
+    100024: Light_handles8
+    100026: Light_handles9
+    100028: Lighting_1
+    100030: Lighting_2
+    100032: Lighting_3
+    100034: Middle_l
+    100036: Middle_lr
+    100038: Middle_lrl
+    100040: Side_l
+    100042: Side_lr
+    100044: Sode_lrl
+    100046: //RootNode
+    100048: Top_glass_looking
+    400000: Circle_lr
+    400002: circle_lrlr
+    400004: Cirlce
+    400006: Light_handles
+    400008: Light_handles1
+    400010: Light_handles10
+    400012: Light_handles2
+    400014: Light_handles3
+    400016: Light_handles4
+    400018: Light_handles5
+    400020: Light_handles6
+    400022: Light_handles7
+    400024: Light_handles8
+    400026: Light_handles9
+    400028: Lighting_1
+    400030: Lighting_2
+    400032: Lighting_3
+    400034: Middle_l
+    400036: Middle_lr
+    400038: Middle_lrl
+    400040: Side_l
+    400042: Side_lr
+    400044: Sode_lrl
+    400046: //RootNode
+    400048: Top_glass_looking
+    2100000: White_blinn
+    2100002: Metal
+    2300000: Circle_lr
+    2300002: circle_lrlr
+    2300004: Cirlce
+    2300006: Light_handles
+    2300008: Light_handles1
+    2300010: Light_handles10
+    2300012: Light_handles2
+    2300014: Light_handles3
+    2300016: Light_handles4
+    2300018: Light_handles5
+    2300020: Light_handles6
+    2300022: Light_handles7
+    2300024: Light_handles8
+    2300026: Light_handles9
+    2300028: Middle_l
+    2300030: Middle_lr
+    2300032: Middle_lrl
+    2300034: Side_l
+    2300036: Side_lr
+    2300038: Sode_lrl
+    2300040: Top_glass_looking
+    3300000: Circle_lr
+    3300002: circle_lrlr
+    3300004: Cirlce
+    3300006: Light_handles
+    3300008: Light_handles1
+    3300010: Light_handles10
+    3300012: Light_handles2
+    3300014: Light_handles3
+    3300016: Light_handles4
+    3300018: Light_handles5
+    3300020: Light_handles6
+    3300022: Light_handles7
+    3300024: Light_handles8
+    3300026: Light_handles9
+    3300028: Middle_l
+    3300030: Middle_lr
+    3300032: Middle_lrl
+    3300034: Side_l
+    3300036: Side_lr
+    3300038: Sode_lrl
+    3300040: Top_glass_looking
+    4300000: Light_handles10
+    4300002: Light_handles9
+    4300004: Light_handles8
+    4300006: Light_handles7
+    4300008: Light_handles6
+    4300010: Light_handles5
+    4300012: Light_handles4
+    4300014: Light_handles3
+    4300016: Light_handles2
+    4300018: Light_handles1
+    4300020: Light_handles
+    4300022: Top_glass_looking
+    4300024: Middle_l
+    4300026: Side_l
+    4300028: Cirlce
+    4300030: Middle_lr
+    4300032: Side_lr
+    4300034: Circle_lr
+    4300036: Middle_lrl
+    4300038: Sode_lrl
+    4300040: circle_lrlr
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: fffab33ad518e42dda4191f4e0b3c3c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed_bottom
+    100002: Bed_bottom1
+    100004: Bed_top
+    100006: Bed_top1
+    100008: Blue_and_gray_caninets
+    100010: Blue_and_gray_caninets1
+    100012: Blue_and_gray_caninets2
+    100014: Blue_and_gray_caninets3
+    100016: Blue_and_gray_Drawers
+    100018: Blue_and_gray_Drawers1
+    100020: Blue_and_WHITE_Drawers2
+    100022: Bottom_cabinets_brown
+    100024: Bottom_cabinets_brown 1
+    100026: Bottom_cabinets_brown 2
+    100028: Bottom_cabinets_brown1
+    100030: Bottom_cabinets_brown1 1
+    100032: Bottom_cabinets_brown1 2
+    100034: Bottom_cabinets_brown2
+    100036: Bottom_cabinets_brown2 1
+    100038: Bottom_cabinets_brown2 2
+    100040: Bottom_cabinets_brown3
+    100042: Bottom_cabinets_brown3 1
+    100044: Bottom_cabinets_brown3 2
+    100046: Bottom_cabinets_brown4
+    100048: Bottom_cabinets_brown4 1
+    100050: Bottom_cabinets_brown4 2
+    100052: Brown_Cabinets
+    100054: Brown_Cabinets1
+    100056: Brown_Cabinets2
+    100058: Cabinet_open_side
+    100060: Cabinets_Handle10
+    100062: Cabinets_Handle10 1
+    100064: Cabinets_Handle10 2
+    100066: Cabinets_Handle11
+    100068: Cabinets_Handle11 1
+    100070: Cabinets_Handle11 2
+    100072: Cabinets_Handle11 3
+    100074: Cabinets_Handle11 4
+    100076: Cabinets_Handle11 5
+    100078: Cabinets_Handle11 6
+    100080: Cabinets_Handle11 7
+    100082: Cabinets_Handle12
+    100084: Cabinets_Handle12 1
+    100086: Cabinets_Handle13
+    100088: Cabinets_Handle13 1
+    100090: Cabinets_Handle14
+    100092: Cabinets_Handle14 1
+    100094: Cabinets_Handle15
+    100096: Cabinets_Handle15 1
+    100098: Cabinets_Handle16
+    100100: Cabinets_Handle16 1
+    100102: Cabinets_Handle17
+    100104: Cabinets_Handle17 1
+    100106: Cabinets_Handle18
+    100108: Cabinets_Handle18 1
+    100110: Cabinets_Handle20
+    100112: Cabinets_Handle20 1
+    100114: Cabinets_Handle6
+    100116: Cabinets_Handle6 1
+    100118: Cabinets_Handle6 10
+    100120: Cabinets_Handle6 11
+    100122: Cabinets_Handle6 12
+    100124: Cabinets_Handle6 13
+    100126: Cabinets_Handle6 14
+    100128: Cabinets_Handle6 2
+    100130: Cabinets_Handle6 3
+    100132: Cabinets_Handle6 4
+    100134: Cabinets_Handle6 5
+    100136: Cabinets_Handle6 6
+    100138: Cabinets_Handle6 7
+    100140: Cabinets_Handle6 8
+    100142: Cabinets_Handle6 9
+    100144: Cabinets_Handle7
+    100146: Cabinets_Handle7 1
+    100148: Cabinets_Handle7 2
+    100150: Cabinets_Handle8
+    100152: Cabinets_Handle8 1
+    100154: Cabinets_Handle8 2
+    100156: Cabinets_Handle9
+    100158: Cabinets_Handle9 1
+    100160: Cabinets_Handle9 2
+    100162: Cabinets_Handle9 3
+    100164: Cabinets_Handle9 4
+    100166: Cabinets_with_Faucet_Brown
+    100168: Cabinets_with_Faucet_Brown1
+    100170: Circle_lr
+    100172: circle_lrlr
+    100174: Cirlce
+    100176: Copy_or_table
+    100178: Door_cabinet
+    100180: Door_cabinet 1
+    100182: Door_cabinet 10
+    100184: Door_cabinet 11
+    100186: Door_cabinet 12
+    100188: Door_cabinet 13
+    100190: Door_cabinet 14
+    100192: Door_cabinet 2
+    100194: Door_cabinet 3
+    100196: Door_cabinet 4
+    100198: Door_cabinet 5
+    100200: Door_cabinet 6
+    100202: Door_cabinet 7
+    100204: Door_cabinet 8
+    100206: Door_cabinet 9
+    100208: Drugery_table_hio
+    100210: Drugery_table_hio 1
+    100212: Drugery_table_hio1
+    100214: Drugery_table_hio2
+    100216: Drugery_table_hio2 1
+    100218: Drugery_table_hio2 10
+    100220: Drugery_table_hio2 11
+    100222: Drugery_table_hio2 12
+    100224: Drugery_table_hio2 2
+    100226: Drugery_table_hio2 3
+    100228: Drugery_table_hio2 4
+    100230: Drugery_table_hio2 5
+    100232: Drugery_table_hio2 6
+    100234: Drugery_table_hio2 7
+    100236: Drugery_table_hio2 8
+    100238: Drugery_table_hio2 9
+    100240: Faucet
+    100242: ICU_Monitor
+    100244: Light_handles
+    100246: Light_handles1
+    100248: Light_handles10
+    100250: Light_handles11
+    100252: Light_handles12
+    100254: Light_handles13
+    100256: Light_handles14
+    100258: Light_handles15
+    100260: Light_handles2
+    100262: Light_handles3
+    100264: Light_handles4
+    100266: Light_handles5
+    100268: Light_handles6
+    100270: Light_handles7
+    100272: Light_handles8
+    100274: Light_handles9
+    100276: Lighting_1
+    100278: Lighting_2
+    100280: Lighting_3
+    100282: Middle_l
+    100284: Middle_lr
+    100286: Middle_lrl
+    100288: pCube101
+    100290: pCube101 1
+    100292: pCube101 2
+    100294: pCube102
+    100296: pCube103
+    100298: pCube104
+    100300: pCube105
+    100302: pCube106
+    100304: pCube107
+    100306: pCube108
+    100308: pCube109
+    100310: pCube109 1
+    100312: pCube109 2
+    100314: pCube109 3
+    100316: pCube109 4
+    100318: pCube109 5
+    100320: pCube109 6
+    100322: pCube109 7
+    100324: pCube110
+    100326: pCube110 1
+    100328: pCube111
+    100330: pCube111 1
+    100332: pCube112
+    100334: pCube112 1
+    100336: pCube113
+    100338: pCube113 1
+    100340: pCube114
+    100342: pCube114 1
+    100344: pCube115
+    100346: pCube115 1
+    100348: pCube116
+    100350: pCube116 1
+    100352: pCube117
+    100354: pCube117 1
+    100356: pCube118
+    100358: pCube118 1
+    100360: pCube119
+    100362: pCube119 1
+    100364: pCube120
+    100366: pCube120 1
+    100368: pCube121
+    100370: pCube121 1
+    100372: pCube122
+    100374: pCube122 1
+    100376: pCube123
+    100378: pCube123 1
+    100380: pCube124
+    100382: pCube124 1
+    100384: pCube125
+    100386: pCube125 1
+    100388: pCube126
+    100390: pCube126 1
+    100392: pCube127
+    100394: pCube127 1
+    100396: pCube128
+    100398: pCube128 1
+    100400: pCube129
+    100402: pCube129 1
+    100404: pCube130
+    100406: pCube130 1
+    100408: pCube131
+    100410: pCube131 1
+    100412: pCube132
+    100414: pCube132 1
+    100416: pCube60
+    100418: pCube93
+    100420: pCube93 1
+    100422: pCube93 10
+    100424: pCube93 11
+    100426: pCube93 12
+    100428: pCube93 13
+    100430: pCube93 14
+    100432: pCube93 2
+    100434: pCube93 3
+    100436: pCube93 4
+    100438: pCube93 5
+    100440: pCube93 6
+    100442: pCube93 7
+    100444: pCube93 8
+    100446: pCube93 9
+    100448: pCube96
+    100450: pCube96 1
+    100452: pCube96 10
+    100454: pCube96 11
+    100456: pCube96 12
+    100458: pCube96 13
+    100460: pCube96 14
+    100462: pCube96 2
+    100464: pCube96 3
+    100466: pCube96 4
+    100468: pCube96 5
+    100470: pCube96 6
+    100472: pCube96 7
+    100474: pCube96 8
+    100476: pCube96 9
+    100478: pCube97
+    100480: pCube97 1
+    100482: pCube97 10
+    100484: pCube97 11
+    100486: pCube97 12
+    100488: pCube97 13
+    100490: pCube97 14
+    100492: pCube97 2
+    100494: pCube97 3
+    100496: pCube97 4
+    100498: pCube97 5
+    100500: pCube97 6
+    100502: pCube97 7
+    100504: pCube97 8
+    100506: pCube97 9
+    100508: pCylinder1
+    100510: pCylinder10
+    100512: pCylinder10 1
+    100514: pCylinder11
+    100516: pCylinder11 1
+    100518: pCylinder12
+    100520: pCylinder13
+    100522: pCylinder13 1
+    100524: pCylinder14
+    100526: pCylinder14 1
+    100528: pCylinder2
+    100530: pCylinder3
+    100532: pCylinder4
+    100534: pCylinder5
+    100536: pCylinder6
+    100538: pCylinder7
+    100540: pCylinder8
+    100542: pCylinder8 1
+    100544: pCylinder8 10
+    100546: pCylinder8 11
+    100548: pCylinder8 12
+    100550: pCylinder8 2
+    100552: pCylinder8 3
+    100554: pCylinder8 4
+    100556: pCylinder8 5
+    100558: pCylinder8 6
+    100560: pCylinder8 7
+    100562: pCylinder8 8
+    100564: pCylinder8 9
+    100566: pCylinder9
+    100568: pCylinder9 1
+    100570: pCylinder9 10
+    100572: pCylinder9 11
+    100574: pCylinder9 12
+    100576: pCylinder9 2
+    100578: pCylinder9 3
+    100580: pCylinder9 4
+    100582: pCylinder9 5
+    100584: pCylinder9 6
+    100586: pCylinder9 7
+    100588: pCylinder9 8
+    100590: pCylinder9 9
+    100592: Side_l
+    100594: Side_lr
+    100596: Sode_lrl
+    100598: Sode_lrl1
+    100600: //RootNode
+    100602: Surgery_Bed
+    100604: Surgery_side_table
+    100606: Surgery_side_table 1
+    100608: Surgery_side_table_leg_1
+    100610: Surgery_side_table_leg_10
+    100612: Surgery_side_table_leg_10 1
+    100614: Surgery_side_table_leg_10 2
+    100616: Surgery_side_table_leg_11
+    100618: Surgery_side_table_leg_11 1
+    100620: Surgery_side_table_leg_11 2
+    100622: Surgery_side_table_leg_12
+    100624: Surgery_side_table_leg_12 1
+    100626: Surgery_side_table_leg_12 2
+    100628: Surgery_side_table_leg_13
+    100630: Surgery_side_table_leg_13 1
+    100632: Surgery_side_table_leg_13 2
+    100634: Surgery_side_table_leg_14
+    100636: Surgery_side_table_leg_14 1
+    100638: Surgery_side_table_leg_14 2
+    100640: Surgery_side_table_leg_15
+    100642: Surgery_side_table_leg_15 1
+    100644: Surgery_side_table_leg_15 2
+    100646: Surgery_side_table_leg_15 3
+    100648: Surgery_side_table_leg_15 4
+    100650: Surgery_side_table_leg_16
+    100652: Surgery_side_table_leg_16 1
+    100654: Surgery_side_table_leg_16 2
+    100656: Surgery_side_table_leg_16 3
+    100658: Surgery_side_table_leg_16 4
+    100660: Surgery_side_table_leg_17
+    100662: Surgery_side_table_leg_17 1
+    100664: Surgery_side_table_leg_17 2
+    100666: Surgery_side_table_leg_18
+    100668: Surgery_side_table_leg_18 1
+    100670: Surgery_side_table_leg_18 2
+    100672: Surgery_side_table_leg_19
+    100674: Surgery_side_table_leg_19 1
+    100676: Surgery_side_table_leg_19 10
+    100678: Surgery_side_table_leg_19 11
+    100680: Surgery_side_table_leg_19 12
+    100682: Surgery_side_table_leg_19 2
+    100684: Surgery_side_table_leg_19 3
+    100686: Surgery_side_table_leg_19 4
+    100688: Surgery_side_table_leg_19 5
+    100690: Surgery_side_table_leg_19 6
+    100692: Surgery_side_table_leg_19 7
+    100694: Surgery_side_table_leg_19 8
+    100696: Surgery_side_table_leg_19 9
+    100698: Surgery_side_table_leg_2
+    100700: Surgery_side_table_leg_2 1
+    100702: Surgery_side_table_leg_3
+    100704: Surgery_side_table_leg_3 1
+    100706: Surgery_side_table_leg_4
+    100708: Surgery_side_table_leg_4 1
+    100710: Surgery_side_table_leg_5
+    100712: Surgery_side_table_leg_5 1
+    100714: Surgery_side_table_leg_6
+    100716: Surgery_side_table_leg_6 1
+    100718: Surgery_side_table_leg_7
+    100720: Surgery_side_table_leg_8
+    100722: Surgery_side_table_leg_9
+    100724: Surgery_side_table_leg_9 1
+    100726: Surgery_side_table_leg_9 2
+    100728: Surgery_table_wheel
+    100730: Surgery_table_wheel 1
+    100732: Surgery_table_wheel1
+    100734: Surgery_thin_table
+    100736: Surgery_thin_table1_ONE_SIDE
+    100738: Surgery_TOP_LIGHT
+    100740: Table_drawers
+    100742: Table_stand
+    100744: Top_Cabinet
+    100746: Top_Cabinet 1
+    100748: Top_Cabinet1
+    100750: Top_Cabinet1 1
+    100752: Top_glass_looking
+    100754: Top_glass_looking1
+    100756: Top_Small_Cabinet
+    100758: Top_Small_Cabinet 1
+    100760: Top_Small_Cabinet1
+    100762: Top_Small_Cabinet1 1
+    100764: Top_Small_Cabinet2
+    100766: Top_Small_Cabinet2 1
+    100768: Top_Small_Cabinet3
+    100770: Top_Small_Cabinet3 1
+    100772: tv
+    100774: Tv_Stand
+    100776: Tv_Surgery_Room
+    100778: tvv
+    100780: Wheelss
+    100782: Wheelss 1
+    100784: Wheelss 2
+    100786: Wheelss1
+    100788: Wheelss1 1
+    100790: Wheelss1 2
+    100792: Wheelss2
+    100794: Wheelss2 1
+    100796: Wheelss2 2
+    100798: Wheelss3
+    100800: Wheelss3 1
+    100802: Wheelss3 2
+    100804: Wheelss4
+    100806: White_long_habinets
+    400000: Bed_bottom
+    400002: Bed_bottom1
+    400004: Bed_top
+    400006: Bed_top1
+    400008: Blue_and_gray_caninets
+    400010: Blue_and_gray_caninets1
+    400012: Blue_and_gray_caninets2
+    400014: Blue_and_gray_caninets3
+    400016: Blue_and_gray_Drawers
+    400018: Blue_and_gray_Drawers1
+    400020: Blue_and_WHITE_Drawers2
+    400022: Bottom_cabinets_brown
+    400024: Bottom_cabinets_brown 1
+    400026: Bottom_cabinets_brown 2
+    400028: Bottom_cabinets_brown1
+    400030: Bottom_cabinets_brown1 1
+    400032: Bottom_cabinets_brown1 2
+    400034: Bottom_cabinets_brown2
+    400036: Bottom_cabinets_brown2 1
+    400038: Bottom_cabinets_brown2 2
+    400040: Bottom_cabinets_brown3
+    400042: Bottom_cabinets_brown3 1
+    400044: Bottom_cabinets_brown3 2
+    400046: Bottom_cabinets_brown4
+    400048: Bottom_cabinets_brown4 1
+    400050: Bottom_cabinets_brown4 2
+    400052: Brown_Cabinets
+    400054: Brown_Cabinets1
+    400056: Brown_Cabinets2
+    400058: Cabinet_open_side
+    400060: Cabinets_Handle10
+    400062: Cabinets_Handle10 1
+    400064: Cabinets_Handle10 2
+    400066: Cabinets_Handle11
+    400068: Cabinets_Handle11 1
+    400070: Cabinets_Handle11 2
+    400072: Cabinets_Handle11 3
+    400074: Cabinets_Handle11 4
+    400076: Cabinets_Handle11 5
+    400078: Cabinets_Handle11 6
+    400080: Cabinets_Handle11 7
+    400082: Cabinets_Handle12
+    400084: Cabinets_Handle12 1
+    400086: Cabinets_Handle13
+    400088: Cabinets_Handle13 1
+    400090: Cabinets_Handle14
+    400092: Cabinets_Handle14 1
+    400094: Cabinets_Handle15
+    400096: Cabinets_Handle15 1
+    400098: Cabinets_Handle16
+    400100: Cabinets_Handle16 1
+    400102: Cabinets_Handle17
+    400104: Cabinets_Handle17 1
+    400106: Cabinets_Handle18
+    400108: Cabinets_Handle18 1
+    400110: Cabinets_Handle20
+    400112: Cabinets_Handle20 1
+    400114: Cabinets_Handle6
+    400116: Cabinets_Handle6 1
+    400118: Cabinets_Handle6 10
+    400120: Cabinets_Handle6 11
+    400122: Cabinets_Handle6 12
+    400124: Cabinets_Handle6 13
+    400126: Cabinets_Handle6 14
+    400128: Cabinets_Handle6 2
+    400130: Cabinets_Handle6 3
+    400132: Cabinets_Handle6 4
+    400134: Cabinets_Handle6 5
+    400136: Cabinets_Handle6 6
+    400138: Cabinets_Handle6 7
+    400140: Cabinets_Handle6 8
+    400142: Cabinets_Handle6 9
+    400144: Cabinets_Handle7
+    400146: Cabinets_Handle7 1
+    400148: Cabinets_Handle7 2
+    400150: Cabinets_Handle8
+    400152: Cabinets_Handle8 1
+    400154: Cabinets_Handle8 2
+    400156: Cabinets_Handle9
+    400158: Cabinets_Handle9 1
+    400160: Cabinets_Handle9 2
+    400162: Cabinets_Handle9 3
+    400164: Cabinets_Handle9 4
+    400166: Cabinets_with_Faucet_Brown
+    400168: Cabinets_with_Faucet_Brown1
+    400170: Circle_lr
+    400172: circle_lrlr
+    400174: Cirlce
+    400176: Copy_or_table
+    400178: Door_cabinet
+    400180: Door_cabinet 1
+    400182: Door_cabinet 10
+    400184: Door_cabinet 11
+    400186: Door_cabinet 12
+    400188: Door_cabinet 13
+    400190: Door_cabinet 14
+    400192: Door_cabinet 2
+    400194: Door_cabinet 3
+    400196: Door_cabinet 4
+    400198: Door_cabinet 5
+    400200: Door_cabinet 6
+    400202: Door_cabinet 7
+    400204: Door_cabinet 8
+    400206: Door_cabinet 9
+    400208: Drugery_table_hio
+    400210: Drugery_table_hio 1
+    400212: Drugery_table_hio1
+    400214: Drugery_table_hio2
+    400216: Drugery_table_hio2 1
+    400218: Drugery_table_hio2 10
+    400220: Drugery_table_hio2 11
+    400222: Drugery_table_hio2 12
+    400224: Drugery_table_hio2 2
+    400226: Drugery_table_hio2 3
+    400228: Drugery_table_hio2 4
+    400230: Drugery_table_hio2 5
+    400232: Drugery_table_hio2 6
+    400234: Drugery_table_hio2 7
+    400236: Drugery_table_hio2 8
+    400238: Drugery_table_hio2 9
+    400240: Faucet
+    400242: ICU_Monitor
+    400244: Light_handles
+    400246: Light_handles1
+    400248: Light_handles10
+    400250: Light_handles11
+    400252: Light_handles12
+    400254: Light_handles13
+    400256: Light_handles14
+    400258: Light_handles15
+    400260: Light_handles2
+    400262: Light_handles3
+    400264: Light_handles4
+    400266: Light_handles5
+    400268: Light_handles6
+    400270: Light_handles7
+    400272: Light_handles8
+    400274: Light_handles9
+    400276: Lighting_1
+    400278: Lighting_2
+    400280: Lighting_3
+    400282: Middle_l
+    400284: Middle_lr
+    400286: Middle_lrl
+    400288: pCube101
+    400290: pCube101 1
+    400292: pCube101 2
+    400294: pCube102
+    400296: pCube103
+    400298: pCube104
+    400300: pCube105
+    400302: pCube106
+    400304: pCube107
+    400306: pCube108
+    400308: pCube109
+    400310: pCube109 1
+    400312: pCube109 2
+    400314: pCube109 3
+    400316: pCube109 4
+    400318: pCube109 5
+    400320: pCube109 6
+    400322: pCube109 7
+    400324: pCube110
+    400326: pCube110 1
+    400328: pCube111
+    400330: pCube111 1
+    400332: pCube112
+    400334: pCube112 1
+    400336: pCube113
+    400338: pCube113 1
+    400340: pCube114
+    400342: pCube114 1
+    400344: pCube115
+    400346: pCube115 1
+    400348: pCube116
+    400350: pCube116 1
+    400352: pCube117
+    400354: pCube117 1
+    400356: pCube118
+    400358: pCube118 1
+    400360: pCube119
+    400362: pCube119 1
+    400364: pCube120
+    400366: pCube120 1
+    400368: pCube121
+    400370: pCube121 1
+    400372: pCube122
+    400374: pCube122 1
+    400376: pCube123
+    400378: pCube123 1
+    400380: pCube124
+    400382: pCube124 1
+    400384: pCube125
+    400386: pCube125 1
+    400388: pCube126
+    400390: pCube126 1
+    400392: pCube127
+    400394: pCube127 1
+    400396: pCube128
+    400398: pCube128 1
+    400400: pCube129
+    400402: pCube129 1
+    400404: pCube130
+    400406: pCube130 1
+    400408: pCube131
+    400410: pCube131 1
+    400412: pCube132
+    400414: pCube132 1
+    400416: pCube60
+    400418: pCube93
+    400420: pCube93 1
+    400422: pCube93 10
+    400424: pCube93 11
+    400426: pCube93 12
+    400428: pCube93 13
+    400430: pCube93 14
+    400432: pCube93 2
+    400434: pCube93 3
+    400436: pCube93 4
+    400438: pCube93 5
+    400440: pCube93 6
+    400442: pCube93 7
+    400444: pCube93 8
+    400446: pCube93 9
+    400448: pCube96
+    400450: pCube96 1
+    400452: pCube96 10
+    400454: pCube96 11
+    400456: pCube96 12
+    400458: pCube96 13
+    400460: pCube96 14
+    400462: pCube96 2
+    400464: pCube96 3
+    400466: pCube96 4
+    400468: pCube96 5
+    400470: pCube96 6
+    400472: pCube96 7
+    400474: pCube96 8
+    400476: pCube96 9
+    400478: pCube97
+    400480: pCube97 1
+    400482: pCube97 10
+    400484: pCube97 11
+    400486: pCube97 12
+    400488: pCube97 13
+    400490: pCube97 14
+    400492: pCube97 2
+    400494: pCube97 3
+    400496: pCube97 4
+    400498: pCube97 5
+    400500: pCube97 6
+    400502: pCube97 7
+    400504: pCube97 8
+    400506: pCube97 9
+    400508: pCylinder1
+    400510: pCylinder10
+    400512: pCylinder10 1
+    400514: pCylinder11
+    400516: pCylinder11 1
+    400518: pCylinder12
+    400520: pCylinder13
+    400522: pCylinder13 1
+    400524: pCylinder14
+    400526: pCylinder14 1
+    400528: pCylinder2
+    400530: pCylinder3
+    400532: pCylinder4
+    400534: pCylinder5
+    400536: pCylinder6
+    400538: pCylinder7
+    400540: pCylinder8
+    400542: pCylinder8 1
+    400544: pCylinder8 10
+    400546: pCylinder8 11
+    400548: pCylinder8 12
+    400550: pCylinder8 2
+    400552: pCylinder8 3
+    400554: pCylinder8 4
+    400556: pCylinder8 5
+    400558: pCylinder8 6
+    400560: pCylinder8 7
+    400562: pCylinder8 8
+    400564: pCylinder8 9
+    400566: pCylinder9
+    400568: pCylinder9 1
+    400570: pCylinder9 10
+    400572: pCylinder9 11
+    400574: pCylinder9 12
+    400576: pCylinder9 2
+    400578: pCylinder9 3
+    400580: pCylinder9 4
+    400582: pCylinder9 5
+    400584: pCylinder9 6
+    400586: pCylinder9 7
+    400588: pCylinder9 8
+    400590: pCylinder9 9
+    400592: Side_l
+    400594: Side_lr
+    400596: Sode_lrl
+    400598: Sode_lrl1
+    400600: //RootNode
+    400602: Surgery_Bed
+    400604: Surgery_side_table
+    400606: Surgery_side_table 1
+    400608: Surgery_side_table_leg_1
+    400610: Surgery_side_table_leg_10
+    400612: Surgery_side_table_leg_10 1
+    400614: Surgery_side_table_leg_10 2
+    400616: Surgery_side_table_leg_11
+    400618: Surgery_side_table_leg_11 1
+    400620: Surgery_side_table_leg_11 2
+    400622: Surgery_side_table_leg_12
+    400624: Surgery_side_table_leg_12 1
+    400626: Surgery_side_table_leg_12 2
+    400628: Surgery_side_table_leg_13
+    400630: Surgery_side_table_leg_13 1
+    400632: Surgery_side_table_leg_13 2
+    400634: Surgery_side_table_leg_14
+    400636: Surgery_side_table_leg_14 1
+    400638: Surgery_side_table_leg_14 2
+    400640: Surgery_side_table_leg_15
+    400642: Surgery_side_table_leg_15 1
+    400644: Surgery_side_table_leg_15 2
+    400646: Surgery_side_table_leg_15 3
+    400648: Surgery_side_table_leg_15 4
+    400650: Surgery_side_table_leg_16
+    400652: Surgery_side_table_leg_16 1
+    400654: Surgery_side_table_leg_16 2
+    400656: Surgery_side_table_leg_16 3
+    400658: Surgery_side_table_leg_16 4
+    400660: Surgery_side_table_leg_17
+    400662: Surgery_side_table_leg_17 1
+    400664: Surgery_side_table_leg_17 2
+    400666: Surgery_side_table_leg_18
+    400668: Surgery_side_table_leg_18 1
+    400670: Surgery_side_table_leg_18 2
+    400672: Surgery_side_table_leg_19
+    400674: Surgery_side_table_leg_19 1
+    400676: Surgery_side_table_leg_19 10
+    400678: Surgery_side_table_leg_19 11
+    400680: Surgery_side_table_leg_19 12
+    400682: Surgery_side_table_leg_19 2
+    400684: Surgery_side_table_leg_19 3
+    400686: Surgery_side_table_leg_19 4
+    400688: Surgery_side_table_leg_19 5
+    400690: Surgery_side_table_leg_19 6
+    400692: Surgery_side_table_leg_19 7
+    400694: Surgery_side_table_leg_19 8
+    400696: Surgery_side_table_leg_19 9
+    400698: Surgery_side_table_leg_2
+    400700: Surgery_side_table_leg_2 1
+    400702: Surgery_side_table_leg_3
+    400704: Surgery_side_table_leg_3 1
+    400706: Surgery_side_table_leg_4
+    400708: Surgery_side_table_leg_4 1
+    400710: Surgery_side_table_leg_5
+    400712: Surgery_side_table_leg_5 1
+    400714: Surgery_side_table_leg_6
+    400716: Surgery_side_table_leg_6 1
+    400718: Surgery_side_table_leg_7
+    400720: Surgery_side_table_leg_8
+    400722: Surgery_side_table_leg_9
+    400724: Surgery_side_table_leg_9 1
+    400726: Surgery_side_table_leg_9 2
+    400728: Surgery_table_wheel
+    400730: Surgery_table_wheel 1
+    400732: Surgery_table_wheel1
+    400734: Surgery_thin_table
+    400736: Surgery_thin_table1_ONE_SIDE
+    400738: Surgery_TOP_LIGHT
+    400740: Table_drawers
+    400742: Table_stand
+    400744: Top_Cabinet
+    400746: Top_Cabinet 1
+    400748: Top_Cabinet1
+    400750: Top_Cabinet1 1
+    400752: Top_glass_looking
+    400754: Top_glass_looking1
+    400756: Top_Small_Cabinet
+    400758: Top_Small_Cabinet 1
+    400760: Top_Small_Cabinet1
+    400762: Top_Small_Cabinet1 1
+    400764: Top_Small_Cabinet2
+    400766: Top_Small_Cabinet2 1
+    400768: Top_Small_Cabinet3
+    400770: Top_Small_Cabinet3 1
+    400772: tv
+    400774: Tv_Stand
+    400776: Tv_Surgery_Room
+    400778: tvv
+    400780: Wheelss
+    400782: Wheelss 1
+    400784: Wheelss 2
+    400786: Wheelss1
+    400788: Wheelss1 1
+    400790: Wheelss1 2
+    400792: Wheelss2
+    400794: Wheelss2 1
+    400796: Wheelss2 2
+    400798: Wheelss3
+    400800: Wheelss3 1
+    400802: Wheelss3 2
+    400804: Wheelss4
+    400806: White_long_habinets
+    2100000: lambert1
+    2100002: Light_Blue
+    2100004: Dark_blue_phong
+    2100006: White_blinn
+    2100008: Dark_nlue
+    2100010: Metal
+    2100012: Balck
+    2100014: blinn5
+    2100016: blinn4
+    2100018: handles
+    2100020: Black
+    2100022: phong_BLACK
+    2100024: lambert15
+    2100026: lambert13
+    2300000: Bed_bottom
+    2300002: Bed_bottom1
+    2300004: Bed_top
+    2300006: Bed_top1
+    2300008: Cabinets_Handle10
+    2300010: Cabinets_Handle10 1
+    2300012: Cabinets_Handle10 2
+    2300014: Cabinets_Handle11
+    2300016: Cabinets_Handle11 1
+    2300018: Cabinets_Handle11 2
+    2300020: Cabinets_Handle11 3
+    2300022: Cabinets_Handle11 4
+    2300024: Cabinets_Handle11 5
+    2300026: Cabinets_Handle11 6
+    2300028: Cabinets_Handle11 7
+    2300030: Cabinets_Handle12
+    2300032: Cabinets_Handle12 1
+    2300034: Cabinets_Handle13
+    2300036: Cabinets_Handle13 1
+    2300038: Cabinets_Handle14
+    2300040: Cabinets_Handle14 1
+    2300042: Cabinets_Handle15
+    2300044: Cabinets_Handle15 1
+    2300046: Cabinets_Handle16
+    2300048: Cabinets_Handle16 1
+    2300050: Cabinets_Handle17
+    2300052: Cabinets_Handle17 1
+    2300054: Cabinets_Handle18
+    2300056: Cabinets_Handle18 1
+    2300058: Cabinets_Handle20
+    2300060: Cabinets_Handle20 1
+    2300062: Cabinets_Handle6
+    2300064: Cabinets_Handle6 1
+    2300066: Cabinets_Handle6 10
+    2300068: Cabinets_Handle6 11
+    2300070: Cabinets_Handle6 12
+    2300072: Cabinets_Handle6 13
+    2300074: Cabinets_Handle6 14
+    2300076: Cabinets_Handle6 2
+    2300078: Cabinets_Handle6 3
+    2300080: Cabinets_Handle6 4
+    2300082: Cabinets_Handle6 5
+    2300084: Cabinets_Handle6 6
+    2300086: Cabinets_Handle6 7
+    2300088: Cabinets_Handle6 8
+    2300090: Cabinets_Handle6 9
+    2300092: Cabinets_Handle7
+    2300094: Cabinets_Handle7 1
+    2300096: Cabinets_Handle7 2
+    2300098: Cabinets_Handle8
+    2300100: Cabinets_Handle8 1
+    2300102: Cabinets_Handle8 2
+    2300104: Cabinets_Handle9
+    2300106: Cabinets_Handle9 1
+    2300108: Cabinets_Handle9 2
+    2300110: Cabinets_Handle9 3
+    2300112: Cabinets_Handle9 4
+    2300114: Circle_lr
+    2300116: circle_lrlr
+    2300118: Cirlce
+    2300120: Copy_or_table
+    2300122: Drugery_table_hio
+    2300124: Drugery_table_hio 1
+    2300126: Drugery_table_hio1
+    2300128: Drugery_table_hio2
+    2300130: Drugery_table_hio2 1
+    2300132: Drugery_table_hio2 10
+    2300134: Drugery_table_hio2 11
+    2300136: Drugery_table_hio2 12
+    2300138: Drugery_table_hio2 2
+    2300140: Drugery_table_hio2 3
+    2300142: Drugery_table_hio2 4
+    2300144: Drugery_table_hio2 5
+    2300146: Drugery_table_hio2 6
+    2300148: Drugery_table_hio2 7
+    2300150: Drugery_table_hio2 8
+    2300152: Drugery_table_hio2 9
+    2300154: Light_handles
+    2300156: Light_handles1
+    2300158: Light_handles10
+    2300160: Light_handles11
+    2300162: Light_handles12
+    2300164: Light_handles13
+    2300166: Light_handles14
+    2300168: Light_handles15
+    2300170: Light_handles2
+    2300172: Light_handles3
+    2300174: Light_handles4
+    2300176: Light_handles5
+    2300178: Light_handles6
+    2300180: Light_handles7
+    2300182: Light_handles8
+    2300184: Light_handles9
+    2300186: Middle_l
+    2300188: Middle_lr
+    2300190: Middle_lrl
+    2300192: pCube101
+    2300194: pCube101 1
+    2300196: pCube101 2
+    2300198: pCube102
+    2300200: pCube103
+    2300202: pCube104
+    2300204: pCube105
+    2300206: pCube106
+    2300208: pCube107
+    2300210: pCube108
+    2300212: pCube109
+    2300214: pCube109 1
+    2300216: pCube109 2
+    2300218: pCube109 3
+    2300220: pCube109 4
+    2300222: pCube109 5
+    2300224: pCube109 6
+    2300226: pCube109 7
+    2300228: pCube110
+    2300230: pCube110 1
+    2300232: pCube111
+    2300234: pCube111 1
+    2300236: pCube112
+    2300238: pCube112 1
+    2300240: pCube113
+    2300242: pCube113 1
+    2300244: pCube114
+    2300246: pCube114 1
+    2300248: pCube115
+    2300250: pCube115 1
+    2300252: pCube116
+    2300254: pCube116 1
+    2300256: pCube117
+    2300258: pCube117 1
+    2300260: pCube118
+    2300262: pCube118 1
+    2300264: pCube119
+    2300266: pCube119 1
+    2300268: pCube120
+    2300270: pCube120 1
+    2300272: pCube121
+    2300274: pCube121 1
+    2300276: pCube122
+    2300278: pCube122 1
+    2300280: pCube123
+    2300282: pCube123 1
+    2300284: pCube124
+    2300286: pCube124 1
+    2300288: pCube125
+    2300290: pCube125 1
+    2300292: pCube126
+    2300294: pCube126 1
+    2300296: pCube127
+    2300298: pCube127 1
+    2300300: pCube128
+    2300302: pCube128 1
+    2300304: pCube129
+    2300306: pCube129 1
+    2300308: pCube130
+    2300310: pCube130 1
+    2300312: pCube131
+    2300314: pCube131 1
+    2300316: pCube132
+    2300318: pCube132 1
+    2300320: pCube60
+    2300322: pCube93
+    2300324: pCube93 1
+    2300326: pCube93 10
+    2300328: pCube93 11
+    2300330: pCube93 12
+    2300332: pCube93 13
+    2300334: pCube93 14
+    2300336: pCube93 2
+    2300338: pCube93 3
+    2300340: pCube93 4
+    2300342: pCube93 5
+    2300344: pCube93 6
+    2300346: pCube93 7
+    2300348: pCube93 8
+    2300350: pCube93 9
+    2300352: pCube96
+    2300354: pCube96 1
+    2300356: pCube96 10
+    2300358: pCube96 11
+    2300360: pCube96 12
+    2300362: pCube96 13
+    2300364: pCube96 14
+    2300366: pCube96 2
+    2300368: pCube96 3
+    2300370: pCube96 4
+    2300372: pCube96 5
+    2300374: pCube96 6
+    2300376: pCube96 7
+    2300378: pCube96 8
+    2300380: pCube96 9
+    2300382: pCube97
+    2300384: pCube97 1
+    2300386: pCube97 10
+    2300388: pCube97 11
+    2300390: pCube97 12
+    2300392: pCube97 13
+    2300394: pCube97 14
+    2300396: pCube97 2
+    2300398: pCube97 3
+    2300400: pCube97 4
+    2300402: pCube97 5
+    2300404: pCube97 6
+    2300406: pCube97 7
+    2300408: pCube97 8
+    2300410: pCube97 9
+    2300412: pCylinder1
+    2300414: pCylinder10
+    2300416: pCylinder10 1
+    2300418: pCylinder11
+    2300420: pCylinder11 1
+    2300422: pCylinder12
+    2300424: pCylinder13
+    2300426: pCylinder13 1
+    2300428: pCylinder14
+    2300430: pCylinder14 1
+    2300432: pCylinder2
+    2300434: pCylinder3
+    2300436: pCylinder4
+    2300438: pCylinder5
+    2300440: pCylinder6
+    2300442: pCylinder7
+    2300444: pCylinder8
+    2300446: pCylinder8 1
+    2300448: pCylinder8 10
+    2300450: pCylinder8 11
+    2300452: pCylinder8 12
+    2300454: pCylinder8 2
+    2300456: pCylinder8 3
+    2300458: pCylinder8 4
+    2300460: pCylinder8 5
+    2300462: pCylinder8 6
+    2300464: pCylinder8 7
+    2300466: pCylinder8 8
+    2300468: pCylinder8 9
+    2300470: pCylinder9
+    2300472: pCylinder9 1
+    2300474: pCylinder9 10
+    2300476: pCylinder9 11
+    2300478: pCylinder9 12
+    2300480: pCylinder9 2
+    2300482: pCylinder9 3
+    2300484: pCylinder9 4
+    2300486: pCylinder9 5
+    2300488: pCylinder9 6
+    2300490: pCylinder9 7
+    2300492: pCylinder9 8
+    2300494: pCylinder9 9
+    2300496: Side_l
+    2300498: Side_lr
+    2300500: Sode_lrl
+    2300502: Sode_lrl1
+    2300504: Surgery_side_table
+    2300506: Surgery_side_table 1
+    2300508: Surgery_side_table_leg_1
+    2300510: Surgery_side_table_leg_10
+    2300512: Surgery_side_table_leg_10 1
+    2300514: Surgery_side_table_leg_10 2
+    2300516: Surgery_side_table_leg_11
+    2300518: Surgery_side_table_leg_11 1
+    2300520: Surgery_side_table_leg_11 2
+    2300522: Surgery_side_table_leg_12
+    2300524: Surgery_side_table_leg_12 1
+    2300526: Surgery_side_table_leg_12 2
+    2300528: Surgery_side_table_leg_13
+    2300530: Surgery_side_table_leg_13 1
+    2300532: Surgery_side_table_leg_13 2
+    2300534: Surgery_side_table_leg_14
+    2300536: Surgery_side_table_leg_14 1
+    2300538: Surgery_side_table_leg_14 2
+    2300540: Surgery_side_table_leg_15
+    2300542: Surgery_side_table_leg_15 1
+    2300544: Surgery_side_table_leg_15 2
+    2300546: Surgery_side_table_leg_15 3
+    2300548: Surgery_side_table_leg_15 4
+    2300550: Surgery_side_table_leg_16
+    2300552: Surgery_side_table_leg_16 1
+    2300554: Surgery_side_table_leg_16 2
+    2300556: Surgery_side_table_leg_16 3
+    2300558: Surgery_side_table_leg_16 4
+    2300560: Surgery_side_table_leg_17
+    2300562: Surgery_side_table_leg_17 1
+    2300564: Surgery_side_table_leg_17 2
+    2300566: Surgery_side_table_leg_18
+    2300568: Surgery_side_table_leg_18 1
+    2300570: Surgery_side_table_leg_18 2
+    2300572: Surgery_side_table_leg_19
+    2300574: Surgery_side_table_leg_19 1
+    2300576: Surgery_side_table_leg_19 10
+    2300578: Surgery_side_table_leg_19 11
+    2300580: Surgery_side_table_leg_19 12
+    2300582: Surgery_side_table_leg_19 2
+    2300584: Surgery_side_table_leg_19 3
+    2300586: Surgery_side_table_leg_19 4
+    2300588: Surgery_side_table_leg_19 5
+    2300590: Surgery_side_table_leg_19 6
+    2300592: Surgery_side_table_leg_19 7
+    2300594: Surgery_side_table_leg_19 8
+    2300596: Surgery_side_table_leg_19 9
+    2300598: Surgery_side_table_leg_2
+    2300600: Surgery_side_table_leg_2 1
+    2300602: Surgery_side_table_leg_3
+    2300604: Surgery_side_table_leg_3 1
+    2300606: Surgery_side_table_leg_4
+    2300608: Surgery_side_table_leg_4 1
+    2300610: Surgery_side_table_leg_5
+    2300612: Surgery_side_table_leg_5 1
+    2300614: Surgery_side_table_leg_6
+    2300616: Surgery_side_table_leg_6 1
+    2300618: Surgery_side_table_leg_7
+    2300620: Surgery_side_table_leg_8
+    2300622: Surgery_side_table_leg_9
+    2300624: Surgery_side_table_leg_9 1
+    2300626: Surgery_side_table_leg_9 2
+    2300628: Surgery_table_wheel
+    2300630: Surgery_table_wheel 1
+    2300632: Surgery_table_wheel1
+    2300634: Table_drawers
+    2300636: Table_stand
+    2300638: Top_glass_looking
+    2300640: Top_glass_looking1
+    2300642: tvv
+    3300000: Bed_bottom
+    3300002: Bed_bottom1
+    3300004: Bed_top
+    3300006: Bed_top1
+    3300008: Cabinets_Handle10
+    3300010: Cabinets_Handle10 1
+    3300012: Cabinets_Handle10 2
+    3300014: Cabinets_Handle11
+    3300016: Cabinets_Handle11 1
+    3300018: Cabinets_Handle11 2
+    3300020: Cabinets_Handle11 3
+    3300022: Cabinets_Handle11 4
+    3300024: Cabinets_Handle11 5
+    3300026: Cabinets_Handle11 6
+    3300028: Cabinets_Handle11 7
+    3300030: Cabinets_Handle12
+    3300032: Cabinets_Handle12 1
+    3300034: Cabinets_Handle13
+    3300036: Cabinets_Handle13 1
+    3300038: Cabinets_Handle14
+    3300040: Cabinets_Handle14 1
+    3300042: Cabinets_Handle15
+    3300044: Cabinets_Handle15 1
+    3300046: Cabinets_Handle16
+    3300048: Cabinets_Handle16 1
+    3300050: Cabinets_Handle17
+    3300052: Cabinets_Handle17 1
+    3300054: Cabinets_Handle18
+    3300056: Cabinets_Handle18 1
+    3300058: Cabinets_Handle20
+    3300060: Cabinets_Handle20 1
+    3300062: Cabinets_Handle6
+    3300064: Cabinets_Handle6 1
+    3300066: Cabinets_Handle6 10
+    3300068: Cabinets_Handle6 11
+    3300070: Cabinets_Handle6 12
+    3300072: Cabinets_Handle6 13
+    3300074: Cabinets_Handle6 14
+    3300076: Cabinets_Handle6 2
+    3300078: Cabinets_Handle6 3
+    3300080: Cabinets_Handle6 4
+    3300082: Cabinets_Handle6 5
+    3300084: Cabinets_Handle6 6
+    3300086: Cabinets_Handle6 7
+    3300088: Cabinets_Handle6 8
+    3300090: Cabinets_Handle6 9
+    3300092: Cabinets_Handle7
+    3300094: Cabinets_Handle7 1
+    3300096: Cabinets_Handle7 2
+    3300098: Cabinets_Handle8
+    3300100: Cabinets_Handle8 1
+    3300102: Cabinets_Handle8 2
+    3300104: Cabinets_Handle9
+    3300106: Cabinets_Handle9 1
+    3300108: Cabinets_Handle9 2
+    3300110: Cabinets_Handle9 3
+    3300112: Cabinets_Handle9 4
+    3300114: Circle_lr
+    3300116: circle_lrlr
+    3300118: Cirlce
+    3300120: Copy_or_table
+    3300122: Drugery_table_hio
+    3300124: Drugery_table_hio 1
+    3300126: Drugery_table_hio1
+    3300128: Drugery_table_hio2
+    3300130: Drugery_table_hio2 1
+    3300132: Drugery_table_hio2 10
+    3300134: Drugery_table_hio2 11
+    3300136: Drugery_table_hio2 12
+    3300138: Drugery_table_hio2 2
+    3300140: Drugery_table_hio2 3
+    3300142: Drugery_table_hio2 4
+    3300144: Drugery_table_hio2 5
+    3300146: Drugery_table_hio2 6
+    3300148: Drugery_table_hio2 7
+    3300150: Drugery_table_hio2 8
+    3300152: Drugery_table_hio2 9
+    3300154: Light_handles
+    3300156: Light_handles1
+    3300158: Light_handles10
+    3300160: Light_handles11
+    3300162: Light_handles12
+    3300164: Light_handles13
+    3300166: Light_handles14
+    3300168: Light_handles15
+    3300170: Light_handles2
+    3300172: Light_handles3
+    3300174: Light_handles4
+    3300176: Light_handles5
+    3300178: Light_handles6
+    3300180: Light_handles7
+    3300182: Light_handles8
+    3300184: Light_handles9
+    3300186: Middle_l
+    3300188: Middle_lr
+    3300190: Middle_lrl
+    3300192: pCube101
+    3300194: pCube101 1
+    3300196: pCube101 2
+    3300198: pCube102
+    3300200: pCube103
+    3300202: pCube104
+    3300204: pCube105
+    3300206: pCube106
+    3300208: pCube107
+    3300210: pCube108
+    3300212: pCube109
+    3300214: pCube109 1
+    3300216: pCube109 2
+    3300218: pCube109 3
+    3300220: pCube109 4
+    3300222: pCube109 5
+    3300224: pCube109 6
+    3300226: pCube109 7
+    3300228: pCube110
+    3300230: pCube110 1
+    3300232: pCube111
+    3300234: pCube111 1
+    3300236: pCube112
+    3300238: pCube112 1
+    3300240: pCube113
+    3300242: pCube113 1
+    3300244: pCube114
+    3300246: pCube114 1
+    3300248: pCube115
+    3300250: pCube115 1
+    3300252: pCube116
+    3300254: pCube116 1
+    3300256: pCube117
+    3300258: pCube117 1
+    3300260: pCube118
+    3300262: pCube118 1
+    3300264: pCube119
+    3300266: pCube119 1
+    3300268: pCube120
+    3300270: pCube120 1
+    3300272: pCube121
+    3300274: pCube121 1
+    3300276: pCube122
+    3300278: pCube122 1
+    3300280: pCube123
+    3300282: pCube123 1
+    3300284: pCube124
+    3300286: pCube124 1
+    3300288: pCube125
+    3300290: pCube125 1
+    3300292: pCube126
+    3300294: pCube126 1
+    3300296: pCube127
+    3300298: pCube127 1
+    3300300: pCube128
+    3300302: pCube128 1
+    3300304: pCube129
+    3300306: pCube129 1
+    3300308: pCube130
+    3300310: pCube130 1
+    3300312: pCube131
+    3300314: pCube131 1
+    3300316: pCube132
+    3300318: pCube132 1
+    3300320: pCube60
+    3300322: pCube93
+    3300324: pCube93 1
+    3300326: pCube93 10
+    3300328: pCube93 11
+    3300330: pCube93 12
+    3300332: pCube93 13
+    3300334: pCube93 14
+    3300336: pCube93 2
+    3300338: pCube93 3
+    3300340: pCube93 4
+    3300342: pCube93 5
+    3300344: pCube93 6
+    3300346: pCube93 7
+    3300348: pCube93 8
+    3300350: pCube93 9
+    3300352: pCube96
+    3300354: pCube96 1
+    3300356: pCube96 10
+    3300358: pCube96 11
+    3300360: pCube96 12
+    3300362: pCube96 13
+    3300364: pCube96 14
+    3300366: pCube96 2
+    3300368: pCube96 3
+    3300370: pCube96 4
+    3300372: pCube96 5
+    3300374: pCube96 6
+    3300376: pCube96 7
+    3300378: pCube96 8
+    3300380: pCube96 9
+    3300382: pCube97
+    3300384: pCube97 1
+    3300386: pCube97 10
+    3300388: pCube97 11
+    3300390: pCube97 12
+    3300392: pCube97 13
+    3300394: pCube97 14
+    3300396: pCube97 2
+    3300398: pCube97 3
+    3300400: pCube97 4
+    3300402: pCube97 5
+    3300404: pCube97 6
+    3300406: pCube97 7
+    3300408: pCube97 8
+    3300410: pCube97 9
+    3300412: pCylinder1
+    3300414: pCylinder10
+    3300416: pCylinder10 1
+    3300418: pCylinder11
+    3300420: pCylinder11 1
+    3300422: pCylinder12
+    3300424: pCylinder13
+    3300426: pCylinder13 1
+    3300428: pCylinder14
+    3300430: pCylinder14 1
+    3300432: pCylinder2
+    3300434: pCylinder3
+    3300436: pCylinder4
+    3300438: pCylinder5
+    3300440: pCylinder6
+    3300442: pCylinder7
+    3300444: pCylinder8
+    3300446: pCylinder8 1
+    3300448: pCylinder8 10
+    3300450: pCylinder8 11
+    3300452: pCylinder8 12
+    3300454: pCylinder8 2
+    3300456: pCylinder8 3
+    3300458: pCylinder8 4
+    3300460: pCylinder8 5
+    3300462: pCylinder8 6
+    3300464: pCylinder8 7
+    3300466: pCylinder8 8
+    3300468: pCylinder8 9
+    3300470: pCylinder9
+    3300472: pCylinder9 1
+    3300474: pCylinder9 10
+    3300476: pCylinder9 11
+    3300478: pCylinder9 12
+    3300480: pCylinder9 2
+    3300482: pCylinder9 3
+    3300484: pCylinder9 4
+    3300486: pCylinder9 5
+    3300488: pCylinder9 6
+    3300490: pCylinder9 7
+    3300492: pCylinder9 8
+    3300494: pCylinder9 9
+    3300496: Side_l
+    3300498: Side_lr
+    3300500: Sode_lrl
+    3300502: Sode_lrl1
+    3300504: Surgery_side_table
+    3300506: Surgery_side_table 1
+    3300508: Surgery_side_table_leg_1
+    3300510: Surgery_side_table_leg_10
+    3300512: Surgery_side_table_leg_10 1
+    3300514: Surgery_side_table_leg_10 2
+    3300516: Surgery_side_table_leg_11
+    3300518: Surgery_side_table_leg_11 1
+    3300520: Surgery_side_table_leg_11 2
+    3300522: Surgery_side_table_leg_12
+    3300524: Surgery_side_table_leg_12 1
+    3300526: Surgery_side_table_leg_12 2
+    3300528: Surgery_side_table_leg_13
+    3300530: Surgery_side_table_leg_13 1
+    3300532: Surgery_side_table_leg_13 2
+    3300534: Surgery_side_table_leg_14
+    3300536: Surgery_side_table_leg_14 1
+    3300538: Surgery_side_table_leg_14 2
+    3300540: Surgery_side_table_leg_15
+    3300542: Surgery_side_table_leg_15 1
+    3300544: Surgery_side_table_leg_15 2
+    3300546: Surgery_side_table_leg_15 3
+    3300548: Surgery_side_table_leg_15 4
+    3300550: Surgery_side_table_leg_16
+    3300552: Surgery_side_table_leg_16 1
+    3300554: Surgery_side_table_leg_16 2
+    3300556: Surgery_side_table_leg_16 3
+    3300558: Surgery_side_table_leg_16 4
+    3300560: Surgery_side_table_leg_17
+    3300562: Surgery_side_table_leg_17 1
+    3300564: Surgery_side_table_leg_17 2
+    3300566: Surgery_side_table_leg_18
+    3300568: Surgery_side_table_leg_18 1
+    3300570: Surgery_side_table_leg_18 2
+    3300572: Surgery_side_table_leg_19
+    3300574: Surgery_side_table_leg_19 1
+    3300576: Surgery_side_table_leg_19 10
+    3300578: Surgery_side_table_leg_19 11
+    3300580: Surgery_side_table_leg_19 12
+    3300582: Surgery_side_table_leg_19 2
+    3300584: Surgery_side_table_leg_19 3
+    3300586: Surgery_side_table_leg_19 4
+    3300588: Surgery_side_table_leg_19 5
+    3300590: Surgery_side_table_leg_19 6
+    3300592: Surgery_side_table_leg_19 7
+    3300594: Surgery_side_table_leg_19 8
+    3300596: Surgery_side_table_leg_19 9
+    3300598: Surgery_side_table_leg_2
+    3300600: Surgery_side_table_leg_2 1
+    3300602: Surgery_side_table_leg_3
+    3300604: Surgery_side_table_leg_3 1
+    3300606: Surgery_side_table_leg_4
+    3300608: Surgery_side_table_leg_4 1
+    3300610: Surgery_side_table_leg_5
+    3300612: Surgery_side_table_leg_5 1
+    3300614: Surgery_side_table_leg_6
+    3300616: Surgery_side_table_leg_6 1
+    3300618: Surgery_side_table_leg_7
+    3300620: Surgery_side_table_leg_8
+    3300622: Surgery_side_table_leg_9
+    3300624: Surgery_side_table_leg_9 1
+    3300626: Surgery_side_table_leg_9 2
+    3300628: Surgery_table_wheel
+    3300630: Surgery_table_wheel 1
+    3300632: Surgery_table_wheel1
+    3300634: Table_drawers
+    3300636: Table_stand
+    3300638: Top_glass_looking
+    3300640: Top_glass_looking1
+    3300642: tvv
+    4300000: Copy_or_table
+    4300002: Bed_top1
+    4300004: Bed_bottom
+    4300006: Table_stand
+    4300008: Table_drawers
+    4300010: Bed_top
+    4300012: Bed_bottom1
+    4300014: Surgery_side_table_leg_2
+    4300016: Surgery_side_table_leg_6
+    4300018: Surgery_side_table_leg_5
+    4300020: Surgery_table_wheel
+    4300022: Surgery_side_table_leg_4
+    4300024: Surgery_side_table_leg_3
+    4300026: Surgery_side_table_leg_1
+    4300028: Drugery_table_hio
+    4300030: Surgery_side_table
+    4300032: Surgery_table_wheel1
+    4300034: Surgery_side_table_leg_8
+    4300036: Surgery_side_table_leg_7
+    4300038: Drugery_table_hio1
+    4300040: Light_handles10
+    4300042: Light_handles9
+    4300044: Light_handles8
+    4300046: Light_handles7
+    4300048: Light_handles6
+    4300050: Light_handles5
+    4300052: Light_handles4
+    4300054: Light_handles3
+    4300056: Light_handles2
+    4300058: Light_handles1
+    4300060: Light_handles
+    4300062: Top_glass_looking
+    4300064: Middle_l
+    4300066: Side_l
+    4300068: Cirlce
+    4300070: Middle_lr
+    4300072: Side_lr
+    4300074: Circle_lr
+    4300076: Middle_lrl
+    4300078: Sode_lrl
+    4300080: circle_lrlr
+    4300082: pCube103
+    4300084: pCube107
+    4300086: pCube106
+    4300088: pCube105
+    4300090: pCube104
+    4300092: pCube102
+    4300094: Drugery_table_hio2
+    4300096: Surgery_side_table_leg_19
+    4300098: pCylinder8
+    4300100: pCylinder9
+    4300102: pCylinder2
+    4300104: pCube108
+    4300106: pCylinder1
+    4300108: pCylinder7
+    4300110: pCylinder6
+    4300112: pCylinder5
+    4300114: pCylinder4
+    4300116: pCylinder3
+    4300118: Surgery_side_table_leg_9
+    4300120: Cabinets_Handle7
+    4300122: Surgery_side_table_leg_12
+    4300124: Surgery_side_table_leg_11
+    4300126: Surgery_side_table_leg_13
+    4300128: Surgery_side_table_leg_14
+    4300130: Cabinets_Handle8
+    4300132: Surgery_side_table_leg_15
+    4300134: Surgery_side_table_leg_16
+    4300136: Cabinets_Handle9
+    4300138: Surgery_side_table_leg_10
+    4300140: Surgery_side_table_leg_17
+    4300142: Surgery_side_table_leg_18
+    4300144: Cabinets_Handle10
+    4300146: Drugery_table_hio2
+    4300148: Surgery_side_table_leg_19
+    4300150: pCylinder8
+    4300152: pCylinder9
+    4300154: Drugery_table_hio2
+    4300156: Surgery_side_table_leg_19
+    4300158: pCylinder8
+    4300160: pCylinder9
+    4300162: Drugery_table_hio2
+    4300164: Surgery_side_table_leg_19
+    4300166: pCylinder8
+    4300168: pCylinder9
+    4300170: Drugery_table_hio2
+    4300172: Surgery_side_table_leg_19
+    4300174: pCylinder8
+    4300176: pCylinder9
+    4300178: Surgery_side_table_leg_9
+    4300180: Cabinets_Handle7
+    4300182: Surgery_side_table_leg_12
+    4300184: Surgery_side_table_leg_11
+    4300186: Surgery_side_table_leg_13
+    4300188: Surgery_side_table_leg_14
+    4300190: Cabinets_Handle8
+    4300192: Surgery_side_table_leg_10
+    4300194: Surgery_side_table_leg_17
+    4300196: Surgery_side_table_leg_18
+    4300198: Cabinets_Handle10
+    4300200: Drugery_table_hio2
+    4300202: Surgery_side_table_leg_19
+    4300204: pCylinder8
+    4300206: pCylinder9
+    4300208: Drugery_table_hio2
+    4300210: Surgery_side_table_leg_19
+    4300212: pCylinder8
+    4300214: pCylinder9
+    4300216: Drugery_table_hio2
+    4300218: Surgery_side_table_leg_19
+    4300220: pCylinder8
+    4300222: pCylinder9
+    4300224: Drugery_table_hio2
+    4300226: Surgery_side_table_leg_19
+    4300228: pCylinder8
+    4300230: pCylinder9
+    4300232: Surgery_side_table_leg_15
+    4300234: Surgery_side_table_leg_16
+    4300236: Cabinets_Handle9
+    4300238: Surgery_side_table_leg_15
+    4300240: Surgery_side_table_leg_16
+    4300242: Cabinets_Handle9
+    4300244: Surgery_side_table_leg_9
+    4300246: Cabinets_Handle7
+    4300248: Surgery_side_table_leg_12
+    4300250: Surgery_side_table_leg_11
+    4300252: Surgery_side_table_leg_13
+    4300254: Surgery_side_table_leg_14
+    4300256: Cabinets_Handle8
+    4300258: Surgery_side_table_leg_10
+    4300260: Surgery_side_table_leg_17
+    4300262: Surgery_side_table_leg_18
+    4300264: Cabinets_Handle10
+    4300266: Drugery_table_hio2
+    4300268: Surgery_side_table_leg_19
+    4300270: pCylinder8
+    4300272: pCylinder9
+    4300274: Drugery_table_hio2
+    4300276: Surgery_side_table_leg_19
+    4300278: pCylinder8
+    4300280: pCylinder9
+    4300282: Drugery_table_hio2
+    4300284: Surgery_side_table_leg_19
+    4300286: pCylinder8
+    4300288: pCylinder9
+    4300290: Drugery_table_hio2
+    4300292: Surgery_side_table_leg_19
+    4300294: pCylinder8
+    4300296: pCylinder9
+    4300298: Surgery_side_table_leg_15
+    4300300: Surgery_side_table_leg_16
+    4300302: Cabinets_Handle9
+    4300304: Surgery_side_table_leg_15
+    4300306: Surgery_side_table_leg_16
+    4300308: Cabinets_Handle9
+    4300310: Surgery_side_table_leg_2
+    4300312: Surgery_side_table_leg_6
+    4300314: Surgery_side_table_leg_5
+    4300316: Surgery_table_wheel
+    4300318: Surgery_side_table_leg_4
+    4300320: Surgery_side_table_leg_3
+    4300322: Drugery_table_hio
+    4300324: Surgery_side_table
+    4300326: Light_handles12
+    4300328: Light_handles11
+    4300330: Sode_lrl1
+    4300332: Light_handles13
+    4300334: Light_handles14
+    4300336: tvv
+    4300338: Top_glass_looking1
+    4300340: Light_handles15
+    4300342: pCube60
+    4300344: pCube93
+    4300346: pCube96
+    4300348: pCube97
+    4300350: Cabinets_Handle6
+    4300352: pCube93
+    4300354: pCube96
+    4300356: pCube97
+    4300358: Cabinets_Handle6
+    4300360: pCube93
+    4300362: pCube96
+    4300364: pCube97
+    4300366: Cabinets_Handle6
+    4300368: pCube93
+    4300370: pCube96
+    4300372: pCube97
+    4300374: Cabinets_Handle6
+    4300376: pCube93
+    4300378: pCube96
+    4300380: pCube97
+    4300382: Cabinets_Handle6
+    4300384: pCube101
+    4300386: Cabinets_Handle11
+    4300388: pCube109
+    4300390: pCube93
+    4300392: pCube96
+    4300394: pCube97
+    4300396: Cabinets_Handle6
+    4300398: pCube93
+    4300400: pCube96
+    4300402: pCube97
+    4300404: Cabinets_Handle6
+    4300406: pCube93
+    4300408: pCube96
+    4300410: pCube97
+    4300412: Cabinets_Handle6
+    4300414: pCube93
+    4300416: pCube96
+    4300418: pCube97
+    4300420: Cabinets_Handle6
+    4300422: pCube93
+    4300424: pCube96
+    4300426: pCube97
+    4300428: Cabinets_Handle6
+    4300430: pCube101
+    4300432: Cabinets_Handle11
+    4300434: pCube109
+    4300436: Cabinets_Handle11
+    4300438: pCube109
+    4300440: Cabinets_Handle11
+    4300442: pCube109
+    4300444: Cabinets_Handle11
+    4300446: pCube109
+    4300448: pCube93
+    4300450: pCube96
+    4300452: pCube97
+    4300454: Cabinets_Handle6
+    4300456: pCube93
+    4300458: pCube96
+    4300460: pCube97
+    4300462: Cabinets_Handle6
+    4300464: pCube93
+    4300466: pCube96
+    4300468: pCube97
+    4300470: Cabinets_Handle6
+    4300472: pCube93
+    4300474: pCube96
+    4300476: pCube97
+    4300478: Cabinets_Handle6
+    4300480: pCube93
+    4300482: pCube96
+    4300484: pCube97
+    4300486: Cabinets_Handle6
+    4300488: pCube101
+    4300490: Cabinets_Handle11
+    4300492: pCube109
+    4300494: Cabinets_Handle11
+    4300496: pCube109
+    4300498: Cabinets_Handle11
+    4300500: pCube109
+    4300502: pCylinder12
+    4300504: pCube131
+    4300506: pCube132
+    4300508: pCube130
+    4300510: pCube126
+    4300512: Cabinets_Handle18
+    4300514: Cabinets_Handle17
+    4300516: pCube125
+    4300518: pCube124
+    4300520: pCube123
+    4300522: Cabinets_Handle16
+    4300524: pCube122
+    4300526: pCube121
+    4300528: pCube120
+    4300530: pCylinder11
+    4300532: pCube116
+    4300534: pCube115
+    4300536: Cabinets_Handle13
+    4300538: pCube114
+    4300540: Cabinets_Handle12
+    4300542: pCube113
+    4300544: pCube112
+    4300546: pCube111
+    4300548: Cabinets_Handle15
+    4300550: Cabinets_Handle14
+    4300552: pCube119
+    4300554: pCube118
+    4300556: pCube117
+    4300558: pCube110
+    4300560: Cabinets_Handle20
+    4300562: pCylinder10
+    4300564: pCylinder14
+    4300566: pCylinder13
+    4300568: pCube127
+    4300570: pCube128
+    4300572: pCube129
+    4300574: pCube131
+    4300576: pCube132
+    4300578: pCube130
+    4300580: pCube126
+    4300582: Cabinets_Handle18
+    4300584: Cabinets_Handle17
+    4300586: pCube125
+    4300588: pCube124
+    4300590: pCube123
+    4300592: Cabinets_Handle16
+    4300594: pCube122
+    4300596: pCube121
+    4300598: pCube120
+    4300600: pCylinder11
+    4300602: pCube116
+    4300604: pCube115
+    4300606: Cabinets_Handle13
+    4300608: pCube114
+    4300610: Cabinets_Handle12
+    4300612: pCube113
+    4300614: pCube112
+    4300616: pCube111
+    4300618: Cabinets_Handle15
+    4300620: Cabinets_Handle14
+    4300622: pCube119
+    4300624: pCube118
+    4300626: pCube117
+    4300628: pCube110
+    4300630: Cabinets_Handle20
+    4300632: pCylinder10
+    4300634: pCylinder14
+    4300636: pCylinder13
+    4300638: pCube127
+    4300640: pCube128
+    4300642: pCube129
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

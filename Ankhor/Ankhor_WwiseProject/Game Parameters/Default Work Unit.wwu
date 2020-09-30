@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{83232D5E-A540-466C-B693-3AD98F043DC3}" SchemaVersion="89">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{83232D5E-A540-466C-B693-3AD98F043DC3}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Distance_PlayerEnemy_RTPC" ID="{0BF9E513-39C2-463D-93A2-442E5FE7C436}">
+					<PropertyList>
+						<Property Name="Max" Type="Real64" Value="150"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Player_Health" ID="{C58C6815-75F4-4F0A-BBB2-616CF7095464}"/>
+				<GameParameter Name="Player_Stamina" ID="{5339AA7F-E9E5-4BD2-BA5B-6DDA887DD6ED}"/>
+				<GameParameter Name="Distance_PlayerObject_RTPC" ID="{A82B3FCD-EE79-401B-8377-7708C00E5168}">
+					<PropertyList>
+						<Property Name="Max" Type="Real64" Value="150"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Distance_PlayerSkeleton_RTPC" ID="{64A8A846-AB80-47FB-A705-277ADBCA780B}">
+					<PropertyList>
+						<Property Name="Max" Type="Real64" Value="150"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Distance_PlayerTV_RTPC" ID="{03E7656D-E920-4B43-8D94-67A477CDA83D}">
+					<PropertyList>
+						<Property Name="Max" Type="Real64" Value="150"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: be36156c772daf646a37723c12085aa8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chain
+    100004: Chain1
+    100006: Chain10
+    100008: Chain11
+    100010: Chain12
+    100012: Chain2
+    100014: Chain3
+    100016: Chain4
+    100018: Chain5
+    100020: Chain6
+    100022: Chain7
+    100024: Chain8
+    100026: Chain9
+    100028: Midde_d
+    100030: Midde_d1
+    100032: Midde_d4
+    100034: Midde_d6
+    100036: Midde_d7
+    100038: Midde_d8
+    100040: Middle_design
+    100042: Middle_design1
+    100044: Middle_design2
+    100046: Middle_design3
+    100048: Middle_design4
+    100050: Middle_design5
+    100052: pCylinder1
+    100054: pCylinder2
+    100056: pCylinder3
+    100058: pCylinder4
+    100060: pSphere1
+    100062: pSphere1 1
+    100064: pSphere1 2
+    100066: pSphere1 3
+    100068: pSphere1 4
+    100070: pSphere1 5
+    100072: pSphere4
+    100074: pSphere4 1
+    100076: pSphere4 2
+    100078: pSphere4 3
+    100080: pSphere4 4
+    100082: pSphere4 5
+    100084: pTorus1
+    100086: pTorus1 1
+    100088: pTorus1 2
+    100090: pTorus1 3
+    100092: pTorus2
+    100094: pTorus2 1
+    100096: pTorus2 2
+    100098: pTorus2 3
+    100100: pTorus2 4
+    100102: pTorus2 5
+    100104: pTorus3
+    100106: pTorus3 1
+    400000: //RootNode
+    400002: Chain
+    400004: Chain1
+    400006: Chain10
+    400008: Chain11
+    400010: Chain12
+    400012: Chain2
+    400014: Chain3
+    400016: Chain4
+    400018: Chain5
+    400020: Chain6
+    400022: Chain7
+    400024: Chain8
+    400026: Chain9
+    400028: Midde_d
+    400030: Midde_d1
+    400032: Midde_d4
+    400034: Midde_d6
+    400036: Midde_d7
+    400038: Midde_d8
+    400040: Middle_design
+    400042: Middle_design1
+    400044: Middle_design2
+    400046: Middle_design3
+    400048: Middle_design4
+    400050: Middle_design5
+    400052: pCylinder1
+    400054: pCylinder2
+    400056: pCylinder3
+    400058: pCylinder4
+    400060: pSphere1
+    400062: pSphere1 1
+    400064: pSphere1 2
+    400066: pSphere1 3
+    400068: pSphere1 4
+    400070: pSphere1 5
+    400072: pSphere4
+    400074: pSphere4 1
+    400076: pSphere4 2
+    400078: pSphere4 3
+    400080: pSphere4 4
+    400082: pSphere4 5
+    400084: pTorus1
+    400086: pTorus1 1
+    400088: pTorus1 2
+    400090: pTorus1 3
+    400092: pTorus2
+    400094: pTorus2 1
+    400096: pTorus2 2
+    400098: pTorus2 3
+    400100: pTorus2 4
+    400102: pTorus2 5
+    400104: pTorus3
+    400106: pTorus3 1
+    2100000: lambert3
+    2100002: lambert2
+    2100004: Dark_Gray
+    2100006: Red
+    2100008: lambert1
+    2100010: lambert6
+    2100012: turkisblue
+    2300000: Chain
+    2300002: Chain1
+    2300004: Chain10
+    2300006: Chain11
+    2300008: Chain12
+    2300010: Chain2
+    2300012: Chain3
+    2300014: Chain4
+    2300016: Chain5
+    2300018: Chain6
+    2300020: Chain7
+    2300022: Chain8
+    2300024: Chain9
+    2300026: pCylinder1
+    2300028: pCylinder2
+    2300030: pCylinder3
+    2300032: pCylinder4
+    2300034: pSphere1
+    2300036: pSphere1 1
+    2300038: pSphere1 2
+    2300040: pSphere1 3
+    2300042: pSphere1 4
+    2300044: pSphere1 5
+    2300046: pSphere4
+    2300048: pSphere4 1
+    2300050: pSphere4 2
+    2300052: pSphere4 3
+    2300054: pSphere4 4
+    2300056: pSphere4 5
+    2300058: pTorus1
+    2300060: pTorus1 1
+    2300062: pTorus1 2
+    2300064: pTorus1 3
+    2300066: pTorus2
+    2300068: pTorus2 1
+    2300070: pTorus2 2
+    2300072: pTorus2 3
+    2300074: pTorus2 4
+    2300076: pTorus2 5
+    2300078: pTorus3
+    2300080: pTorus3 1
+    3300000: Chain
+    3300002: Chain1
+    3300004: Chain10
+    3300006: Chain11
+    3300008: Chain12
+    3300010: Chain2
+    3300012: Chain3
+    3300014: Chain4
+    3300016: Chain5
+    3300018: Chain6
+    3300020: Chain7
+    3300022: Chain8
+    3300024: Chain9
+    3300026: pCylinder1
+    3300028: pCylinder2
+    3300030: pCylinder3
+    3300032: pCylinder4
+    3300034: pSphere1
+    3300036: pSphere1 1
+    3300038: pSphere1 2
+    3300040: pSphere1 3
+    3300042: pSphere1 4
+    3300044: pSphere1 5
+    3300046: pSphere4
+    3300048: pSphere4 1
+    3300050: pSphere4 2
+    3300052: pSphere4 3
+    3300054: pSphere4 4
+    3300056: pSphere4 5
+    3300058: pTorus1
+    3300060: pTorus1 1
+    3300062: pTorus1 2
+    3300064: pTorus1 3
+    3300066: pTorus2
+    3300068: pTorus2 1
+    3300070: pTorus2 2
+    3300072: pTorus2 3
+    3300074: pTorus2 4
+    3300076: pTorus2 5
+    3300078: pTorus3
+    3300080: pTorus3 1
+    4300000: pCylinder2
+    4300002: pCylinder1
+    4300004: Chain
+    4300006: Chain1
+    4300008: Chain2
+    4300010: Chain3
+    4300012: Chain4
+    4300014: Chain5
+    4300016: Chain6
+    4300018: Chain7
+    4300020: Chain8
+    4300022: Chain9
+    4300024: Chain10
+    4300026: Chain11
+    4300028: Chain12
+    4300030: pSphere1
+    4300032: pTorus3
+    4300034: pSphere1
+    4300036: pTorus1
+    4300038: pSphere1
+    4300040: pTorus1
+    4300042: pSphere4
+    4300044: pTorus2
+    4300046: pSphere4
+    4300048: pTorus2
+    4300050: pSphere4
+    4300052: pTorus2
+    4300054: pSphere4
+    4300056: pTorus2
+    4300058: pSphere4
+    4300060: pTorus2
+    4300062: pSphere4
+    4300064: pTorus2
+    4300066: pSphere1
+    4300068: pTorus3
+    4300070: pCylinder4
+    4300072: pCylinder3
+    4300074: pTorus1
+    4300076: pSphere1
+    4300078: pSphere1
+    4300080: pTorus1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

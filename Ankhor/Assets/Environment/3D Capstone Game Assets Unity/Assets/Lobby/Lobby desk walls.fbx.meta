@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: e74780c0a3d8b4812846d26903f5d89f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: lef_side_bue
+    100002: lEF_SIDE_RUI
+    100004: Left_side
+    100006: left_side_cube
+    100008: left_side_cube1
+    100010: left_side_ln
+    100012: LEFT_SIDEKNF
+    100014: //RootNode
+    100016: Lobby_Desks
+    100018: middel_top
+    100020: Middle
+    100022: middle_bottom
+    100024: Middle_Handle1
+    100026: middle_md
+    100028: Right_Side
+    100030: Thick_Wall
+    100032: Thick_Wall2
+    100034: Wall1
+    100036: Wall1 1
+    100038: Wall_bottom_Decor1
+    100040: Wall_bottom_Decor1 1
+    100042: Wall_bottom_Decor2
+    100044: Wall_bottom_Decor2 1
+    100046: Wall_bottom_Decor3
+    100048: Wall_bottom_Decor3 1
+    100050: Wall_bottom_Decor4
+    100052: Wall_bottom_Decor4 1
+    400000: lef_side_bue
+    400002: lEF_SIDE_RUI
+    400004: Left_side
+    400006: left_side_cube
+    400008: left_side_cube1
+    400010: left_side_ln
+    400012: LEFT_SIDEKNF
+    400014: //RootNode
+    400016: Lobby_Desks
+    400018: middel_top
+    400020: Middle
+    400022: middle_bottom
+    400024: Middle_Handle1
+    400026: middle_md
+    400028: Right_Side
+    400030: Thick_Wall
+    400032: Thick_Wall2
+    400034: Wall1
+    400036: Wall1 1
+    400038: Wall_bottom_Decor1
+    400040: Wall_bottom_Decor1 1
+    400042: Wall_bottom_Decor2
+    400044: Wall_bottom_Decor2 1
+    400046: Wall_bottom_Decor3
+    400048: Wall_bottom_Decor3 1
+    400050: Wall_bottom_Decor4
+    400052: Wall_bottom_Decor4 1
+    2100000: White_blinn
+    2100002: light_wood
+    2100004: Dark_blue_gray
+    2100006: lambert15
+    2100008: blinn6
+    2300000: lef_side_bue
+    2300002: lEF_SIDE_RUI
+    2300004: left_side_cube
+    2300006: left_side_cube1
+    2300008: left_side_ln
+    2300010: LEFT_SIDEKNF
+    2300012: middel_top
+    2300014: middle_bottom
+    2300016: Middle_Handle1
+    2300018: middle_md
+    2300020: Wall1
+    2300022: Wall1 1
+    2300024: Wall_bottom_Decor1
+    2300026: Wall_bottom_Decor1 1
+    2300028: Wall_bottom_Decor2
+    2300030: Wall_bottom_Decor2 1
+    2300032: Wall_bottom_Decor3
+    2300034: Wall_bottom_Decor3 1
+    2300036: Wall_bottom_Decor4
+    2300038: Wall_bottom_Decor4 1
+    3300000: lef_side_bue
+    3300002: lEF_SIDE_RUI
+    3300004: left_side_cube
+    3300006: left_side_cube1
+    3300008: left_side_ln
+    3300010: LEFT_SIDEKNF
+    3300012: middel_top
+    3300014: middle_bottom
+    3300016: Middle_Handle1
+    3300018: middle_md
+    3300020: Wall1
+    3300022: Wall1 1
+    3300024: Wall_bottom_Decor1
+    3300026: Wall_bottom_Decor1 1
+    3300028: Wall_bottom_Decor2
+    3300030: Wall_bottom_Decor2 1
+    3300032: Wall_bottom_Decor3
+    3300034: Wall_bottom_Decor3 1
+    3300036: Wall_bottom_Decor4
+    3300038: Wall_bottom_Decor4 1
+    4300000: lEF_SIDE_RUI
+    4300002: LEFT_SIDEKNF
+    4300004: left_side_ln
+    4300006: left_side_cube
+    4300008: lef_side_bue
+    4300010: left_side_cube1
+    4300012: middle_bottom
+    4300014: middle_md
+    4300016: middel_top
+    4300018: Wall1
+    4300020: Wall_bottom_Decor1
+    4300022: Wall_bottom_Decor3
+    4300024: Wall_bottom_Decor2
+    4300026: Wall_bottom_Decor4
+    4300028: Middle_Handle1
+    4300030: Wall1
+    4300032: Wall_bottom_Decor1
+    4300034: Wall_bottom_Decor3
+    4300036: Wall_bottom_Decor2
+    4300038: Wall_bottom_Decor4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

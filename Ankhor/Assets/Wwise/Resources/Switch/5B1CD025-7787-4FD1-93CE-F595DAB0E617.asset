@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7402ce23a717845cca5219a6eceb1ad2, type: 3}
+  m_Name: 5B1CD025-7787-4FD1-93CE-F595DAB0E617
+  m_EditorClassIdentifier: 
+  objectName: Walk_Switch
+  id: 2857728357
+  guid: 5B1CD025-7787-4FD1-93CE-F595DAB0E617
+  WwiseSwitchGroupReference: {fileID: 11400000, guid: 447fe8595f02d48d8aa42933d4904981,
+    type: 2}

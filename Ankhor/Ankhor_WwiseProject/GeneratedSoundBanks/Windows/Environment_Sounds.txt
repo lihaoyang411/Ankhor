@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	47633	Doorknob			\Default Work Unit\Environment Sounds\Doorknob	
+	1051653347	CoffeeMaker			\Default Work Unit\Environment Sounds\CoffeeMaker	
+	1264637305	TVStatic			\Default Work Unit\Environment Sounds\TVStatic	
+	2147376761	BabyCrying			\Default Work Unit\Environment Sounds\BabyCrying	
+	2456371955	SkeletonScream			\Default Work Unit\Environment Sounds\SkeletonScream	
+	3119325427	KeyboardTyping			\Default Work Unit\Environment Sounds\KeyboardTyping	
+	3599883275	PortalHum			\Default Work Unit\Environment Sounds\PortalHum	
+	3920541745	GhostLaugh			\Default Work Unit\Environment Sounds\GhostLaugh	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1454152268	Distance_PlayerTV_RTPC			\Default Work Unit\Distance_PlayerTV_RTPC	
+	3692960713	Distance_PlayerSkeleton_RTPC			\Default Work Unit\Distance_PlayerSkeleton_RTPC	
+	3732311710	Distance_PlayerEnemy_RTPC			\Default Work Unit\Distance_PlayerEnemy_RTPC	
+	3856639305	Distance_PlayerObject_RTPC			\Default Work Unit\Distance_PlayerObject_RTPC	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	235049901	KeyboardTyping_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\KeyboardNoises_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\KeyboardTyping_01		560824
+	463558932	SkeletonScream_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\SkeletonScream_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\SkeletonScream_01		576064
+	619212005	Doorknob_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Doorknob_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\Doorknob_01		127940
+	677703364	CoffeeMaker_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\CoffeeMaker_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\CoffeeMaker_01		30663536
+	792127136	TVStatic_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\TVStatic_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\TVStatic_01		11555728
+	843253878	GhostLaugh_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\GhostLaugh_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\GhostLaugh_01		710900
+	901866227	Portal_Hum	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\Portal_Hum_03_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Portal\Portal_Hum		211316
+	1067241043	BabyCrying_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Windows\SFX\BabyCrying_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World Objects Sounds\BabyCrying_01		1682428
+

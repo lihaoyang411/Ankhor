@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience\Ambience	
+	1598298728	Music_Menu			\Default Work Unit\Music\Music_Menu	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	679636833	MenuMusic			\Default Work Unit\MenuMusic	
+
+Switch	ID	Name	Switch Group			Notes
+	1614942337	MenuMusicOn_Switch	MenuMusic			
+	3494045555	MenuMusicOff_Switch	MenuMusic			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	750544845	Ambience_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Ambience_2_01_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\MusicAndAmbience\Ambience_01		4789836
+	912493496	MainTheme_Menu_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\AnkhorMainTheme_AmbienceOnly_01_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\MusicAndAmbience\MenuMusic_Switch_01\MainTheme_Menu_01		15950908
+

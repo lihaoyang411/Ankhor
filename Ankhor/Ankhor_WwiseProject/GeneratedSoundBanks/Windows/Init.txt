@@ -1,0 +1,23 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2778287673	Enemy_State			\Default Work Unit\Enemy_State	
+	3941853002	Menu_State			\Default Work Unit\Menu_State	
+	4071417932	Player_State			\Default Work Unit\Player_State	
+
+State	ID	Name	State Group			Notes
+	0	None	Enemy_State			
+	417490929	Chase	Enemy_State			
+	1160234136	Normal	Enemy_State			
+	0	None	Menu_State			
+	2679786610	inMainMenu	Menu_State			
+	4153852523	notInMainMenu	Menu_State			
+	0	None	Player_State			
+	1160234136	Normal	Player_State			
+	4174463524	Danger	Player_State			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

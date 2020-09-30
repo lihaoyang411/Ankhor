@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0CE52318-CD8C-4615-856E-C0BE34EDA264}" SchemaVersion="89">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{0CE52318-CD8C-4615-856E-C0BE34EDA264}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Session 1" ID="{00CF1B95-AA03-4E9E-A021-4E406D88E9FA}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="DetectionStinger_01" ID="{AD672180-9239-4DCD-9885-0CD47E8D09B6}" WorkUnitID="{6D6D02EC-4FE0-42F0-BAE8-8BCD08A7DFB5}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="EnemyChase_01" ID="{FA757AC0-DA59-455C-B2F7-1FAFD6720A3F}" WorkUnitID="{6D6D02EC-4FE0-42F0-BAE8-8BCD08A7DFB5}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FootstepsSwitch_Player_01" ID="{0B87F9C3-EFE1-4DC0-AA33-6F9B3587449E}" WorkUnitID="{6D6D02EC-4FE0-42F0-BAE8-8BCD08A7DFB5}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="CultGrunt_01" ID="{048982B4-8A7A-4763-ABF9-32D180CDC0A3}" WorkUnitID="{6D6D02EC-4FE0-42F0-BAE8-8BCD08A7DFB5}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Distance_PlayerEnemy_RTPC" ID="{0BF9E513-39C2-463D-93A2-442E5FE7C436}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Chase" ID="{EDA132C4-3CFF-4DCB-BA1F-6249F8FE7401}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Run_Switch" ID="{BD2022D5-236D-4ABA-988C-1EBBBAFF3CA3}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

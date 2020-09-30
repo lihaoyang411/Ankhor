@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 5d47c25e720d7084e8653acfe47f017f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: candle
+    100002: candle 1
+    100004: candle 2
+    100006: candle 3
+    100008: candle 4
+    100010: Candlebig
+    100012: Candlebig1
+    100014: Candlebig2
+    100016: Candlebig3
+    100018: Candlebig4
+    100020: //RootNode
+    100022: Fire
+    100024: Fire1
+    100026: Fire2
+    100028: Fire3
+    100030: Fire4
+    100032: hANLDE_HOLDER
+    100034: hANLDE_HOLDER1
+    100036: hANLDE_HOLDER2
+    100038: hANLDE_HOLDER3
+    100040: hANLDE_HOLDER4
+    100042: Match
+    100044: Match 1
+    100046: Match 2
+    100048: Match 3
+    100050: Match 4
+    400000: candle
+    400002: candle 1
+    400004: candle 2
+    400006: candle 3
+    400008: candle 4
+    400010: Candlebig
+    400012: Candlebig1
+    400014: Candlebig2
+    400016: Candlebig3
+    400018: Candlebig4
+    400020: //RootNode
+    400022: Fire
+    400024: Fire1
+    400026: Fire2
+    400028: Fire3
+    400030: Fire4
+    400032: hANLDE_HOLDER
+    400034: hANLDE_HOLDER1
+    400036: hANLDE_HOLDER2
+    400038: hANLDE_HOLDER3
+    400040: hANLDE_HOLDER4
+    400042: Match
+    400044: Match 1
+    400046: Match 2
+    400048: Match 3
+    400050: Match 4
+    2100000: blinn1
+    2100002: lambert1
+    2100004: lambert2
+    2100006: rampShader1
+    2300000: candle
+    2300002: candle 1
+    2300004: candle 2
+    2300006: candle 3
+    2300008: candle 4
+    2300010: Fire
+    2300012: Fire1
+    2300014: Fire2
+    2300016: Fire3
+    2300018: Fire4
+    2300020: hANLDE_HOLDER
+    2300022: hANLDE_HOLDER1
+    2300024: hANLDE_HOLDER2
+    2300026: hANLDE_HOLDER3
+    2300028: hANLDE_HOLDER4
+    2300030: Match
+    2300032: Match 1
+    2300034: Match 2
+    2300036: Match 3
+    2300038: Match 4
+    3300000: candle
+    3300002: candle 1
+    3300004: candle 2
+    3300006: candle 3
+    3300008: candle 4
+    3300010: Fire
+    3300012: Fire1
+    3300014: Fire2
+    3300016: Fire3
+    3300018: Fire4
+    3300020: hANLDE_HOLDER
+    3300022: hANLDE_HOLDER1
+    3300024: hANLDE_HOLDER2
+    3300026: hANLDE_HOLDER3
+    3300028: hANLDE_HOLDER4
+    3300030: Match
+    3300032: Match 1
+    3300034: Match 2
+    3300036: Match 3
+    3300038: Match 4
+    4300000: Match
+    4300002: candle
+    4300004: Fire
+    4300006: hANLDE_HOLDER1
+    4300008: Match
+    4300010: candle
+    4300012: Fire4
+    4300014: hANLDE_HOLDER4
+    4300016: Match
+    4300018: candle
+    4300020: Fire3
+    4300022: hANLDE_HOLDER3
+    4300024: Match
+    4300026: candle
+    4300028: Fire2
+    4300030: hANLDE_HOLDER2
+    4300032: Match
+    4300034: candle
+    4300036: Fire1
+    4300038: hANLDE_HOLDER
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

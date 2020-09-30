@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{8F73D53E-FF97-4191-B1B9-58F5122FC516}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Enemy_Sounds" Hash="2764541407" Timestamp="1553725778"/>
+				<File Name="Environment_Sounds" Hash="630603286" Timestamp="1553725778"/>
+				<File Name="Init" Hash="2856388924" Timestamp="1553718782"/>
+				<File Name="Music_Ambience" Hash="1360027070" Timestamp="1553539261"/>
+				<File Name="Player_Sounds" Hash="2352588740" Timestamp="1553726959"/>
+				<File Name="Spirit_Sounds" Hash="2079910684" Timestamp="1553726960"/>
+				<File Name="Stingers" Hash="483684956" Timestamp="1553568767"/>
+				<File Name="UI_Sounds" Hash="1225842434" Timestamp="1553539261"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="1385676731" Timestamp="1553726960"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{E4C18342-B4EE-4DE1-8D18-B1009423F9B1}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Enemy_Sounds" Hash="2764541407" Timestamp="1553725779"/>
+				<File Name="Environment_Sounds" Hash="630603286" Timestamp="1553725778"/>
+				<File Name="Init" Hash="396782434" Timestamp="1553718783"/>
+				<File Name="Music_Ambience" Hash="1360027070" Timestamp="1553539262"/>
+				<File Name="Player_Sounds" Hash="2352588740" Timestamp="1553726960"/>
+				<File Name="Spirit_Sounds" Hash="2079910684" Timestamp="1553726960"/>
+				<File Name="Stingers" Hash="483684956" Timestamp="1553568767"/>
+				<File Name="UI_Sounds" Hash="1225842434" Timestamp="1553539262"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="4234877697" Timestamp="1553726960"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

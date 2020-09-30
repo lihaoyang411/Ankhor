@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 8c8be13cb596d9d418a89dea877c7b1c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: candle
+    100002: candle 1
+    100004: candle 2
+    100006: candle 3
+    100008: candle 4
+    100010: Candlebig
+    100012: Candlebig1
+    100014: Candlebig2
+    100016: Candlebig3
+    100018: Candlebig4
+    100020: Fire
+    100022: Fire1
+    100024: Fire2
+    100026: Fire3
+    100028: Fire4
+    100030: hANLDE_HOLDER
+    100032: hANLDE_HOLDER1
+    100034: hANLDE_HOLDER2
+    100036: hANLDE_HOLDER3
+    100038: hANLDE_HOLDER4
+    100040: Match
+    100042: Match 1
+    100044: Match 2
+    100046: Match 3
+    100048: Match 4
+    100050: pCube10
+    100052: pCube11
+    100054: pCube12
+    100056: pCube13
+    100058: pCube14
+    100060: pCube15
+    100062: pCube16
+    100064: pCube18
+    100066: pCube19
+    100068: pCube2
+    100070: pCube20
+    100072: pCube21
+    100074: pCube22
+    100076: pCube23
+    100078: pCube24
+    100080: pCube25
+    100082: pCube26
+    100084: pCube27
+    100086: pCube28
+    100088: pCube29
+    100090: pCube3
+    100092: pCube30
+    100094: pCube31
+    100096: pCube32
+    100098: pCube33
+    100100: pCube34
+    100102: pCube35
+    100104: pCube36
+    100106: pCube37
+    100108: pCube38
+    100110: pCube39
+    100112: pCube4
+    100114: pCube40
+    100116: pCube41
+    100118: pCube42
+    100120: pCube43
+    100122: pCube5
+    100124: pCube6
+    100126: pCube7
+    100128: pCube8
+    100130: pCube9
+    100132: pCylinder3
+    100134: Shrine
+    100136: //RootNode
+    400000: candle
+    400002: candle 1
+    400004: candle 2
+    400006: candle 3
+    400008: candle 4
+    400010: Candlebig
+    400012: Candlebig1
+    400014: Candlebig2
+    400016: Candlebig3
+    400018: Candlebig4
+    400020: Fire
+    400022: Fire1
+    400024: Fire2
+    400026: Fire3
+    400028: Fire4
+    400030: hANLDE_HOLDER
+    400032: hANLDE_HOLDER1
+    400034: hANLDE_HOLDER2
+    400036: hANLDE_HOLDER3
+    400038: hANLDE_HOLDER4
+    400040: Match
+    400042: Match 1
+    400044: Match 2
+    400046: Match 3
+    400048: Match 4
+    400050: pCube10
+    400052: pCube11
+    400054: pCube12
+    400056: pCube13
+    400058: pCube14
+    400060: pCube15
+    400062: pCube16
+    400064: pCube18
+    400066: pCube19
+    400068: pCube2
+    400070: pCube20
+    400072: pCube21
+    400074: pCube22
+    400076: pCube23
+    400078: pCube24
+    400080: pCube25
+    400082: pCube26
+    400084: pCube27
+    400086: pCube28
+    400088: pCube29
+    400090: pCube3
+    400092: pCube30
+    400094: pCube31
+    400096: pCube32
+    400098: pCube33
+    400100: pCube34
+    400102: pCube35
+    400104: pCube36
+    400106: pCube37
+    400108: pCube38
+    400110: pCube39
+    400112: pCube4
+    400114: pCube40
+    400116: pCube41
+    400118: pCube42
+    400120: pCube43
+    400122: pCube5
+    400124: pCube6
+    400126: pCube7
+    400128: pCube8
+    400130: pCube9
+    400132: pCylinder3
+    400134: Shrine
+    400136: //RootNode
+    2100000: blinn1
+    2100002: lambert11
+    2100004: lambert12
+    2100006: rampShader2
+    2100008: rock
+    2100010: lambert9
+    2100012: lambert13
+    2300000: candle
+    2300002: candle 1
+    2300004: candle 2
+    2300006: candle 3
+    2300008: candle 4
+    2300010: Fire
+    2300012: Fire1
+    2300014: Fire2
+    2300016: Fire3
+    2300018: Fire4
+    2300020: hANLDE_HOLDER
+    2300022: hANLDE_HOLDER1
+    2300024: hANLDE_HOLDER2
+    2300026: hANLDE_HOLDER3
+    2300028: hANLDE_HOLDER4
+    2300030: Match
+    2300032: Match 1
+    2300034: Match 2
+    2300036: Match 3
+    2300038: Match 4
+    2300040: pCube10
+    2300042: pCube11
+    2300044: pCube12
+    2300046: pCube13
+    2300048: pCube14
+    2300050: pCube15
+    2300052: pCube16
+    2300054: pCube18
+    2300056: pCube19
+    2300058: pCube2
+    2300060: pCube20
+    2300062: pCube21
+    2300064: pCube22
+    2300066: pCube23
+    2300068: pCube24
+    2300070: pCube25
+    2300072: pCube26
+    2300074: pCube27
+    2300076: pCube28
+    2300078: pCube29
+    2300080: pCube3
+    2300082: pCube30
+    2300084: pCube31
+    2300086: pCube32
+    2300088: pCube33
+    2300090: pCube34
+    2300092: pCube35
+    2300094: pCube36
+    2300096: pCube37
+    2300098: pCube38
+    2300100: pCube39
+    2300102: pCube4
+    2300104: pCube40
+    2300106: pCube41
+    2300108: pCube42
+    2300110: pCube43
+    2300112: pCube5
+    2300114: pCube6
+    2300116: pCube7
+    2300118: pCube8
+    2300120: pCube9
+    2300122: pCylinder3
+    3300000: candle
+    3300002: candle 1
+    3300004: candle 2
+    3300006: candle 3
+    3300008: candle 4
+    3300010: Fire
+    3300012: Fire1
+    3300014: Fire2
+    3300016: Fire3
+    3300018: Fire4
+    3300020: hANLDE_HOLDER
+    3300022: hANLDE_HOLDER1
+    3300024: hANLDE_HOLDER2
+    3300026: hANLDE_HOLDER3
+    3300028: hANLDE_HOLDER4
+    3300030: Match
+    3300032: Match 1
+    3300034: Match 2
+    3300036: Match 3
+    3300038: Match 4
+    3300040: pCube10
+    3300042: pCube11
+    3300044: pCube12
+    3300046: pCube13
+    3300048: pCube14
+    3300050: pCube15
+    3300052: pCube16
+    3300054: pCube18
+    3300056: pCube19
+    3300058: pCube2
+    3300060: pCube20
+    3300062: pCube21
+    3300064: pCube22
+    3300066: pCube23
+    3300068: pCube24
+    3300070: pCube25
+    3300072: pCube26
+    3300074: pCube27
+    3300076: pCube28
+    3300078: pCube29
+    3300080: pCube3
+    3300082: pCube30
+    3300084: pCube31
+    3300086: pCube32
+    3300088: pCube33
+    3300090: pCube34
+    3300092: pCube35
+    3300094: pCube36
+    3300096: pCube37
+    3300098: pCube38
+    3300100: pCube39
+    3300102: pCube4
+    3300104: pCube40
+    3300106: pCube41
+    3300108: pCube42
+    3300110: pCube43
+    3300112: pCube5
+    3300114: pCube6
+    3300116: pCube7
+    3300118: pCube8
+    3300120: pCube9
+    3300122: pCylinder3
+    4300000: Match
+    4300002: candle
+    4300004: Fire
+    4300006: hANLDE_HOLDER1
+    4300008: Match
+    4300010: candle
+    4300012: Fire4
+    4300014: hANLDE_HOLDER4
+    4300016: Match
+    4300018: candle
+    4300020: Fire3
+    4300022: hANLDE_HOLDER3
+    4300024: Match
+    4300026: candle
+    4300028: Fire2
+    4300030: hANLDE_HOLDER2
+    4300032: Match
+    4300034: candle
+    4300036: Fire1
+    4300038: hANLDE_HOLDER
+    4300040: pCube8
+    4300042: pCube10
+    4300044: pCube11
+    4300046: pCube15
+    4300048: pCube2
+    4300050: pCube3
+    4300052: pCube4
+    4300054: pCube5
+    4300056: pCube33
+    4300058: pCube34
+    4300060: pCube35
+    4300062: pCube12
+    4300064: pCube13
+    4300066: pCube16
+    4300068: pCube36
+    4300070: pCube6
+    4300072: pCube7
+    4300074: pCube37
+    4300076: pCube38
+    4300078: pCylinder3
+    4300080: pCube32
+    4300082: pCube31
+    4300084: pCube21
+    4300086: pCube20
+    4300088: pCube19
+    4300090: pCube39
+    4300092: pCube40
+    4300094: pCube14
+    4300096: pCube24
+    4300098: pCube29
+    4300100: pCube28
+    4300102: pCube27
+    4300104: pCube26
+    4300106: pCube30
+    4300108: pCube23
+    4300110: pCube25
+    4300112: pCube22
+    4300114: pCube41
+    4300116: pCube42
+    4300118: pCube43
+    4300120: pCube9
+    4300122: pCube18
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

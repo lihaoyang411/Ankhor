@@ -1,0 +1,48 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1532058140	Whispers_Demon			\Default Work Unit\Enemy Sounds\Whispers_Demon	
+	1625256434	Footsteps_Ankhor			\Default Work Unit\Enemy Sounds\Footsteps_Ankhor	
+	2970929098	Footsteps_Cultists			\Default Work Unit\Enemy Sounds\Footsteps_Cultists	
+	3942040290	Footsteps_Demon			\Default Work Unit\Enemy Sounds\Footsteps_Demon	
+	4115244055	EnemyChase			\Default Work Unit\Enemy Sounds\EnemyChase	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	4160739938	MoveType			\Default Work Unit\MoveType	
+
+Switch	ID	Name	Switch Group			Notes
+	899311691	Run_Switch	MoveType			
+	2274660714	Idle_Switch	MoveType			
+	2699702930	Crouch_Switch	MoveType			
+	2857728357	Walk_Switch	MoveType			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2778287673	Enemy_State			\Default Work Unit\Enemy_State	
+
+State	ID	Name	State Group			Notes
+	0	None	Enemy_State			
+	417490929	Chase	Enemy_State			
+	1160234136	Normal	Enemy_State			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	472063028	Normal	Enemy_State	\Actor-Mixer Hierarchy\Default Work Unit\MusicAndAmbience\EnemyChase_01		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3732311710	Distance_PlayerEnemy_RTPC			\Default Work Unit\Distance_PlayerEnemy_RTPC	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	111426474	Whisper_10	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_10_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_10		955692
+	123928074	Whisper_11	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_11_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_11		918816
+	189271403	Footstep_2	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151238__owlstorm__hard-female-footstep-2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Enemy_01\FootstepsContainer_Run\Footstep_2		35524
+	260718297	Whisper_04	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_04_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_04		674544
+	299185223	Whisper_02	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_02_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_02		587124
+	312616528	Whisper_08	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_08_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_08		722324
+	460884664	Whisper_03	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_03_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_03		442864
+	567477671	Footstep_1	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151232__owlstorm__hard-female-footstep-1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Enemy_01\FootstepsContainer_Run\Footstep_1		44856
+	802161905	Whisper_06	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_06_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_06		673276
+	816117101	Footstep_3	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\151237__owlstorm__hard-female-footstep-3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FootstepsSwitch_Enemy_01\FootstepsContainer_Run\Footstep_3		43904
+	819443529	Whisper_05	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_05_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_05		576492
+	860375800	Whisper_09	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_09_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_09		904780
+	916561476	Whisper_12	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_12_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_12		991340
+	955746045	Whisper_07	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_07_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_07		700588
+	992052277	EnemyChase_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Enemy Chase 1_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\MusicAndAmbience\EnemyChase_01		705744
+	1035853678	Whisper_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\Whisper_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy Voice Sounds\Whispers\Whisper_01		961656
+

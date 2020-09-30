@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1161150732	UI_BasicClick			\Default Work Unit\UI Sounds\UI_BasicClick	
+	3489359053	UI_PressStart			\Default Work Unit\UI Sounds\UI_PressStart	
+	4288481313	UI_Rollover			\Default Work Unit\UI Sounds\UI_Rollover	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8039456	UI_StartClick_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\UI_StartClick_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_StartClick_01		1151184
+	264282552	UI_BasicClick_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\UI_BasicClick_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_BasicClick_01		20120
+	785303725	UI_Rollover_01	Y:\Documents\3D Capstone\capstone3d\Ankhor\Ankhor_WwiseProject\.cache\Mac\SFX\UI_Rollover_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_Rollover_01		48056
+
